@@ -84,6 +84,10 @@ This project automates the process of fetching financial data (Balance Sheet, Pr
 4. **Display Real-time Analysis:**  
      Output results to the terminal and web page for monitoring.
 
+    5. **Sample Output:**  
+        ![Sample Analysis Output](sample_analysis_output.png)
+
+
 ---
 
 ## Database Schema
