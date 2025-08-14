@@ -1,0 +1,91 @@
+Machine Learning Financial Analysis Project
+Documentation for Interns
+
+This guide provides a comprehensive overview of the project, including API usage, workflow, and deliverables. Use the navigation to explore sections and download resources.
+
+Project Overview
+This project fetches financial data (Balance Sheet, Profit & Loss, Cash Flow) from an API, performs machine learning operations to generate insights, and stores results in a MySQL database. Real-time analysis is displayed in the terminal and on a web page for easy access and visualization.
+
+Tech Stack
+Programming Language: Python
+Database: MySQL
+Tools: VS Code
+Packages: Pandas, Requests, SQLAlchemy, Scikit-learn
+Frontend Web App: Custom-built for real-time analysis display
+Data Source
+Financial data is sourced from the StockTicker API. Below are the details to access and use the API effectively.
+
+Base URL: https://bluemutualfund.in/server/api/company.php Copy URL
+
+Company List: Available in an Excel file (Nifty100Companies).
+
+Download Company List
+API Documentation
+Endpoint: GET https://bluemutualfund.in/server/api/company.php
+
+Parameters:
+
+id={company_id} (e.g., TCS, HDFCBANK, DMART)
+api_key=ghfkffu6378382826hhdjgk
+Sample API Call: https://bluemutualfund.in/server/api/company.php?id=TCS&api_key=ghfkffu6378382826hhdjgk Copy URL
+
+Test Sample API
+Note: Use the provided API key and replace {company_id} with valid company IDs from the Nifty100Companies Excel file.
+
+Project Workflow
+1. Fetch Financial Data
+Send company IDs one by one to the API endpoint to retrieve Balance Sheet, Profit & Loss, and Cash Flow statements.
+
+2. Perform Machine Learning Operations
+Generate insights by analyzing financial data and categorizing metrics into pros (values > 10%) and cons (values < 10%). Titles are added dynamically based on the company.
+
+Pros (Values > 10%)
+Company is almost debt-free.
+Company has reduced debt.
+Company has a good return on equity (ROE) track record: 3 Years ROE 47.4%
+Company has been maintaining a healthy dividend payout of 66.2%
+Company has delivered good profit growth of 23.0%
+Company's median sales growth is 28.3% of last 10 years
+Cons (Values < 10%)
+The company has delivered a poor sales growth of 9.5% over past five years.
+Company is not paying out dividend.
+The company has delivered a poor sales growth of 9.72% over past five years.
+Company has a low return on equity of 8.33% over last 3 years.
+Select up to 3 pros and cons that best match the data for each company.
+
+Sample Analysis Output
+Sample Financial Analysis
+Sample output showing financial analysis with pros (e.g., debt-free, high ROE) and cons (e.g., low sales growth, no dividend).
+
+3. Store Results in MySQL
+Save generated insights, pros, and cons into a pre-existing MySQL database (table: ml).
+
+4. Display Real-time Analysis
+Output results to the terminal and display them on a web page for real-time monitoring.
+
+Database Schema
+Table Name: ml (pre-existing)
+
+Download the database structure for reference.
+
+Download Database Schema
+Frontend Web App
+Live URL: https://bluemutualfund.in/app1/ Copy URL
+
+Company Analysis Page: https://bluemutualfund.in/app1/pages/company.php?id={company_id} Copy URL
+
+View All Companies: https://bluemutualfund.in/app1/view_all.html Copy URL
+
+Functionality:
+
+Display financial analysis for individual companies.
+Provide comparison between multiple companies.
+Project Deliverables
+Python Scripts: Fetch data, apply ML, and store results in MySQL.
+Web Page: Display ML-generated insights (visible only after analyzing 100 companies and clicking the project run button).
+Database Integration: MySQL storage for financial analysis.
+Project Documentation: This guide for team collaboration.
+Next Steps
+Implement Python scripts for API fetching and ML operations.
+Develop the web interface for real-time analysis monitoring.
+Test and optimize ML models for accurate financial forecasting.
