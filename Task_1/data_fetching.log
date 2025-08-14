@@ -1,0 +1,788 @@
+2025-08-14 19:50:15,620 [INFO] - --- Starting Financial Data Fetching Process ---
+2025-08-14 19:50:15,831 [ERROR] - 'Company ID' column not found in the Excel file.
+2025-08-14 19:50:15,832 [ERROR] - No company IDs loaded. Exiting.
+2025-08-14 19:50:35,412 [INFO] - --- Starting Financial Data Fetching Process ---
+2025-08-14 19:50:35,529 [ERROR] - 'Company ID' column not found in the Excel file.
+2025-08-14 19:50:35,529 [ERROR] - No company IDs loaded. Exiting.
+2025-08-14 19:50:52,072 [INFO] - --- Starting Financial Data Fetching Process ---
+2025-08-14 19:50:52,192 [ERROR] - 'Company ID' column not found in the Excel file.
+2025-08-14 19:50:52,192 [ERROR] - No company IDs loaded. Exiting.
+2025-08-14 19:53:07,051 [INFO] - --- Starting Financial Data Fetching Process ---
+2025-08-14 19:53:07,163 [INFO] - Loaded 99 unique company IDs.
+2025-08-14 19:53:07,163 [INFO] - Fetching data for company: ABB
+2025-08-14 19:53:08,572 [WARNING] - Validation failed for ABB. Missing one or more required fields.
+2025-08-14 19:53:08,575 [INFO] - Fetching data for company: ADANIENSOL
+2025-08-14 19:53:09,509 [WARNING] - Validation failed for ADANIENSOL. Missing one or more required fields.
+2025-08-14 19:53:09,509 [INFO] - Fetching data for company: ADANIENT
+2025-08-14 19:53:11,294 [WARNING] - Validation failed for ADANIENT. Missing one or more required fields.
+2025-08-14 19:53:11,294 [INFO] - Fetching data for company: ADANIGREEN
+2025-08-14 19:53:12,259 [WARNING] - Validation failed for ADANIGREEN. Missing one or more required fields.
+2025-08-14 19:53:12,260 [INFO] - Fetching data for company: ADANIPORTS
+2025-08-14 19:53:13,218 [WARNING] - Validation failed for ADANIPORTS. Missing one or more required fields.
+2025-08-14 19:53:13,218 [INFO] - Fetching data for company: ADANIPOWER
+2025-08-14 19:53:14,809 [WARNING] - Validation failed for ADANIPOWER. Missing one or more required fields.
+2025-08-14 19:53:14,809 [INFO] - Fetching data for company: AMBUJACEM
+2025-08-14 19:53:15,778 [WARNING] - Validation failed for AMBUJACEM. Missing one or more required fields.
+2025-08-14 19:53:15,778 [INFO] - Fetching data for company: APOLLOHOSP
+2025-08-14 19:53:17,050 [WARNING] - Validation failed for APOLLOHOSP. Missing one or more required fields.
+2025-08-14 19:53:17,050 [INFO] - Fetching data for company: ASIANPAINT
+2025-08-14 19:53:18,505 [WARNING] - Validation failed for ASIANPAINT. Missing one or more required fields.
+2025-08-14 19:53:18,505 [INFO] - Fetching data for company: ATGL
+2025-08-14 19:53:19,771 [WARNING] - Validation failed for ATGL. Missing one or more required fields.
+2025-08-14 19:53:19,771 [INFO] - Fetching data for company: AXISBANK
+2025-08-14 19:53:21,594 [WARNING] - Validation failed for AXISBANK. Missing one or more required fields.
+2025-08-14 19:53:21,610 [INFO] - Fetching data for company: BAJAJ-AUTO
+2025-08-14 19:53:22,663 [WARNING] - Validation failed for BAJAJ-AUTO. Missing one or more required fields.
+2025-08-14 19:53:22,663 [INFO] - Fetching data for company: BAJAJFINSV
+2025-08-14 19:53:23,619 [WARNING] - Validation failed for BAJAJFINSV. Missing one or more required fields.
+2025-08-14 19:53:23,620 [INFO] - Fetching data for company: BAJAJHLDNG
+2025-08-14 19:53:24,577 [WARNING] - Validation failed for BAJAJHLDNG. Missing one or more required fields.
+2025-08-14 19:53:24,579 [INFO] - Fetching data for company: BAJFINANCE
+2025-08-14 19:53:25,722 [WARNING] - Validation failed for BAJFINANCE. Missing one or more required fields.
+2025-08-14 19:53:25,723 [INFO] - Fetching data for company: BANKBARODA
+2025-08-14 19:53:26,522 [WARNING] - Validation failed for BANKBARODA. Missing one or more required fields.
+2025-08-14 19:53:26,522 [INFO] - Fetching data for company: BEL
+2025-08-14 19:53:27,781 [WARNING] - Validation failed for BEL. Missing one or more required fields.
+2025-08-14 19:53:27,781 [INFO] - Fetching data for company: BHARTIARTL
+2025-08-14 19:53:29,379 [WARNING] - Validation failed for BHARTIARTL. Missing one or more required fields.
+2025-08-14 19:53:29,387 [INFO] - Fetching data for company: BHEL
+2025-08-14 19:53:30,441 [WARNING] - Validation failed for BHEL. Missing one or more required fields.
+2025-08-14 19:53:30,441 [INFO] - Fetching data for company: BOSCHLTD
+2025-08-14 19:53:31,458 [WARNING] - Validation failed for BOSCHLTD. Missing one or more required fields.
+2025-08-14 19:53:31,458 [INFO] - Fetching data for company: BPCL
+2025-08-14 19:53:32,900 [WARNING] - Validation failed for BPCL. Missing one or more required fields.
+2025-08-14 19:53:32,900 [INFO] - Fetching data for company: BRITANNIA
+2025-08-14 19:53:34,012 [WARNING] - Validation failed for BRITANNIA. Missing one or more required fields.
+2025-08-14 19:53:34,012 [INFO] - Fetching data for company: CANBK
+2025-08-14 19:53:36,101 [WARNING] - Validation failed for CANBK. Missing one or more required fields.
+2025-08-14 19:53:36,101 [INFO] - Fetching data for company: CHOLAFIN
+2025-08-14 19:53:38,181 [WARNING] - Validation failed for CHOLAFIN. Missing one or more required fields.
+2025-08-14 19:53:38,182 [INFO] - Fetching data for company: CIPLA
+2025-08-14 19:53:39,143 [WARNING] - Validation failed for CIPLA. Missing one or more required fields.
+2025-08-14 19:53:39,143 [INFO] - Fetching data for company: COALINDIA
+2025-08-14 19:53:40,101 [WARNING] - Validation failed for COALINDIA. Missing one or more required fields.
+2025-08-14 19:53:40,101 [INFO] - Fetching data for company: DABUR
+2025-08-14 19:53:41,382 [WARNING] - Validation failed for DABUR. Missing one or more required fields.
+2025-08-14 19:53:41,382 [INFO] - Fetching data for company: DLF
+2025-08-14 19:53:42,651 [WARNING] - Validation failed for DLF. Missing one or more required fields.
+2025-08-14 19:53:42,651 [INFO] - Fetching data for company: DMART
+2025-08-14 19:53:43,618 [WARNING] - Validation failed for DMART. Missing one or more required fields.
+2025-08-14 19:53:43,618 [INFO] - Fetching data for company: DRREDDY
+2025-08-14 19:53:44,917 [WARNING] - Validation failed for DRREDDY. Missing one or more required fields.
+2025-08-14 19:53:44,917 [INFO] - Fetching data for company: EICHERMOT
+2025-08-14 19:53:45,984 [WARNING] - Validation failed for EICHERMOT. Missing one or more required fields.
+2025-08-14 19:53:45,984 [INFO] - Fetching data for company: GAIL
+2025-08-14 19:53:46,942 [WARNING] - Validation failed for GAIL. Missing one or more required fields.
+2025-08-14 19:53:46,942 [INFO] - Fetching data for company: GODREJCP
+2025-08-14 19:53:47,782 [WARNING] - Validation failed for GODREJCP. Missing one or more required fields.
+2025-08-14 19:53:47,782 [INFO] - Fetching data for company: GRASIM
+2025-08-14 19:53:49,384 [WARNING] - Validation failed for GRASIM. Missing one or more required fields.
+2025-08-14 19:53:49,384 [INFO] - Fetching data for company: HAL
+2025-08-14 19:53:51,250 [WARNING] - Validation failed for HAL. Missing one or more required fields.
+2025-08-14 19:53:51,250 [INFO] - Fetching data for company: HAVELLS
+2025-08-14 19:53:52,277 [WARNING] - Validation failed for HAVELLS. Missing one or more required fields.
+2025-08-14 19:53:52,282 [INFO] - Fetching data for company: HCLTECH
+2025-08-14 19:53:53,367 [WARNING] - Validation failed for HCLTECH. Missing one or more required fields.
+2025-08-14 19:53:53,367 [INFO] - Fetching data for company: HDFCBANK
+2025-08-14 19:53:54,926 [WARNING] - Validation failed for HDFCBANK. Missing one or more required fields.
+2025-08-14 19:53:54,926 [INFO] - Fetching data for company: HDFCLIFE
+2025-08-14 19:53:56,259 [WARNING] - Validation failed for HDFCLIFE. Missing one or more required fields.
+2025-08-14 19:53:56,260 [INFO] - Fetching data for company: HEROMOTOCO
+2025-08-14 19:54:01,222 [WARNING] - Validation failed for HEROMOTOCO. Missing one or more required fields.
+2025-08-14 19:54:01,222 [INFO] - Fetching data for company: HINDALCO
+2025-08-14 19:54:11,548 [WARNING] - Request for HINDALCO timed out. Attempt 1 of 3.
+2025-08-14 19:54:17,540 [WARNING] - Validation failed for HINDALCO. Missing one or more required fields.
+2025-08-14 19:54:17,544 [INFO] - Fetching data for company: HINDUNILVR
+2025-08-14 19:54:18,821 [WARNING] - Validation failed for HINDUNILVR. Missing one or more required fields.
+2025-08-14 19:54:18,821 [INFO] - Fetching data for company: ICICIBANK
+2025-08-14 19:54:20,097 [WARNING] - Validation failed for ICICIBANK. Missing one or more required fields.
+2025-08-14 19:54:20,097 [INFO] - Fetching data for company: ICICIGI
+2025-08-14 19:54:21,852 [WARNING] - Validation failed for ICICIGI. Missing one or more required fields.
+2025-08-14 19:54:21,852 [INFO] - Fetching data for company: ICICIPRULI
+2025-08-14 19:54:23,134 [WARNING] - Validation failed for ICICIPRULI. Missing one or more required fields.
+2025-08-14 19:54:23,134 [INFO] - Fetching data for company: INDIGO
+2025-08-14 19:54:24,845 [WARNING] - Validation failed for INDIGO. Missing one or more required fields.
+2025-08-14 19:54:24,845 [INFO] - Fetching data for company: INDUSINDBK
+2025-08-14 19:54:25,861 [WARNING] - Validation failed for INDUSINDBK. Missing one or more required fields.
+2025-08-14 19:54:25,861 [INFO] - Fetching data for company: INFY
+2025-08-14 19:54:26,663 [WARNING] - Validation failed for INFY. Missing one or more required fields.
+2025-08-14 19:54:26,663 [INFO] - Fetching data for company: IOC
+2025-08-14 19:54:28,897 [WARNING] - Validation failed for IOC. Missing one or more required fields.
+2025-08-14 19:54:28,897 [INFO] - Fetching data for company: IRCTC
+2025-08-14 19:54:29,851 [WARNING] - Validation failed for IRCTC. Missing one or more required fields.
+2025-08-14 19:54:29,851 [INFO] - Fetching data for company: IRFC
+2025-08-14 19:54:30,967 [WARNING] - Validation failed for IRFC. Missing one or more required fields.
+2025-08-14 19:54:30,982 [INFO] - Fetching data for company: ITC
+2025-08-14 19:54:32,418 [WARNING] - Validation failed for ITC. Missing one or more required fields.
+2025-08-14 19:54:32,418 [INFO] - Fetching data for company: JINDALSTEL
+2025-08-14 19:54:33,500 [WARNING] - Validation failed for JINDALSTEL. Missing one or more required fields.
+2025-08-14 19:54:33,500 [INFO] - Fetching data for company: JIOFIN
+2025-08-14 19:54:34,334 [WARNING] - Validation failed for JIOFIN. Missing one or more required fields.
+2025-08-14 19:54:34,334 [INFO] - Fetching data for company: JSWENERGY
+2025-08-14 19:54:35,140 [WARNING] - Validation failed for JSWENERGY. Missing one or more required fields.
+2025-08-14 19:54:35,140 [INFO] - Fetching data for company: JSWSTEEL
+2025-08-14 19:54:37,584 [WARNING] - Validation failed for JSWSTEEL. Missing one or more required fields.
+2025-08-14 19:54:37,584 [INFO] - Fetching data for company: KOTAKBANK
+2025-08-14 19:54:38,981 [WARNING] - Validation failed for KOTAKBANK. Missing one or more required fields.
+2025-08-14 19:54:38,981 [INFO] - Fetching data for company: LICI
+2025-08-14 19:54:40,093 [WARNING] - Validation failed for LICI. Missing one or more required fields.
+2025-08-14 19:54:40,093 [INFO] - Fetching data for company: LODHA
+2025-08-14 19:54:41,059 [WARNING] - Validation failed for LODHA. Missing one or more required fields.
+2025-08-14 19:54:41,059 [INFO] - Fetching data for company: LT
+2025-08-14 19:54:41,991 [WARNING] - Validation failed for LT. Missing one or more required fields.
+2025-08-14 19:54:41,991 [INFO] - Fetching data for company: LTIM
+2025-08-14 19:54:43,142 [WARNING] - Validation failed for LTIM. Missing one or more required fields.
+2025-08-14 19:54:43,142 [INFO] - Fetching data for company: M&M
+2025-08-14 19:54:44,101 [WARNING] - Validation failed for M&M. Missing one or more required fields.
+2025-08-14 19:54:44,101 [INFO] - Fetching data for company: MARUTI
+2025-08-14 19:54:45,692 [WARNING] - Validation failed for MARUTI. Missing one or more required fields.
+2025-08-14 19:54:45,692 [INFO] - Fetching data for company: MOTHERSON
+2025-08-14 19:54:49,049 [WARNING] - Validation failed for MOTHERSON. Missing one or more required fields.
+2025-08-14 19:54:49,049 [INFO] - Fetching data for company: NAUKRI
+2025-08-14 19:54:49,846 [WARNING] - Validation failed for NAUKRI. Missing one or more required fields.
+2025-08-14 19:54:49,846 [INFO] - Fetching data for company: NESTLEIND
+2025-08-14 19:54:51,694 [WARNING] - Validation failed for NESTLEIND. Missing one or more required fields.
+2025-08-14 19:54:51,696 [INFO] - Fetching data for company: NHPC
+2025-08-14 19:54:53,062 [WARNING] - Validation failed for NHPC. Missing one or more required fields.
+2025-08-14 19:54:53,062 [INFO] - Fetching data for company: NTPC
+2025-08-14 19:54:54,007 [WARNING] - Validation failed for NTPC. Missing one or more required fields.
+2025-08-14 19:54:54,022 [INFO] - Fetching data for company: ONGC
+2025-08-14 19:54:55,127 [WARNING] - Validation failed for ONGC. Missing one or more required fields.
+2025-08-14 19:54:55,127 [INFO] - Fetching data for company: PFC
+2025-08-14 19:54:56,412 [WARNING] - Validation failed for PFC. Missing one or more required fields.
+2025-08-14 19:54:56,412 [INFO] - Fetching data for company: PIDILITIND
+2025-08-14 19:54:57,374 [WARNING] - Validation failed for PIDILITIND. Missing one or more required fields.
+2025-08-14 19:54:57,374 [INFO] - Fetching data for company: PNB
+2025-08-14 19:54:59,457 [WARNING] - Validation failed for PNB. Missing one or more required fields.
+2025-08-14 19:54:59,457 [INFO] - Fetching data for company: POWERGRID
+2025-08-14 19:55:00,898 [WARNING] - Validation failed for POWERGRID. Missing one or more required fields.
+2025-08-14 19:55:00,898 [INFO] - Fetching data for company: RECLTD
+2025-08-14 19:55:02,337 [WARNING] - Validation failed for RECLTD. Missing one or more required fields.
+2025-08-14 19:55:02,337 [INFO] - Fetching data for company: RELIANCE
+2025-08-14 19:55:03,260 [WARNING] - Validation failed for RELIANCE. Missing one or more required fields.
+2025-08-14 19:55:03,260 [INFO] - Fetching data for company: SBILIFE
+2025-08-14 19:55:04,260 [WARNING] - Validation failed for SBILIFE. Missing one or more required fields.
+2025-08-14 19:55:04,260 [INFO] - Fetching data for company: SBIN
+2025-08-14 19:55:05,698 [WARNING] - Validation failed for SBIN. Missing one or more required fields.
+2025-08-14 19:55:05,698 [INFO] - Fetching data for company: SHREECEM
+2025-08-14 19:55:09,220 [WARNING] - Validation failed for SHREECEM. Missing one or more required fields.
+2025-08-14 19:55:09,220 [INFO] - Fetching data for company: SHRIRAMFIN
+2025-08-14 19:55:10,176 [WARNING] - Validation failed for SHRIRAMFIN. Missing one or more required fields.
+2025-08-14 19:55:10,176 [INFO] - Fetching data for company: SIEMENS
+2025-08-14 19:55:12,410 [WARNING] - Validation failed for SIEMENS. Missing one or more required fields.
+2025-08-14 19:55:12,410 [INFO] - Fetching data for company: SUNPHARMA
+2025-08-14 19:55:14,333 [WARNING] - Validation failed for SUNPHARMA. Missing one or more required fields.
+2025-08-14 19:55:14,333 [INFO] - Fetching data for company: TATACONSUM
+2025-08-14 19:55:15,939 [WARNING] - Validation failed for TATACONSUM. Missing one or more required fields.
+2025-08-14 19:55:15,939 [INFO] - Fetching data for company: TATAMOTORS
+2025-08-14 19:55:17,700 [WARNING] - Validation failed for TATAMOTORS. Missing one or more required fields.
+2025-08-14 19:55:17,700 [INFO] - Fetching data for company: TATAPOWER
+2025-08-14 19:55:18,816 [WARNING] - Validation failed for TATAPOWER. Missing one or more required fields.
+2025-08-14 19:55:18,816 [INFO] - Fetching data for company: TATASTEEL
+2025-08-14 19:55:20,892 [WARNING] - Validation failed for TATASTEEL. Missing one or more required fields.
+2025-08-14 19:55:20,892 [INFO] - Fetching data for company: TCS
+2025-08-14 19:55:23,141 [WARNING] - Validation failed for TCS. Missing one or more required fields.
+2025-08-14 19:55:23,141 [INFO] - Fetching data for company: TECHM
+2025-08-14 19:55:24,100 [WARNING] - Validation failed for TECHM. Missing one or more required fields.
+2025-08-14 19:55:24,100 [INFO] - Fetching data for company: TITAN
+2025-08-14 19:58:23,088 [INFO] - --- Starting Financial Data Fetching Process ---
+2025-08-14 19:58:23,210 [INFO] - Loaded 99 unique company IDs.
+2025-08-14 19:58:23,210 [INFO] - Fetching data for company: ABB
+2025-08-14 19:58:24,366 [WARNING] - Validation failed for ABB. Missing one or more required fields.
+2025-08-14 19:58:24,366 [INFO] - Fetching data for company: ADANIENSOL
+2025-08-14 19:58:25,525 [WARNING] - Validation failed for ADANIENSOL. Missing one or more required fields.
+2025-08-14 19:58:25,526 [INFO] - Fetching data for company: ADANIENT
+2025-08-14 19:58:26,497 [WARNING] - Validation failed for ADANIENT. Missing one or more required fields.
+2025-08-14 19:58:26,497 [INFO] - Fetching data for company: ADANIGREEN
+2025-08-14 19:58:27,618 [WARNING] - Validation failed for ADANIGREEN. Missing one or more required fields.
+2025-08-14 19:58:27,618 [INFO] - Fetching data for company: ADANIPORTS
+2025-08-14 19:58:28,693 [WARNING] - Validation failed for ADANIPORTS. Missing one or more required fields.
+2025-08-14 19:58:28,694 [INFO] - Fetching data for company: ADANIPOWER
+2025-08-14 19:58:32,256 [WARNING] - Validation failed for ADANIPOWER. Missing one or more required fields.
+2025-08-14 19:58:32,256 [INFO] - Fetching data for company: AMBUJACEM
+2025-08-14 19:58:32,600 [WARNING] - Validation failed for AMBUJACEM. Missing one or more required fields.
+2025-08-14 19:58:32,600 [INFO] - Fetching data for company: APOLLOHOSP
+2025-08-14 19:58:34,700 [WARNING] - Validation failed for APOLLOHOSP. Missing one or more required fields.
+2025-08-14 19:58:34,700 [INFO] - Fetching data for company: ASIANPAINT
+2025-08-14 19:58:36,672 [WARNING] - Validation failed for ASIANPAINT. Missing one or more required fields.
+2025-08-14 19:58:36,672 [INFO] - Fetching data for company: ATGL
+2025-08-14 19:58:41,698 [WARNING] - Validation failed for ATGL. Missing one or more required fields.
+2025-08-14 19:58:41,698 [INFO] - Fetching data for company: AXISBANK
+2025-08-14 19:58:43,936 [WARNING] - Validation failed for AXISBANK. Missing one or more required fields.
+2025-08-14 19:58:43,937 [INFO] - Fetching data for company: BAJAJ-AUTO
+2025-08-14 19:58:46,499 [WARNING] - Validation failed for BAJAJ-AUTO. Missing one or more required fields.
+2025-08-14 19:58:46,500 [INFO] - Fetching data for company: BAJAJFINSV
+2025-08-14 19:58:59,866 [ERROR] - Request for BAJAJFINSV failed: HTTPSConnectionPool(host='bluemutualfund.in', port=443): Read timed out.. Attempt 1 of 3.
+2025-08-14 19:59:05,947 [WARNING] - Validation failed for BAJAJFINSV. Missing one or more required fields.
+2025-08-14 19:59:05,947 [INFO] - Fetching data for company: BAJAJHLDNG
+2025-08-14 19:59:13,912 [WARNING] - Validation failed for BAJAJHLDNG. Missing one or more required fields.
+2025-08-14 19:59:13,912 [INFO] - Fetching data for company: BAJFINANCE
+2025-08-14 19:59:14,656 [WARNING] - Validation failed for BAJFINANCE. Missing one or more required fields.
+2025-08-14 19:59:14,656 [INFO] - Fetching data for company: BANKBARODA
+2025-08-14 19:59:18,814 [WARNING] - Validation failed for BANKBARODA. Missing one or more required fields.
+2025-08-14 19:59:18,814 [INFO] - Fetching data for company: BEL
+2025-08-14 19:59:20,415 [WARNING] - Validation failed for BEL. Missing one or more required fields.
+2025-08-14 19:59:20,415 [INFO] - Fetching data for company: BHARTIARTL
+2025-08-14 19:59:22,597 [WARNING] - Validation failed for BHARTIARTL. Missing one or more required fields.
+2025-08-14 19:59:22,597 [INFO] - Fetching data for company: BHEL
+2025-08-14 19:59:23,523 [WARNING] - Validation failed for BHEL. Missing one or more required fields.
+2025-08-14 19:59:23,526 [INFO] - Fetching data for company: BOSCHLTD
+2025-08-14 19:59:25,857 [WARNING] - Validation failed for BOSCHLTD. Missing one or more required fields.
+2025-08-14 19:59:25,857 [INFO] - Fetching data for company: BPCL
+2025-08-14 19:59:26,972 [WARNING] - Validation failed for BPCL. Missing one or more required fields.
+2025-08-14 19:59:26,972 [INFO] - Fetching data for company: BRITANNIA
+2025-08-14 19:59:28,098 [WARNING] - Validation failed for BRITANNIA. Missing one or more required fields.
+2025-08-14 19:59:28,098 [INFO] - Fetching data for company: CANBK
+2025-08-14 19:59:29,216 [WARNING] - Validation failed for CANBK. Missing one or more required fields.
+2025-08-14 19:59:29,216 [INFO] - Fetching data for company: CHOLAFIN
+2025-08-14 19:59:30,349 [WARNING] - Validation failed for CHOLAFIN. Missing one or more required fields.
+2025-08-14 19:59:30,349 [INFO] - Fetching data for company: CIPLA
+2025-08-14 19:59:32,805 [WARNING] - Validation failed for CIPLA. Missing one or more required fields.
+2025-08-14 19:59:32,805 [INFO] - Fetching data for company: COALINDIA
+2025-08-14 19:59:33,854 [WARNING] - Validation failed for COALINDIA. Missing one or more required fields.
+2025-08-14 19:59:33,860 [INFO] - Fetching data for company: DABUR
+2025-08-14 19:59:35,290 [WARNING] - Validation failed for DABUR. Missing one or more required fields.
+2025-08-14 19:59:35,290 [INFO] - Fetching data for company: DLF
+2025-08-14 19:59:44,577 [WARNING] - Validation failed for DLF. Missing one or more required fields.
+2025-08-14 19:59:44,577 [INFO] - Fetching data for company: DMART
+2025-08-14 19:59:45,608 [WARNING] - Validation failed for DMART. Missing one or more required fields.
+2025-08-14 19:59:45,609 [INFO] - Fetching data for company: DRREDDY
+2025-08-14 19:59:46,566 [WARNING] - Validation failed for DRREDDY. Missing one or more required fields.
+2025-08-14 19:59:46,566 [INFO] - Fetching data for company: EICHERMOT
+2025-08-14 19:59:47,619 [WARNING] - Validation failed for EICHERMOT. Missing one or more required fields.
+2025-08-14 19:59:47,619 [INFO] - Fetching data for company: GAIL
+2025-08-14 19:59:49,964 [WARNING] - Validation failed for GAIL. Missing one or more required fields.
+2025-08-14 19:59:49,964 [INFO] - Fetching data for company: GODREJCP
+2025-08-14 19:59:51,136 [WARNING] - Validation failed for GODREJCP. Missing one or more required fields.
+2025-08-14 19:59:51,136 [INFO] - Fetching data for company: GRASIM
+2025-08-14 19:59:52,250 [WARNING] - Validation failed for GRASIM. Missing one or more required fields.
+2025-08-14 19:59:52,250 [INFO] - Fetching data for company: HAL
+2025-08-14 20:00:00,085 [WARNING] - Validation failed for HAL. Missing one or more required fields.
+2025-08-14 20:00:00,085 [INFO] - Fetching data for company: HAVELLS
+2025-08-14 20:00:01,211 [WARNING] - Validation failed for HAVELLS. Missing one or more required fields.
+2025-08-14 20:00:01,211 [INFO] - Fetching data for company: HCLTECH
+2025-08-14 20:00:02,281 [WARNING] - Validation failed for HCLTECH. Missing one or more required fields.
+2025-08-14 20:00:02,281 [INFO] - Fetching data for company: HDFCBANK
+2025-08-14 20:00:04,735 [WARNING] - Validation failed for HDFCBANK. Missing one or more required fields.
+2025-08-14 20:00:04,736 [INFO] - Fetching data for company: HDFCLIFE
+2025-08-14 20:00:05,535 [WARNING] - Validation failed for HDFCLIFE. Missing one or more required fields.
+2025-08-14 20:00:05,535 [INFO] - Fetching data for company: HEROMOTOCO
+2025-08-14 20:00:06,586 [WARNING] - Validation failed for HEROMOTOCO. Missing one or more required fields.
+2025-08-14 20:00:06,586 [INFO] - Fetching data for company: HINDALCO
+2025-08-14 20:00:06,956 [WARNING] - Validation failed for HINDALCO. Missing one or more required fields.
+2025-08-14 20:00:06,956 [INFO] - Fetching data for company: HINDUNILVR
+2025-08-14 20:00:08,419 [WARNING] - Validation failed for HINDUNILVR. Missing one or more required fields.
+2025-08-14 20:00:08,425 [INFO] - Fetching data for company: ICICIBANK
+2025-08-14 20:00:09,511 [WARNING] - Validation failed for ICICIBANK. Missing one or more required fields.
+2025-08-14 20:00:09,511 [INFO] - Fetching data for company: ICICIGI
+2025-08-14 20:00:11,860 [WARNING] - Validation failed for ICICIGI. Missing one or more required fields.
+2025-08-14 20:00:11,860 [INFO] - Fetching data for company: ICICIPRULI
+2025-08-14 20:00:12,986 [WARNING] - Validation failed for ICICIPRULI. Missing one or more required fields.
+2025-08-14 20:00:12,986 [INFO] - Fetching data for company: INDIGO
+2025-08-14 20:00:14,103 [WARNING] - Validation failed for INDIGO. Missing one or more required fields.
+2025-08-14 20:00:14,103 [INFO] - Fetching data for company: INDUSINDBK
+2025-08-14 20:00:14,894 [WARNING] - Validation failed for INDUSINDBK. Missing one or more required fields.
+2025-08-14 20:00:14,894 [INFO] - Fetching data for company: INFY
+2025-08-14 20:00:15,857 [WARNING] - Validation failed for INFY. Missing one or more required fields.
+2025-08-14 20:00:15,857 [INFO] - Fetching data for company: IOC
+2025-08-14 20:00:17,053 [WARNING] - Validation failed for IOC. Missing one or more required fields.
+2025-08-14 20:00:17,060 [INFO] - Fetching data for company: IRCTC
+2025-08-14 20:00:18,052 [WARNING] - Validation failed for IRCTC. Missing one or more required fields.
+2025-08-14 20:00:18,052 [INFO] - Fetching data for company: IRFC
+2025-08-14 20:00:19,296 [WARNING] - Validation failed for IRFC. Missing one or more required fields.
+2025-08-14 20:00:19,296 [INFO] - Fetching data for company: ITC
+2025-08-14 20:00:20,365 [WARNING] - Validation failed for ITC. Missing one or more required fields.
+2025-08-14 20:00:20,366 [INFO] - Fetching data for company: JINDALSTEL
+2025-08-14 20:00:21,498 [WARNING] - Validation failed for JINDALSTEL. Missing one or more required fields.
+2025-08-14 20:00:21,498 [INFO] - Fetching data for company: JIOFIN
+2025-08-14 20:00:22,462 [WARNING] - Validation failed for JIOFIN. Missing one or more required fields.
+2025-08-14 20:00:22,472 [INFO] - Fetching data for company: JSWENERGY
+2025-08-14 20:00:23,380 [WARNING] - Validation failed for JSWENERGY. Missing one or more required fields.
+2025-08-14 20:00:23,380 [INFO] - Fetching data for company: JSWSTEEL
+2025-08-14 20:00:24,480 [WARNING] - Validation failed for JSWSTEEL. Missing one or more required fields.
+2025-08-14 20:00:24,480 [INFO] - Fetching data for company: KOTAKBANK
+2025-08-14 20:00:26,499 [WARNING] - Validation failed for KOTAKBANK. Missing one or more required fields.
+2025-08-14 20:00:26,499 [INFO] - Fetching data for company: LICI
+2025-08-14 20:00:27,616 [WARNING] - Validation failed for LICI. Missing one or more required fields.
+2025-08-14 20:00:27,616 [INFO] - Fetching data for company: LODHA
+2025-08-14 20:00:28,618 [WARNING] - Validation failed for LODHA. Missing one or more required fields.
+2025-08-14 20:00:28,634 [INFO] - Fetching data for company: LT
+2025-08-14 20:00:29,687 [WARNING] - Validation failed for LT. Missing one or more required fields.
+2025-08-14 20:00:29,687 [INFO] - Fetching data for company: LTIM
+2025-08-14 20:00:35,277 [WARNING] - Validation failed for LTIM. Missing one or more required fields.
+2025-08-14 20:00:35,277 [INFO] - Fetching data for company: M&M
+2025-08-14 20:00:36,577 [WARNING] - Validation failed for M&M. Missing one or more required fields.
+2025-08-14 20:00:36,577 [INFO] - Fetching data for company: MARUTI
+2025-08-14 20:00:38,991 [WARNING] - Validation failed for MARUTI. Missing one or more required fields.
+2025-08-14 20:00:38,993 [INFO] - Fetching data for company: MOTHERSON
+2025-08-14 20:00:41,053 [WARNING] - Validation failed for MOTHERSON. Missing one or more required fields.
+2025-08-14 20:00:41,053 [INFO] - Fetching data for company: NAUKRI
+2025-08-14 20:00:44,559 [WARNING] - Validation failed for NAUKRI. Missing one or more required fields.
+2025-08-14 20:00:44,559 [INFO] - Fetching data for company: NESTLEIND
+2025-08-14 20:00:46,811 [WARNING] - Validation failed for NESTLEIND. Missing one or more required fields.
+2025-08-14 20:00:46,813 [INFO] - Fetching data for company: NHPC
+2025-08-14 20:00:47,938 [WARNING] - Validation failed for NHPC. Missing one or more required fields.
+2025-08-14 20:00:47,938 [INFO] - Fetching data for company: NTPC
+2025-08-14 20:00:49,000 [WARNING] - Validation failed for NTPC. Missing one or more required fields.
+2025-08-14 20:00:49,000 [INFO] - Fetching data for company: ONGC
+2025-08-14 20:00:51,940 [WARNING] - Validation failed for ONGC. Missing one or more required fields.
+2025-08-14 20:00:51,940 [INFO] - Fetching data for company: PFC
+2025-08-14 20:00:55,935 [WARNING] - Validation failed for PFC. Missing one or more required fields.
+2025-08-14 20:00:55,935 [INFO] - Fetching data for company: PIDILITIND
+2025-08-14 20:00:58,178 [WARNING] - Validation failed for PIDILITIND. Missing one or more required fields.
+2025-08-14 20:00:58,178 [INFO] - Fetching data for company: PNB
+2025-08-14 20:00:59,349 [WARNING] - Validation failed for PNB. Missing one or more required fields.
+2025-08-14 20:00:59,349 [INFO] - Fetching data for company: POWERGRID
+2025-08-14 20:01:00,629 [WARNING] - Validation failed for POWERGRID. Missing one or more required fields.
+2025-08-14 20:01:00,629 [INFO] - Fetching data for company: RECLTD
+2025-08-14 20:01:01,646 [WARNING] - Validation failed for RECLTD. Missing one or more required fields.
+2025-08-14 20:01:01,646 [INFO] - Fetching data for company: RELIANCE
+2025-08-14 20:01:04,095 [WARNING] - Validation failed for RELIANCE. Missing one or more required fields.
+2025-08-14 20:01:04,095 [INFO] - Fetching data for company: SBILIFE
+2025-08-14 20:01:09,691 [WARNING] - Validation failed for SBILIFE. Missing one or more required fields.
+2025-08-14 20:01:09,691 [INFO] - Fetching data for company: SBIN
+2025-08-14 20:01:10,106 [WARNING] - Validation failed for SBIN. Missing one or more required fields.
+2025-08-14 20:01:10,106 [INFO] - Fetching data for company: SHREECEM
+2025-08-14 20:01:11,296 [WARNING] - Validation failed for SHREECEM. Missing one or more required fields.
+2025-08-14 20:01:11,296 [INFO] - Fetching data for company: SHRIRAMFIN
+2025-08-14 20:01:12,352 [WARNING] - Validation failed for SHRIRAMFIN. Missing one or more required fields.
+2025-08-14 20:01:12,352 [INFO] - Fetching data for company: SIEMENS
+2025-08-14 20:01:13,531 [WARNING] - Validation failed for SIEMENS. Missing one or more required fields.
+2025-08-14 20:01:13,531 [INFO] - Fetching data for company: SUNPHARMA
+2025-08-14 20:01:16,388 [WARNING] - Validation failed for SUNPHARMA. Missing one or more required fields.
+2025-08-14 20:01:16,388 [INFO] - Fetching data for company: TATACONSUM
+2025-08-14 20:01:18,490 [WARNING] - Validation failed for TATACONSUM. Missing one or more required fields.
+2025-08-14 20:01:18,490 [INFO] - Fetching data for company: TATAMOTORS
+2025-08-14 20:01:23,847 [WARNING] - Validation failed for TATAMOTORS. Missing one or more required fields.
+2025-08-14 20:01:23,847 [INFO] - Fetching data for company: TATAPOWER
+2025-08-14 20:01:24,981 [WARNING] - Validation failed for TATAPOWER. Missing one or more required fields.
+2025-08-14 20:01:24,997 [INFO] - Fetching data for company: TATASTEEL
+2025-08-14 20:01:27,324 [WARNING] - Validation failed for TATASTEEL. Missing one or more required fields.
+2025-08-14 20:01:27,324 [INFO] - Fetching data for company: TCS
+2025-08-14 20:01:28,331 [WARNING] - Validation failed for TCS. Missing one or more required fields.
+2025-08-14 20:01:28,331 [INFO] - Fetching data for company: TECHM
+2025-08-14 20:01:30,594 [WARNING] - Validation failed for TECHM. Missing one or more required fields.
+2025-08-14 20:01:30,594 [INFO] - Fetching data for company: TITAN
+2025-08-14 20:01:32,779 [WARNING] - Validation failed for TITAN. Missing one or more required fields.
+2025-08-14 20:01:32,779 [INFO] - Fetching data for company: TORNTPHARM
+2025-08-14 20:01:35,013 [WARNING] - Validation failed for TORNTPHARM. Missing one or more required fields.
+2025-08-14 20:01:35,013 [INFO] - Fetching data for company: TRENT
+2025-08-14 20:01:35,437 [WARNING] - Validation failed for TRENT. Missing one or more required fields.
+2025-08-14 20:01:35,437 [INFO] - Fetching data for company: TVSMOTOR
+2025-08-14 20:01:36,531 [WARNING] - Validation failed for TVSMOTOR. Missing one or more required fields.
+2025-08-14 20:01:36,531 [INFO] - Fetching data for company: ULTRACEMCO
+2025-08-14 20:01:40,258 [WARNING] - Validation failed for ULTRACEMCO. Missing one or more required fields.
+2025-08-14 20:01:40,258 [INFO] - Fetching data for company: UNIONBANK
+2025-08-14 20:01:41,252 [WARNING] - Validation failed for UNIONBANK. Missing one or more required fields.
+2025-08-14 20:01:41,252 [INFO] - Fetching data for company: UNITDSPR
+2025-08-14 20:01:42,648 [WARNING] - Validation failed for UNITDSPR. Missing one or more required fields.
+2025-08-14 20:01:42,648 [INFO] - Fetching data for company: VBL
+2025-08-14 20:01:43,615 [WARNING] - Validation failed for VBL. Missing one or more required fields.
+2025-08-14 20:01:43,615 [INFO] - Fetching data for company: VEDL
+2025-08-14 20:01:44,565 [WARNING] - Validation failed for VEDL. Missing one or more required fields.
+2025-08-14 20:01:44,565 [INFO] - Fetching data for company: WIPRO
+2025-08-14 20:01:45,532 [WARNING] - Validation failed for WIPRO. Missing one or more required fields.
+2025-08-14 20:01:45,532 [INFO] - Fetching data for company: ZOMATO
+2025-08-14 20:01:48,571 [WARNING] - Validation failed for ZOMATO. Missing one or more required fields.
+2025-08-14 20:01:48,579 [INFO] - Fetching data for company: ZYDUSLIFE
+2025-08-14 20:01:49,649 [WARNING] - Validation failed for ZYDUSLIFE. Missing one or more required fields.
+2025-08-14 20:01:49,649 [INFO] - --- Financial Data Fetching Process Finished ---
+2025-08-14 20:10:48,061 [INFO] - --- Starting Financial Data Fetching Process ---
+2025-08-14 20:10:48,267 [INFO] - Loaded 99 unique company IDs.
+2025-08-14 20:10:48,268 [INFO] - Fetching data for company: ABB
+2025-08-14 20:10:49,530 [INFO] - Keys received for ABB: ['company', 'data']
+2025-08-14 20:10:49,530 [WARNING] - Validation failed for ABB, but saving received data for inspection.
+2025-08-14 20:10:49,534 [INFO] - Successfully saved data for ABB to ..\data\ABB.json
+2025-08-14 20:10:49,534 [INFO] - Fetching data for company: ADANIENSOL
+2025-08-14 20:10:50,643 [INFO] - Keys received for ADANIENSOL: ['company', 'data']
+2025-08-14 20:10:50,643 [WARNING] - Validation failed for ADANIENSOL, but saving received data for inspection.
+2025-08-14 20:10:50,643 [INFO] - Successfully saved data for ADANIENSOL to ..\data\ADANIENSOL.json
+2025-08-14 20:10:50,643 [INFO] - Fetching data for company: ADANIENT
+2025-08-14 20:10:51,649 [INFO] - Keys received for ADANIENT: ['company', 'data']
+2025-08-14 20:10:51,649 [WARNING] - Validation failed for ADANIENT, but saving received data for inspection.
+2025-08-14 20:10:51,649 [INFO] - Successfully saved data for ADANIENT to ..\data\ADANIENT.json
+2025-08-14 20:10:51,649 [INFO] - Fetching data for company: ADANIGREEN
+2025-08-14 20:10:52,531 [INFO] - Keys received for ADANIGREEN: ['company', 'data']
+2025-08-14 20:10:52,531 [WARNING] - Validation failed for ADANIGREEN, but saving received data for inspection.
+2025-08-14 20:10:52,531 [INFO] - Successfully saved data for ADANIGREEN to ..\data\ADANIGREEN.json
+2025-08-14 20:10:52,531 [INFO] - Fetching data for company: ADANIPORTS
+2025-08-14 20:10:53,682 [INFO] - Keys received for ADANIPORTS: ['company', 'data']
+2025-08-14 20:10:53,682 [WARNING] - Validation failed for ADANIPORTS, but saving received data for inspection.
+2025-08-14 20:10:53,698 [INFO] - Successfully saved data for ADANIPORTS to ..\data\ADANIPORTS.json
+2025-08-14 20:10:53,698 [INFO] - Fetching data for company: ADANIPOWER
+2025-08-14 20:10:54,799 [INFO] - Keys received for ADANIPOWER: ['company', 'data']
+2025-08-14 20:10:54,799 [WARNING] - Validation failed for ADANIPOWER, but saving received data for inspection.
+2025-08-14 20:10:54,815 [INFO] - Successfully saved data for ADANIPOWER to ..\data\ADANIPOWER.json
+2025-08-14 20:10:54,815 [INFO] - Fetching data for company: AMBUJACEM
+2025-08-14 20:10:57,691 [INFO] - Keys received for AMBUJACEM: ['company', 'data']
+2025-08-14 20:10:57,691 [WARNING] - Validation failed for AMBUJACEM, but saving received data for inspection.
+2025-08-14 20:10:57,691 [INFO] - Successfully saved data for AMBUJACEM to ..\data\AMBUJACEM.json
+2025-08-14 20:10:57,691 [INFO] - Fetching data for company: APOLLOHOSP
+2025-08-14 20:10:58,802 [INFO] - Keys received for APOLLOHOSP: ['company', 'data']
+2025-08-14 20:10:58,802 [WARNING] - Validation failed for APOLLOHOSP, but saving received data for inspection.
+2025-08-14 20:10:58,802 [INFO] - Successfully saved data for APOLLOHOSP to ..\data\APOLLOHOSP.json
+2025-08-14 20:10:58,802 [INFO] - Fetching data for company: ASIANPAINT
+2025-08-14 20:11:00,085 [INFO] - Keys received for ASIANPAINT: ['company', 'data']
+2025-08-14 20:11:00,085 [WARNING] - Validation failed for ASIANPAINT, but saving received data for inspection.
+2025-08-14 20:11:00,085 [INFO] - Successfully saved data for ASIANPAINT to ..\data\ASIANPAINT.json
+2025-08-14 20:11:00,085 [INFO] - Fetching data for company: ATGL
+2025-08-14 20:11:01,052 [INFO] - Keys received for ATGL: ['company', 'data']
+2025-08-14 20:11:01,052 [WARNING] - Validation failed for ATGL, but saving received data for inspection.
+2025-08-14 20:11:01,052 [INFO] - Successfully saved data for ATGL to ..\data\ATGL.json
+2025-08-14 20:11:01,052 [INFO] - Fetching data for company: AXISBANK
+2025-08-14 20:11:04,253 [INFO] - Keys received for AXISBANK: ['company', 'data']
+2025-08-14 20:11:04,253 [WARNING] - Validation failed for AXISBANK, but saving received data for inspection.
+2025-08-14 20:11:04,253 [INFO] - Successfully saved data for AXISBANK to ..\data\AXISBANK.json
+2025-08-14 20:11:04,253 [INFO] - Fetching data for company: BAJAJ-AUTO
+2025-08-14 20:11:05,514 [INFO] - Keys received for BAJAJ-AUTO: ['company', 'data']
+2025-08-14 20:11:05,514 [WARNING] - Validation failed for BAJAJ-AUTO, but saving received data for inspection.
+2025-08-14 20:11:05,520 [INFO] - Successfully saved data for BAJAJ-AUTO to ..\data\BAJAJ-AUTO.json
+2025-08-14 20:11:05,520 [INFO] - Fetching data for company: BAJAJFINSV
+2025-08-14 20:11:06,973 [INFO] - Keys received for BAJAJFINSV: ['company', 'data']
+2025-08-14 20:11:06,973 [WARNING] - Validation failed for BAJAJFINSV, but saving received data for inspection.
+2025-08-14 20:11:06,973 [INFO] - Successfully saved data for BAJAJFINSV to ..\data\BAJAJFINSV.json
+2025-08-14 20:11:06,973 [INFO] - Fetching data for company: BAJAJHLDNG
+2025-08-14 20:11:08,879 [INFO] - Keys received for BAJAJHLDNG: ['company', 'data']
+2025-08-14 20:11:08,879 [WARNING] - Validation failed for BAJAJHLDNG, but saving received data for inspection.
+2025-08-14 20:11:08,895 [INFO] - Successfully saved data for BAJAJHLDNG to ..\data\BAJAJHLDNG.json
+2025-08-14 20:11:08,895 [INFO] - Fetching data for company: BAJFINANCE
+2025-08-14 20:11:10,013 [INFO] - Keys received for BAJFINANCE: ['company', 'data']
+2025-08-14 20:11:10,013 [WARNING] - Validation failed for BAJFINANCE, but saving received data for inspection.
+2025-08-14 20:11:10,013 [INFO] - Successfully saved data for BAJFINANCE to ..\data\BAJFINANCE.json
+2025-08-14 20:11:10,013 [INFO] - Fetching data for company: BANKBARODA
+2025-08-14 20:11:11,445 [INFO] - Keys received for BANKBARODA: ['company', 'data']
+2025-08-14 20:11:11,445 [WARNING] - Validation failed for BANKBARODA, but saving received data for inspection.
+2025-08-14 20:11:11,445 [INFO] - Successfully saved data for BANKBARODA to ..\data\BANKBARODA.json
+2025-08-14 20:11:11,445 [INFO] - Fetching data for company: BEL
+2025-08-14 20:11:14,938 [INFO] - Keys received for BEL: ['company', 'data']
+2025-08-14 20:11:14,938 [WARNING] - Validation failed for BEL, but saving received data for inspection.
+2025-08-14 20:11:14,938 [INFO] - Successfully saved data for BEL to ..\data\BEL.json
+2025-08-14 20:11:14,938 [INFO] - Fetching data for company: BHARTIARTL
+2025-08-14 20:11:18,327 [INFO] - Keys received for BHARTIARTL: ['company', 'data']
+2025-08-14 20:11:18,327 [WARNING] - Validation failed for BHARTIARTL, but saving received data for inspection.
+2025-08-14 20:11:18,327 [INFO] - Successfully saved data for BHARTIARTL to ..\data\BHARTIARTL.json
+2025-08-14 20:11:18,327 [INFO] - Fetching data for company: BHEL
+2025-08-14 20:11:19,615 [INFO] - Keys received for BHEL: ['company', 'data']
+2025-08-14 20:11:19,615 [WARNING] - Validation failed for BHEL, but saving received data for inspection.
+2025-08-14 20:11:19,624 [INFO] - Successfully saved data for BHEL to ..\data\BHEL.json
+2025-08-14 20:11:19,624 [INFO] - Fetching data for company: BOSCHLTD
+2025-08-14 20:11:20,575 [INFO] - Keys received for BOSCHLTD: ['company', 'data']
+2025-08-14 20:11:20,575 [WARNING] - Validation failed for BOSCHLTD, but saving received data for inspection.
+2025-08-14 20:11:20,575 [INFO] - Successfully saved data for BOSCHLTD to ..\data\BOSCHLTD.json
+2025-08-14 20:11:20,577 [INFO] - Fetching data for company: BPCL
+2025-08-14 20:11:21,842 [INFO] - Keys received for BPCL: ['company', 'data']
+2025-08-14 20:11:21,842 [WARNING] - Validation failed for BPCL, but saving received data for inspection.
+2025-08-14 20:11:21,855 [INFO] - Successfully saved data for BPCL to ..\data\BPCL.json
+2025-08-14 20:11:21,855 [INFO] - Fetching data for company: BRITANNIA
+2025-08-14 20:11:23,129 [INFO] - Keys received for BRITANNIA: ['company', 'data']
+2025-08-14 20:11:23,129 [WARNING] - Validation failed for BRITANNIA, but saving received data for inspection.
+2025-08-14 20:11:23,134 [INFO] - Successfully saved data for BRITANNIA to ..\data\BRITANNIA.json
+2025-08-14 20:11:23,137 [INFO] - Fetching data for company: CANBK
+2025-08-14 20:11:24,055 [INFO] - Keys received for CANBK: ['company', 'data']
+2025-08-14 20:11:24,057 [WARNING] - Validation failed for CANBK, but saving received data for inspection.
+2025-08-14 20:11:24,057 [INFO] - Successfully saved data for CANBK to ..\data\CANBK.json
+2025-08-14 20:11:24,057 [INFO] - Fetching data for company: CHOLAFIN
+2025-08-14 20:11:26,172 [INFO] - Keys received for CHOLAFIN: ['company', 'data']
+2025-08-14 20:11:26,172 [WARNING] - Validation failed for CHOLAFIN, but saving received data for inspection.
+2025-08-14 20:11:26,178 [INFO] - Successfully saved data for CHOLAFIN to ..\data\CHOLAFIN.json
+2025-08-14 20:11:26,178 [INFO] - Fetching data for company: CIPLA
+2025-08-14 20:11:27,447 [INFO] - Keys received for CIPLA: ['company', 'data']
+2025-08-14 20:11:27,447 [WARNING] - Validation failed for CIPLA, but saving received data for inspection.
+2025-08-14 20:11:27,447 [INFO] - Successfully saved data for CIPLA to ..\data\CIPLA.json
+2025-08-14 20:11:27,447 [INFO] - Fetching data for company: COALINDIA
+2025-08-14 20:11:28,413 [INFO] - Keys received for COALINDIA: ['company', 'data']
+2025-08-14 20:11:28,413 [WARNING] - Validation failed for COALINDIA, but saving received data for inspection.
+2025-08-14 20:11:28,413 [INFO] - Successfully saved data for COALINDIA to ..\data\COALINDIA.json
+2025-08-14 20:11:28,413 [INFO] - Fetching data for company: DABUR
+2025-08-14 20:11:29,532 [INFO] - Keys received for DABUR: ['company', 'data']
+2025-08-14 20:11:29,532 [WARNING] - Validation failed for DABUR, but saving received data for inspection.
+2025-08-14 20:11:29,535 [INFO] - Successfully saved data for DABUR to ..\data\DABUR.json
+2025-08-14 20:11:29,535 [INFO] - Fetching data for company: DLF
+2025-08-14 20:11:30,812 [INFO] - Keys received for DLF: ['company', 'data']
+2025-08-14 20:11:30,813 [WARNING] - Validation failed for DLF, but saving received data for inspection.
+2025-08-14 20:11:30,820 [INFO] - Successfully saved data for DLF to ..\data\DLF.json
+2025-08-14 20:11:30,820 [INFO] - Fetching data for company: DMART
+2025-08-14 20:11:31,927 [INFO] - Keys received for DMART: ['company', 'data']
+2025-08-14 20:11:31,927 [WARNING] - Validation failed for DMART, but saving received data for inspection.
+2025-08-14 20:11:31,927 [INFO] - Successfully saved data for DMART to ..\data\DMART.json
+2025-08-14 20:11:31,933 [INFO] - Fetching data for company: DRREDDY
+2025-08-14 20:11:33,682 [INFO] - Keys received for DRREDDY: ['company', 'data']
+2025-08-14 20:11:33,682 [WARNING] - Validation failed for DRREDDY, but saving received data for inspection.
+2025-08-14 20:11:33,682 [INFO] - Successfully saved data for DRREDDY to ..\data\DRREDDY.json
+2025-08-14 20:11:33,682 [INFO] - Fetching data for company: EICHERMOT
+2025-08-14 20:11:35,450 [INFO] - Keys received for EICHERMOT: ['company', 'data']
+2025-08-14 20:11:35,450 [WARNING] - Validation failed for EICHERMOT, but saving received data for inspection.
+2025-08-14 20:11:35,450 [INFO] - Successfully saved data for EICHERMOT to ..\data\EICHERMOT.json
+2025-08-14 20:11:35,450 [INFO] - Fetching data for company: GAIL
+2025-08-14 20:11:36,573 [INFO] - Keys received for GAIL: ['company', 'data']
+2025-08-14 20:11:36,573 [WARNING] - Validation failed for GAIL, but saving received data for inspection.
+2025-08-14 20:11:36,573 [INFO] - Successfully saved data for GAIL to ..\data\GAIL.json
+2025-08-14 20:11:36,573 [INFO] - Fetching data for company: GODREJCP
+2025-08-14 20:11:39,030 [INFO] - Keys received for GODREJCP: ['company', 'data']
+2025-08-14 20:11:39,030 [WARNING] - Validation failed for GODREJCP, but saving received data for inspection.
+2025-08-14 20:11:39,042 [INFO] - Successfully saved data for GODREJCP to ..\data\GODREJCP.json
+2025-08-14 20:11:39,042 [INFO] - Fetching data for company: GRASIM
+2025-08-14 20:11:40,090 [INFO] - Keys received for GRASIM: ['company', 'data']
+2025-08-14 20:11:40,090 [WARNING] - Validation failed for GRASIM, but saving received data for inspection.
+2025-08-14 20:11:40,096 [INFO] - Successfully saved data for GRASIM to ..\data\GRASIM.json
+2025-08-14 20:11:40,096 [INFO] - Fetching data for company: HAL
+2025-08-14 20:11:42,491 [INFO] - Keys received for HAL: ['company', 'data']
+2025-08-14 20:11:42,491 [WARNING] - Validation failed for HAL, but saving received data for inspection.
+2025-08-14 20:11:42,491 [INFO] - Successfully saved data for HAL to ..\data\HAL.json
+2025-08-14 20:11:42,491 [INFO] - Fetching data for company: HAVELLS
+2025-08-14 20:11:44,720 [INFO] - Keys received for HAVELLS: ['company', 'data']
+2025-08-14 20:11:44,734 [WARNING] - Validation failed for HAVELLS, but saving received data for inspection.
+2025-08-14 20:11:44,739 [INFO] - Successfully saved data for HAVELLS to ..\data\HAVELLS.json
+2025-08-14 20:11:44,739 [INFO] - Fetching data for company: HCLTECH
+2025-08-14 20:11:45,689 [INFO] - Keys received for HCLTECH: ['company', 'data']
+2025-08-14 20:11:45,689 [WARNING] - Validation failed for HCLTECH, but saving received data for inspection.
+2025-08-14 20:11:45,689 [INFO] - Successfully saved data for HCLTECH to ..\data\HCLTECH.json
+2025-08-14 20:11:45,689 [INFO] - Fetching data for company: HDFCBANK
+2025-08-14 20:11:48,101 [INFO] - Keys received for HDFCBANK: ['company', 'data']
+2025-08-14 20:11:48,101 [WARNING] - Validation failed for HDFCBANK, but saving received data for inspection.
+2025-08-14 20:11:48,101 [INFO] - Successfully saved data for HDFCBANK to ..\data\HDFCBANK.json
+2025-08-14 20:11:48,101 [INFO] - Fetching data for company: HDFCLIFE
+2025-08-14 20:11:49,053 [INFO] - Keys received for HDFCLIFE: ['company', 'data']
+2025-08-14 20:11:49,053 [WARNING] - Validation failed for HDFCLIFE, but saving received data for inspection.
+2025-08-14 20:11:49,056 [INFO] - Successfully saved data for HDFCLIFE to ..\data\HDFCLIFE.json
+2025-08-14 20:11:49,056 [INFO] - Fetching data for company: HEROMOTOCO
+2025-08-14 20:11:50,013 [INFO] - Keys received for HEROMOTOCO: ['company', 'data']
+2025-08-14 20:11:50,015 [WARNING] - Validation failed for HEROMOTOCO, but saving received data for inspection.
+2025-08-14 20:11:50,015 [INFO] - Successfully saved data for HEROMOTOCO to ..\data\HEROMOTOCO.json
+2025-08-14 20:11:50,015 [INFO] - Fetching data for company: HINDALCO
+2025-08-14 20:11:51,136 [INFO] - Keys received for HINDALCO: ['company', 'data']
+2025-08-14 20:11:51,136 [WARNING] - Validation failed for HINDALCO, but saving received data for inspection.
+2025-08-14 20:11:51,144 [INFO] - Successfully saved data for HINDALCO to ..\data\HINDALCO.json
+2025-08-14 20:11:51,144 [INFO] - Fetching data for company: HINDUNILVR
+2025-08-14 20:11:53,051 [INFO] - Keys received for HINDUNILVR: ['company', 'data']
+2025-08-14 20:11:53,051 [WARNING] - Validation failed for HINDUNILVR, but saving received data for inspection.
+2025-08-14 20:11:53,051 [INFO] - Successfully saved data for HINDUNILVR to ..\data\HINDUNILVR.json
+2025-08-14 20:11:53,051 [INFO] - Fetching data for company: ICICIBANK
+2025-08-14 20:11:54,355 [INFO] - Keys received for ICICIBANK: ['company', 'data']
+2025-08-14 20:11:54,355 [WARNING] - Validation failed for ICICIBANK, but saving received data for inspection.
+2025-08-14 20:11:54,357 [INFO] - Successfully saved data for ICICIBANK to ..\data\ICICIBANK.json
+2025-08-14 20:11:54,357 [INFO] - Fetching data for company: ICICIGI
+2025-08-14 20:12:01,049 [INFO] - Keys received for ICICIGI: ['company', 'data']
+2025-08-14 20:12:01,049 [WARNING] - Validation failed for ICICIGI, but saving received data for inspection.
+2025-08-14 20:12:01,049 [INFO] - Successfully saved data for ICICIGI to ..\data\ICICIGI.json
+2025-08-14 20:12:01,049 [INFO] - Fetching data for company: ICICIPRULI
+2025-08-14 20:12:02,775 [INFO] - Keys received for ICICIPRULI: ['company', 'data']
+2025-08-14 20:12:02,775 [WARNING] - Validation failed for ICICIPRULI, but saving received data for inspection.
+2025-08-14 20:12:02,775 [INFO] - Successfully saved data for ICICIPRULI to ..\data\ICICIPRULI.json
+2025-08-14 20:12:02,775 [INFO] - Fetching data for company: INDIGO
+2025-08-14 20:12:04,887 [INFO] - Keys received for INDIGO: ['company', 'data']
+2025-08-14 20:12:04,887 [WARNING] - Validation failed for INDIGO, but saving received data for inspection.
+2025-08-14 20:12:04,902 [INFO] - Successfully saved data for INDIGO to ..\data\INDIGO.json
+2025-08-14 20:12:04,902 [INFO] - Fetching data for company: INDUSINDBK
+2025-08-14 20:12:06,170 [INFO] - Keys received for INDUSINDBK: ['company', 'data']
+2025-08-14 20:12:06,170 [WARNING] - Validation failed for INDUSINDBK, but saving received data for inspection.
+2025-08-14 20:12:06,170 [INFO] - Successfully saved data for INDUSINDBK to ..\data\INDUSINDBK.json
+2025-08-14 20:12:06,170 [INFO] - Fetching data for company: INFY
+2025-08-14 20:12:08,249 [INFO] - Keys received for INFY: ['company', 'data']
+2025-08-14 20:12:08,249 [WARNING] - Validation failed for INFY, but saving received data for inspection.
+2025-08-14 20:12:08,249 [INFO] - Successfully saved data for INFY to ..\data\INFY.json
+2025-08-14 20:12:08,249 [INFO] - Fetching data for company: IOC
+2025-08-14 20:12:09,699 [INFO] - Keys received for IOC: ['company', 'data']
+2025-08-14 20:12:09,699 [WARNING] - Validation failed for IOC, but saving received data for inspection.
+2025-08-14 20:12:09,699 [INFO] - Successfully saved data for IOC to ..\data\IOC.json
+2025-08-14 20:12:09,699 [INFO] - Fetching data for company: IRCTC
+2025-08-14 20:12:10,647 [INFO] - Keys received for IRCTC: ['company', 'data']
+2025-08-14 20:12:10,647 [WARNING] - Validation failed for IRCTC, but saving received data for inspection.
+2025-08-14 20:12:10,647 [INFO] - Successfully saved data for IRCTC to ..\data\IRCTC.json
+2025-08-14 20:12:10,658 [INFO] - Fetching data for company: IRFC
+2025-08-14 20:12:13,534 [INFO] - Keys received for IRFC: ['company', 'data']
+2025-08-14 20:12:13,534 [WARNING] - Validation failed for IRFC, but saving received data for inspection.
+2025-08-14 20:12:13,541 [INFO] - Successfully saved data for IRFC to ..\data\IRFC.json
+2025-08-14 20:12:13,543 [INFO] - Fetching data for company: ITC
+2025-08-14 20:12:15,609 [INFO] - Keys received for ITC: ['company', 'data']
+2025-08-14 20:12:15,609 [WARNING] - Validation failed for ITC, but saving received data for inspection.
+2025-08-14 20:12:15,616 [INFO] - Successfully saved data for ITC to ..\data\ITC.json
+2025-08-14 20:12:15,616 [INFO] - Fetching data for company: JINDALSTEL
+2025-08-14 20:12:16,573 [INFO] - Keys received for JINDALSTEL: ['company', 'data']
+2025-08-14 20:12:16,573 [WARNING] - Validation failed for JINDALSTEL, but saving received data for inspection.
+2025-08-14 20:12:16,582 [INFO] - Successfully saved data for JINDALSTEL to ..\data\JINDALSTEL.json
+2025-08-14 20:12:16,584 [INFO] - Fetching data for company: JIOFIN
+2025-08-14 20:12:17,525 [INFO] - Keys received for JIOFIN: ['company', 'data']
+2025-08-14 20:12:17,525 [WARNING] - Validation failed for JIOFIN, but saving received data for inspection.
+2025-08-14 20:12:17,525 [INFO] - Successfully saved data for JIOFIN to ..\data\JIOFIN.json
+2025-08-14 20:12:17,539 [INFO] - Fetching data for company: JSWENERGY
+2025-08-14 20:12:20,565 [INFO] - Keys received for JSWENERGY: ['company', 'data']
+2025-08-14 20:12:20,565 [WARNING] - Validation failed for JSWENERGY, but saving received data for inspection.
+2025-08-14 20:12:20,576 [INFO] - Successfully saved data for JSWENERGY to ..\data\JSWENERGY.json
+2025-08-14 20:12:20,576 [INFO] - Fetching data for company: JSWSTEEL
+2025-08-14 20:12:23,264 [INFO] - Keys received for JSWSTEEL: ['company', 'data']
+2025-08-14 20:12:23,264 [WARNING] - Validation failed for JSWSTEEL, but saving received data for inspection.
+2025-08-14 20:12:23,274 [INFO] - Successfully saved data for JSWSTEEL to ..\data\JSWSTEEL.json
+2025-08-14 20:12:23,274 [INFO] - Fetching data for company: KOTAKBANK
+2025-08-14 20:12:25,203 [INFO] - Keys received for KOTAKBANK: ['company', 'data']
+2025-08-14 20:12:25,212 [WARNING] - Validation failed for KOTAKBANK, but saving received data for inspection.
+2025-08-14 20:12:25,215 [INFO] - Successfully saved data for KOTAKBANK to ..\data\KOTAKBANK.json
+2025-08-14 20:12:25,215 [INFO] - Fetching data for company: LICI
+2025-08-14 20:12:27,133 [INFO] - Keys received for LICI: ['company', 'data']
+2025-08-14 20:12:27,133 [WARNING] - Validation failed for LICI, but saving received data for inspection.
+2025-08-14 20:12:27,133 [INFO] - Successfully saved data for LICI to ..\data\LICI.json
+2025-08-14 20:12:27,133 [INFO] - Fetching data for company: LODHA
+2025-08-14 20:12:28,292 [INFO] - Keys received for LODHA: ['company', 'data']
+2025-08-14 20:12:28,292 [WARNING] - Validation failed for LODHA, but saving received data for inspection.
+2025-08-14 20:12:28,292 [INFO] - Successfully saved data for LODHA to ..\data\LODHA.json
+2025-08-14 20:12:28,295 [INFO] - Fetching data for company: LT
+2025-08-14 20:12:29,372 [INFO] - Keys received for LT: ['company', 'data']
+2025-08-14 20:12:29,372 [WARNING] - Validation failed for LT, but saving received data for inspection.
+2025-08-14 20:12:29,372 [INFO] - Successfully saved data for LT to ..\data\LT.json
+2025-08-14 20:12:29,381 [INFO] - Fetching data for company: LTIM
+2025-08-14 20:12:31,615 [INFO] - Keys received for LTIM: ['company', 'data']
+2025-08-14 20:12:31,615 [WARNING] - Validation failed for LTIM, but saving received data for inspection.
+2025-08-14 20:12:31,617 [INFO] - Successfully saved data for LTIM to ..\data\LTIM.json
+2025-08-14 20:12:31,617 [INFO] - Fetching data for company: M&M
+2025-08-14 20:12:37,374 [INFO] - Keys received for M&M: ['company', 'data']
+2025-08-14 20:12:37,374 [WARNING] - Validation failed for M&M, but saving received data for inspection.
+2025-08-14 20:12:37,380 [INFO] - Successfully saved data for M&M to ..\data\M&M.json
+2025-08-14 20:12:37,380 [INFO] - Fetching data for company: MARUTI
+2025-08-14 20:12:39,771 [INFO] - Keys received for MARUTI: ['company', 'data']
+2025-08-14 20:12:39,771 [WARNING] - Validation failed for MARUTI, but saving received data for inspection.
+2025-08-14 20:12:39,771 [INFO] - Successfully saved data for MARUTI to ..\data\MARUTI.json
+2025-08-14 20:12:39,771 [INFO] - Fetching data for company: MOTHERSON
+2025-08-14 20:12:42,804 [INFO] - Keys received for MOTHERSON: ['company', 'data']
+2025-08-14 20:12:42,804 [WARNING] - Validation failed for MOTHERSON, but saving received data for inspection.
+2025-08-14 20:12:42,804 [INFO] - Successfully saved data for MOTHERSON to ..\data\MOTHERSON.json
+2025-08-14 20:12:42,804 [INFO] - Fetching data for company: NAUKRI
+2025-08-14 20:12:44,244 [INFO] - Keys received for NAUKRI: ['company', 'data']
+2025-08-14 20:12:44,254 [WARNING] - Validation failed for NAUKRI, but saving received data for inspection.
+2025-08-14 20:12:44,257 [INFO] - Successfully saved data for NAUKRI to ..\data\NAUKRI.json
+2025-08-14 20:12:44,257 [INFO] - Fetching data for company: NESTLEIND
+2025-08-14 20:12:45,531 [INFO] - Keys received for NESTLEIND: ['company', 'data']
+2025-08-14 20:12:45,531 [WARNING] - Validation failed for NESTLEIND, but saving received data for inspection.
+2025-08-14 20:12:45,535 [INFO] - Successfully saved data for NESTLEIND to ..\data\NESTLEIND.json
+2025-08-14 20:12:45,535 [INFO] - Fetching data for company: NHPC
+2025-08-14 20:12:46,651 [INFO] - Keys received for NHPC: ['company', 'data']
+2025-08-14 20:12:46,651 [WARNING] - Validation failed for NHPC, but saving received data for inspection.
+2025-08-14 20:12:46,660 [INFO] - Successfully saved data for NHPC to ..\data\NHPC.json
+2025-08-14 20:12:46,660 [INFO] - Fetching data for company: NTPC
+2025-08-14 20:12:48,092 [INFO] - Keys received for NTPC: ['company', 'data']
+2025-08-14 20:12:48,092 [WARNING] - Validation failed for NTPC, but saving received data for inspection.
+2025-08-14 20:12:48,096 [INFO] - Successfully saved data for NTPC to ..\data\NTPC.json
+2025-08-14 20:12:48,096 [INFO] - Fetching data for company: ONGC
+2025-08-14 20:12:49,015 [INFO] - Keys received for ONGC: ['company', 'data']
+2025-08-14 20:12:49,015 [WARNING] - Validation failed for ONGC, but saving received data for inspection.
+2025-08-14 20:12:49,019 [INFO] - Successfully saved data for ONGC to ..\data\ONGC.json
+2025-08-14 20:12:49,019 [INFO] - Fetching data for company: PFC
+2025-08-14 20:12:49,852 [INFO] - Keys received for PFC: ['company', 'data']
+2025-08-14 20:12:49,852 [WARNING] - Validation failed for PFC, but saving received data for inspection.
+2025-08-14 20:12:49,853 [INFO] - Successfully saved data for PFC to ..\data\PFC.json
+2025-08-14 20:12:49,853 [INFO] - Fetching data for company: PIDILITIND
+2025-08-14 20:12:50,828 [INFO] - Keys received for PIDILITIND: ['company', 'data']
+2025-08-14 20:12:50,828 [WARNING] - Validation failed for PIDILITIND, but saving received data for inspection.
+2025-08-14 20:12:50,830 [INFO] - Successfully saved data for PIDILITIND to ..\data\PIDILITIND.json
+2025-08-14 20:12:50,830 [INFO] - Fetching data for company: PNB
+2025-08-14 20:12:53,370 [INFO] - Keys received for PNB: ['company', 'data']
+2025-08-14 20:12:53,370 [WARNING] - Validation failed for PNB, but saving received data for inspection.
+2025-08-14 20:12:53,372 [INFO] - Successfully saved data for PNB to ..\data\PNB.json
+2025-08-14 20:12:53,372 [INFO] - Fetching data for company: POWERGRID
+2025-08-14 20:12:54,759 [INFO] - Keys received for POWERGRID: ['company', 'data']
+2025-08-14 20:12:54,759 [WARNING] - Validation failed for POWERGRID, but saving received data for inspection.
+2025-08-14 20:12:54,771 [INFO] - Successfully saved data for POWERGRID to ..\data\POWERGRID.json
+2025-08-14 20:12:54,771 [INFO] - Fetching data for company: RECLTD
+2025-08-14 20:12:57,849 [INFO] - Keys received for RECLTD: ['company', 'data']
+2025-08-14 20:12:57,851 [WARNING] - Validation failed for RECLTD, but saving received data for inspection.
+2025-08-14 20:12:57,851 [INFO] - Successfully saved data for RECLTD to ..\data\RECLTD.json
+2025-08-14 20:12:57,851 [INFO] - Fetching data for company: RELIANCE
+2025-08-14 20:13:00,403 [INFO] - Keys received for RELIANCE: ['company', 'data']
+2025-08-14 20:13:00,403 [WARNING] - Validation failed for RELIANCE, but saving received data for inspection.
+2025-08-14 20:13:00,417 [INFO] - Successfully saved data for RELIANCE to ..\data\RELIANCE.json
+2025-08-14 20:13:00,417 [INFO] - Fetching data for company: SBILIFE
+2025-08-14 20:13:02,005 [INFO] - Keys received for SBILIFE: ['company', 'data']
+2025-08-14 20:13:02,017 [WARNING] - Validation failed for SBILIFE, but saving received data for inspection.
+2025-08-14 20:13:02,021 [INFO] - Successfully saved data for SBILIFE to ..\data\SBILIFE.json
+2025-08-14 20:13:02,021 [INFO] - Fetching data for company: SBIN
+2025-08-14 20:13:03,291 [INFO] - Keys received for SBIN: ['company', 'data']
+2025-08-14 20:13:03,291 [WARNING] - Validation failed for SBIN, but saving received data for inspection.
+2025-08-14 20:13:03,297 [INFO] - Successfully saved data for SBIN to ..\data\SBIN.json
+2025-08-14 20:13:03,297 [INFO] - Fetching data for company: SHREECEM
+2025-08-14 20:13:04,246 [INFO] - Keys received for SHREECEM: ['company', 'data']
+2025-08-14 20:13:04,246 [WARNING] - Validation failed for SHREECEM, but saving received data for inspection.
+2025-08-14 20:13:04,251 [INFO] - Successfully saved data for SHREECEM to ..\data\SHREECEM.json
+2025-08-14 20:13:04,251 [INFO] - Fetching data for company: SHRIRAMFIN
+2025-08-14 20:13:05,053 [INFO] - Keys received for SHRIRAMFIN: ['company', 'data']
+2025-08-14 20:13:05,053 [WARNING] - Validation failed for SHRIRAMFIN, but saving received data for inspection.
+2025-08-14 20:13:05,053 [INFO] - Successfully saved data for SHRIRAMFIN to ..\data\SHRIRAMFIN.json
+2025-08-14 20:13:05,053 [INFO] - Fetching data for company: SIEMENS
+2025-08-14 20:13:06,486 [INFO] - Keys received for SIEMENS: ['company', 'data']
+2025-08-14 20:13:06,486 [WARNING] - Validation failed for SIEMENS, but saving received data for inspection.
+2025-08-14 20:13:06,496 [INFO] - Successfully saved data for SIEMENS to ..\data\SIEMENS.json
+2025-08-14 20:13:06,498 [INFO] - Fetching data for company: SUNPHARMA
+2025-08-14 20:13:08,810 [INFO] - Keys received for SUNPHARMA: ['company', 'data']
+2025-08-14 20:13:08,810 [WARNING] - Validation failed for SUNPHARMA, but saving received data for inspection.
+2025-08-14 20:13:08,812 [INFO] - Successfully saved data for SUNPHARMA to ..\data\SUNPHARMA.json
+2025-08-14 20:13:08,812 [INFO] - Fetching data for company: TATACONSUM
+2025-08-14 20:13:11,135 [INFO] - Keys received for TATACONSUM: ['company', 'data']
+2025-08-14 20:13:11,135 [WARNING] - Validation failed for TATACONSUM, but saving received data for inspection.
+2025-08-14 20:13:11,139 [INFO] - Successfully saved data for TATACONSUM to ..\data\TATACONSUM.json
+2025-08-14 20:13:11,139 [INFO] - Fetching data for company: TATAMOTORS
+2025-08-14 20:13:12,090 [INFO] - Keys received for TATAMOTORS: ['company', 'data']
+2025-08-14 20:13:12,090 [WARNING] - Validation failed for TATAMOTORS, but saving received data for inspection.
+2025-08-14 20:13:12,095 [INFO] - Successfully saved data for TATAMOTORS to ..\data\TATAMOTORS.json
+2025-08-14 20:13:12,095 [INFO] - Fetching data for company: TATAPOWER
+2025-08-14 20:13:13,374 [INFO] - Keys received for TATAPOWER: ['company', 'data']
+2025-08-14 20:13:13,374 [WARNING] - Validation failed for TATAPOWER, but saving received data for inspection.
+2025-08-14 20:13:13,380 [INFO] - Successfully saved data for TATAPOWER to ..\data\TATAPOWER.json
+2025-08-14 20:13:13,380 [INFO] - Fetching data for company: TATASTEEL
+2025-08-14 20:13:14,150 [INFO] - Keys received for TATASTEEL: ['company', 'data']
+2025-08-14 20:13:14,150 [WARNING] - Validation failed for TATASTEEL, but saving received data for inspection.
+2025-08-14 20:13:14,155 [INFO] - Successfully saved data for TATASTEEL to ..\data\TATASTEEL.json
+2025-08-14 20:13:14,155 [INFO] - Fetching data for company: TCS
+2025-08-14 20:13:16,730 [INFO] - Keys received for TCS: ['company', 'data']
+2025-08-14 20:13:16,732 [WARNING] - Validation failed for TCS, but saving received data for inspection.
+2025-08-14 20:13:16,735 [INFO] - Successfully saved data for TCS to ..\data\TCS.json
+2025-08-14 20:13:16,735 [INFO] - Fetching data for company: TECHM
+2025-08-14 20:13:18,805 [INFO] - Keys received for TECHM: ['company', 'data']
+2025-08-14 20:13:18,805 [WARNING] - Validation failed for TECHM, but saving received data for inspection.
+2025-08-14 20:13:18,814 [INFO] - Successfully saved data for TECHM to ..\data\TECHM.json
+2025-08-14 20:13:18,814 [INFO] - Fetching data for company: TITAN
+2025-08-14 20:13:21,054 [INFO] - Keys received for TITAN: ['company', 'data']
+2025-08-14 20:13:21,057 [WARNING] - Validation failed for TITAN, but saving received data for inspection.
+2025-08-14 20:13:21,058 [INFO] - Successfully saved data for TITAN to ..\data\TITAN.json
+2025-08-14 20:13:21,058 [INFO] - Fetching data for company: TORNTPHARM
+2025-08-14 20:13:22,972 [INFO] - Keys received for TORNTPHARM: ['company', 'data']
+2025-08-14 20:13:22,972 [WARNING] - Validation failed for TORNTPHARM, but saving received data for inspection.
+2025-08-14 20:13:22,975 [INFO] - Successfully saved data for TORNTPHARM to ..\data\TORNTPHARM.json
+2025-08-14 20:13:22,975 [INFO] - Fetching data for company: TRENT
+2025-08-14 20:13:23,933 [INFO] - Keys received for TRENT: ['company', 'data']
+2025-08-14 20:13:23,933 [WARNING] - Validation failed for TRENT, but saving received data for inspection.
+2025-08-14 20:13:23,933 [INFO] - Successfully saved data for TRENT to ..\data\TRENT.json
+2025-08-14 20:13:23,933 [INFO] - Fetching data for company: TVSMOTOR
+2025-08-14 20:13:28,082 [INFO] - Keys received for TVSMOTOR: ['company', 'data']
+2025-08-14 20:13:28,082 [WARNING] - Validation failed for TVSMOTOR, but saving received data for inspection.
+2025-08-14 20:13:28,082 [INFO] - Successfully saved data for TVSMOTOR to ..\data\TVSMOTOR.json
+2025-08-14 20:13:28,097 [INFO] - Fetching data for company: ULTRACEMCO
+2025-08-14 20:13:29,520 [INFO] - Keys received for ULTRACEMCO: ['company', 'data']
+2025-08-14 20:13:29,521 [WARNING] - Validation failed for ULTRACEMCO, but saving received data for inspection.
+2025-08-14 20:13:29,521 [INFO] - Successfully saved data for ULTRACEMCO to ..\data\ULTRACEMCO.json
+2025-08-14 20:13:29,521 [INFO] - Fetching data for company: UNIONBANK
+2025-08-14 20:13:30,645 [INFO] - Keys received for UNIONBANK: ['company', 'data']
+2025-08-14 20:13:30,645 [WARNING] - Validation failed for UNIONBANK, but saving received data for inspection.
+2025-08-14 20:13:30,654 [INFO] - Successfully saved data for UNIONBANK to ..\data\UNIONBANK.json
+2025-08-14 20:13:30,654 [INFO] - Fetching data for company: UNITDSPR
+2025-08-14 20:13:32,346 [INFO] - Keys received for UNITDSPR: ['company', 'data']
+2025-08-14 20:13:32,351 [WARNING] - Validation failed for UNITDSPR, but saving received data for inspection.
+2025-08-14 20:13:32,351 [INFO] - Successfully saved data for UNITDSPR to ..\data\UNITDSPR.json
+2025-08-14 20:13:32,351 [INFO] - Fetching data for company: VBL
+2025-08-14 20:13:34,969 [INFO] - Keys received for VBL: ['company', 'data']
+2025-08-14 20:13:34,969 [WARNING] - Validation failed for VBL, but saving received data for inspection.
+2025-08-14 20:13:34,969 [INFO] - Successfully saved data for VBL to ..\data\VBL.json
+2025-08-14 20:13:34,969 [INFO] - Fetching data for company: VEDL
+2025-08-14 20:13:37,690 [INFO] - Keys received for VEDL: ['company', 'data']
+2025-08-14 20:13:37,690 [WARNING] - Validation failed for VEDL, but saving received data for inspection.
+2025-08-14 20:13:37,699 [INFO] - Successfully saved data for VEDL to ..\data\VEDL.json
+2025-08-14 20:13:37,699 [INFO] - Fetching data for company: WIPRO
+2025-08-14 20:13:39,803 [INFO] - Keys received for WIPRO: ['company', 'data']
+2025-08-14 20:13:39,803 [WARNING] - Validation failed for WIPRO, but saving received data for inspection.
+2025-08-14 20:13:39,803 [INFO] - Successfully saved data for WIPRO to ..\data\WIPRO.json
+2025-08-14 20:13:39,803 [INFO] - Fetching data for company: ZOMATO
+2025-08-14 20:13:41,851 [INFO] - Keys received for ZOMATO: ['company', 'data']
+2025-08-14 20:13:41,851 [WARNING] - Validation failed for ZOMATO, but saving received data for inspection.
+2025-08-14 20:13:41,851 [INFO] - Successfully saved data for ZOMATO to ..\data\ZOMATO.json
+2025-08-14 20:13:41,851 [INFO] - Fetching data for company: ZYDUSLIFE
+2025-08-14 20:13:44,080 [INFO] - Keys received for ZYDUSLIFE: ['company', 'data']
+2025-08-14 20:13:44,080 [WARNING] - Validation failed for ZYDUSLIFE, but saving received data for inspection.
+2025-08-14 20:13:44,080 [INFO] - Successfully saved data for ZYDUSLIFE to ..\data\ZYDUSLIFE.json
+2025-08-14 20:13:44,080 [INFO] - --- Financial Data Fetching Process Finished ---
