@@ -75,5 +75,4 @@ See [`docs/contributing.md`](docs/contributing.md) for guidelines on setup, codi
 ---
 
 ## Credits
-- Project by [Your Name/Team]
-- For onboarding, see the ZIP package and this documentation.
+- Project by Chethan M N 
