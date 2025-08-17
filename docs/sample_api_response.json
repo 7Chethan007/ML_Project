@@ -1,0 +1,33 @@
+[
+  {
+    "company_id": "ADANIENT",
+    "company_name": "Adani Enterprises Ltd",
+    "pros": [
+      {
+        "text": "Strong sales growth: 35.0% over 3 Years.",
+        "score": 25.0
+      }
+    ],
+    "cons": [
+      {
+        "text": "Low return on equity: 6.0% (5 Years).",
+        "score": 4.0
+      }
+    ],
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3_years": "35%",
+        "5_years": "30%"
+      },
+      "compounded_profit_growth": {
+        "3_years": "47%",
+        "5_years": "46%"
+      },
+      "roe": {
+        "3_years": "10%",
+        "5_years": "6%"
+      }
+    },
+    "last_updated": "2025-08-17T06:11:57"
+  }
+]

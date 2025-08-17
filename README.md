@@ -1,128 +1,79 @@
-# Machine Learning Financial Analysis Project
+# ML Project: End-to-End Pipeline
 
-## Documentation for Interns
-
-Welcome to the ML Financial Analysis Project! This guide provides an overview of the project, including API usage, workflow, deliverables, and resources for new team members.
+## Overview
+This project provides a complete machine learning pipeline for company analysis, including data fetching, ML analysis, MySQL storage, real-time CLI logging, and a dynamic web frontend.
 
 ---
 
 ## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Tech Stack](#tech-stack)
-- [Data Source](#data-source)
-- [API Documentation](#api-documentation)
-- [Project Workflow](#project-workflow)
-- [Database Schema](#database-schema)
-- [Frontend Web App](#frontend-web-app)
-- [Project Deliverables](#project-deliverables)
-- [Next Steps](#next-steps)
+- [Pipeline Overview](docs/pipeline_overview.md)
+- [Setup Guide](docs/setup_guide.md)
+- [Usage Guide](docs/usage_guide.md)
+- [Contributing](docs/contributing.md)
+- [Screenshots](#screenshots)
+- [Sample API/JSON Response](#sample-jsonapi-response)
+- [ML Table Schema](#ml-table-schema)
+- [Scripts & SQL Dumps](#scripts--sql-dumps)
 
 ---
 
-## Project Overview
-
-This project automates the process of fetching financial data (Balance Sheet, Profit & Loss, Cash Flow) from an API, applies machine learning to generate actionable insights, and stores results in a MySQL database. Real-time analysis is displayed both in the terminal and on a web interface for easy access and visualization.
-
----
-
-## Tech Stack
-
-- **Programming Language:** Python
-- **Database:** MySQL
-- **Tools:** VS Code
-- **Packages:** Pandas, Requests, SQLAlchemy, Scikit-learn
-- **Frontend:** Custom web app for real-time analysis
+## Pipeline Steps
+1. **Fetch Data:** Use provided scripts to fetch and preprocess company data.
+2. **Run Analysis:** Execute ML scripts to generate analysis results.
+3. **Store in MySQL:** Use upsert scripts to save results in the `ml` table.
+4. **View Results:**
+    - **Terminal:** Real-time CLI with color-coded output and logging.
+    - **Web Frontend:** Dynamic company analysis and list view.
 
 ---
 
-## Data Source
-
-- **API Base URL:** [`https://bluemutualfund.in/server/api/company.php`](https://bluemutualfund.in/server/api/company.php)
-- **Company List:** Provided in the `Nifty100Companies` Excel file.
-
-[Download Company List](company_id.xlsx) <!-- Local file: company_id.xlsx in project directory -->
-
----
-
-## API Documentation
-
-- **Endpoint:** `GET https://bluemutualfund.in/server/api/company.php`
-- **Parameters:**
-    - `id={company_id}` (e.g., TCS, HDFCBANK, DMART)
-    - `api_key=ghfkffu6378382826hhdjgk`
-- **Sample Call:**  
-    `https://bluemutualfund.in/server/api/company.php?id=TCS&api_key=ghfkffu6378382826hhdjgk`
-
-> **Note:** Use the provided API key and replace `{company_id}` with valid IDs from the company list.
+## How to Run
+1. **Set up MySQL** using the schema in [`docs/ml_table_schema.sql`](docs/ml_table_schema.sql).
+2. **Install Python dependencies** (see `requirements.txt`).
+3. **Run analysis and upsert scripts** (see [`scripts/`](scripts/) or project root).
+4. **Start the PHP server** for the frontend:
+   ```powershell
+   cd Task_6
+   php -S localhost:8000
+   ```
+5. **Open** [http://localhost:8000](http://localhost:8000) in your browser.
 
 ---
 
-## Project Workflow
-
-1. **Fetch Financial Data:**  
-     Retrieve Balance Sheet, Profit & Loss, and Cash Flow statements for each company via the API.
-
-2. **Perform Machine Learning Operations:**  
-     Analyze financial data and categorize metrics into:
-     - **Pros (values > 10%)**  
-         - Debt-free status
-         - Reduced debt
-         - Strong ROE (e.g., 3 Years ROE 47.4%)
-         - Healthy dividend payout (e.g., 66.2%)
-         - Good profit growth (e.g., 23.0%)
-         - Strong median sales growth (e.g., 28.3% over 10 years)
-     - **Cons (values < 10%)**  
-         - Poor sales growth (e.g., 9.5% over 5 years)
-         - No dividend payout
-         - Low ROE (e.g., 8.33% over 3 years)
-     - Select up to 3 pros and cons per company.
-
-3. **Store Results in MySQL:**  
-     Save insights, pros, and cons in the pre-existing `ml` table.
-
-4. **Display Real-time Analysis:**  
-     Output results to the terminal and web page for monitoring.
-
-5. **Sample Output:**  
-    ![Sample Analysis Output](sample_analysis_output.png)
-
+## Screenshots
+- **Terminal Run:** ![Terminal Run](docs/screenshots/terminal_run.png)
+- **Terminal Logger:** ![Logger Output](docs/screenshots/terminal_logger.png)
+- **Web Frontend (Company):** ![Company Page](docs/screenshots/web_frontend_company.png)
+- **Web Frontend (List):** ![List View](docs/screenshots/web_frontend_list.png)
 
 ---
 
-## Database Schema
-
-- **Table Name:** `ml` (pre-existing)
-
-[Download Database Schema](ml.sql) <!-- Local file: ml.sql in project directory -->
+## Sample JSON/API Response
+See [`docs/sample_api_response.json`](docs/sample_api_response.json)
 
 ---
 
-## Frontend Web App
-
-- **Live URL:** [https://bluemutualfund.in/app1/](https://bluemutualfund.in/app1/)
-- **Company Analysis:** [https://bluemutualfund.in/app1/pages/company.php?id={company_id}](https://bluemutualfund.in/app1/pages/company.php?id={company_id})
-- **View All Companies:** [https://bluemutualfund.in/app1/view_all.html](https://bluemutualfund.in/app1/view_all.html)
-
-**Features:**
-- Display financial analysis for individual companies
-- Compare multiple companies
+## ML Table Schema
+See [`docs/ml_table_schema.sql`](docs/ml_table_schema.sql)
 
 ---
 
-## Project Deliverables
+## Scripts & SQL Dumps
+- All main scripts are in the project root or [`scripts/`](scripts/) folder:
+    - `save_ml_results_tailored.py` — Upserts ML results into MySQL
+    - `realtime_logger.py` — Real-time CLI logger
+    - `fetch_data.py`, `data_preprocessing.py`, etc. — Data pipeline scripts
+- SQL dumps:
+    - [`ml.sql`](ml.sql) — Full database structure and sample data
+    - [`docs/ml_table_schema.sql`](docs/ml_table_schema.sql) — Only the `ml` table schema
 
-- **Python Scripts:** For data fetching, ML analysis, and MySQL storage
-- **Web Page:** Displays ML-generated insights (visible after analyzing 100 companies)
-- **Database Integration:** MySQL storage for analysis results
-- **Documentation:** This guide for team collaboration
+---
+
+## Contributing
+See [`docs/contributing.md`](docs/contributing.md) for guidelines on setup, coding standards, and submitting changes.
 
 ---
 
-## Next Steps
-
-1. Implement Python scripts for API fetching and ML operations.
-2. Develop the web interface for real-time analysis.
-3. Test and optimize ML models for accurate financial forecasting.
-
----
+## Credits
+- Project by [Your Name/Team]
+- For onboarding, see the ZIP package and this documentation.

@@ -65,3 +65,4 @@ $cons = json_decode($cons_json, true);
 
 </body>
 </html>
+<?php
