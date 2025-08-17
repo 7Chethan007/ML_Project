@@ -1,7 +1,7 @@
 # Task: Web Frontend Integration
 
 ## Status
-**Pending**
+**Done**
 
 ## Description
 Connect the MySQL database with the existing web frontend ([bluemutualfund.in/app1/](https://bluemutualfund.in/app1/)) to dynamically display analysis per company and in list view. The frontend should auto-refresh (optional) and offer links such as **“View All Companies”** and **“Company Analysis Page.”**

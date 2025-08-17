@@ -9,7 +9,6 @@ This project provides a complete machine learning pipeline for company analysis,
 - [Pipeline Overview](docs/pipeline_overview.md)
 - [Setup Guide](docs/setup_guide.md)
 - [Usage Guide](docs/usage_guide.md)
-- [Contributing](docs/contributing.md)
 - [Screenshots](#screenshots)
 - [Sample API/JSON Response](#sample-jsonapi-response)
 - [ML Table Schema](#ml-table-schema)

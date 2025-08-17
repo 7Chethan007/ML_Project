@@ -1,7 +1,7 @@
 # Task 2: Data Cleaning & Preprocessing
 
 ## Status
-**On-Progress**
+**Done**
 
 ## Description
 Develop functions to clean and normalize financial data received from the API. This process includes:
