@@ -3,15 +3,23 @@ include 'db.php';
 
 $company_id = $_GET['id'] ?? '';
 
-$stmt = $conn->prepare("SELECT company_name, pros, cons FROM ml WHERE company_id = ?");
+
+$stmt = $conn->prepare("SELECT company_name, pros, cons, analysis_json FROM ml WHERE company_id = ?");
 $stmt->bind_param("s", $company_id);
 $stmt->execute();
-$stmt->bind_result($company_name, $pros_json, $cons_json);
+$stmt->bind_result($company_name, $pros_json, $cons_json, $analysis_json);
 $stmt->fetch();
 $stmt->close();
 
 $pros = json_decode($pros_json, true);
+if (is_string($pros)) {
+  $pros = array_filter(array_map('trim', preg_split('/\r?\n/', $pros)));
+}
 $cons = json_decode($cons_json, true);
+if (is_string($cons)) {
+  $cons = array_filter(array_map('trim', preg_split('/\r?\n/', $cons)));
+}
+$analysis = json_decode($analysis_json, true);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -33,32 +41,69 @@ $cons = json_decode($cons_json, true);
 
   <a href="index.php" class="btn btn-secondary mb-3">← Back to All Companies</a>
 
-  <div class="card card-custom p-4">
-    <h2 class="mb-4"><?= htmlspecialchars($company_name) ?> - ML Insights</h2>
 
-    <div class="row">
-      <!-- Pros -->
-      <div class="col-md-6">
-        <div class="section-title text-success"><i class="fa fa-thumbs-up"></i> Pros</div>
-        <?php if (!empty($pros)): ?>
-          <?php foreach ($pros as $pro): ?>
-            <div class="pro-item"><i class="fa fa-check-circle"></i> <?= htmlspecialchars($pro['text']) ?></div>
-          <?php endforeach; ?>
-        <?php else: ?>
-          <p class="text-muted">No pros available</p>
-        <?php endif; ?>
+  <div class="card card-custom p-4 mb-4">
+    <h2 class="mb-4 text-primary">Analysis</h2>
+    <!-- <p class="mb-2"># Analysis Generated Using ML</p> -->
+    <div class="row g-3">
+      <div class="col-md-4">
+        <div class="p-3 border rounded h-100">
+          <span class="fw-bold text-primary">Compounded Sales Growth</span><br>
+          3 Years: <?= htmlspecialchars($analysis['compounded_sales_growth']['3'] ?? '-') ?><br>
+          5 Years: <?= htmlspecialchars($analysis['compounded_sales_growth']['5'] ?? '-') ?><br>
+          10 Years: <?= htmlspecialchars($analysis['compounded_sales_growth']['10'] ?? '-') ?>
+        </div>
       </div>
+      <div class="col-md-4">
+        <div class="p-3 border rounded h-100">
+          <span class="fw-bold text-primary">Compounded Profit Growth</span><br>
+          3 Years: <?= htmlspecialchars($analysis['compounded_profit_growth']['3'] ?? '-') ?><br>
+          5 Years: <?= htmlspecialchars($analysis['compounded_profit_growth']['5'] ?? '-') ?><br>
+          10 Years: <?= htmlspecialchars($analysis['compounded_profit_growth']['10'] ?? '-') ?>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="p-3 border rounded h-100">
+          <span class="fw-bold text-primary">Return on Equity</span><br>
+          3 Years: <?= htmlspecialchars($analysis['roe']['3'] ?? '-') ?><br>
+          5 Years: <?= htmlspecialchars($analysis['roe']['5'] ?? '-') ?><br>
+          10 Years: <?= htmlspecialchars($analysis['roe']['10'] ?? '-') ?>
+        </div>
+      </div>
+    </div>
+  </div>
 
-      <!-- Cons -->
+  <div class="card card-custom p-4">
+    <h3 class="mb-2 text-primary">Pros and Cons</h3>
+    <div class="mb-3"><span class="badge bg-secondary me-2" style="font-size:0.95em;"><i class="fa fa-circle me-1" style="font-size:0.7em;"></i>Generated Using Machine Learning</span></div>
+    <div class="row g-3">
       <div class="col-md-6">
-        <div class="section-title text-danger"><i class="fa fa-thumbs-down"></i> Cons</div>
-        <?php if (!empty($cons)): ?>
-          <?php foreach ($cons as $con): ?>
-            <div class="con-item"><i class="fa fa-times-circle"></i> <?= htmlspecialchars($con['text']) ?></div>
-          <?php endforeach; ?>
-        <?php else: ?>
-          <p class="text-muted">No cons available</p>
-        <?php endif; ?>
+        <div class="p-3" style="background:#3ddad7; border-radius:16px; color:white;">
+          <div class="fw-bold mb-2" style="font-size:1.3em;">Pros</div>
+          <?php if (!empty($pros)): ?>
+            <?php foreach ($pros as $pro): ?>
+              <?php if (is_string($pro)): ?>
+                <div class="mb-2"> <?= htmlspecialchars($pro) ?> </div>
+              <?php endif; ?>
+            <?php endforeach; ?>
+          <?php else: ?>
+            <p class="text-white-50">No pros available</p>
+          <?php endif; ?>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="p-3" style="background:#ff5e8e; border-radius:16px; color:white;">
+          <div class="fw-bold mb-2" style="font-size:1.3em;">Cons</div>
+          <?php if (!empty($cons)): ?>
+            <?php foreach ($cons as $con): ?>
+              <?php if (is_string($con)): ?>
+                <div class="mb-2"> <?= htmlspecialchars($con) ?> </div>
+              <?php endif; ?>
+            <?php endforeach; ?>
+          <?php else: ?>
+            <p class="text-white-50">No cons available</p>
+          <?php endif; ?>
+        </div>
       </div>
     </div>
   </div>

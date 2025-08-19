@@ -43,7 +43,7 @@ This project provides a complete machine learning pipeline for company analysis,
 - **Terminal Run:** ![Terminal Run](docs/screenshots/terminal_run.png)
 - **Terminal Logger:** ![Logger Output](docs/screenshots/terminal_logger.png)
 - **Web Frontend (Company):** ![Company Page](docs/screenshots/web_frontend_company.png)
-- **Web Frontend (List):** ![List View](docs/screenshots/web_frontend_list.png)
+- **Web Frontend (List):** ![List View](docs/screenshots/image.png)
 
 ---
 

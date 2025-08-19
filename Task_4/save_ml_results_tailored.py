@@ -33,12 +33,19 @@ def get_engine(user, password, host, port, db):
     return create_engine(url, pool_size=5, max_overflow=10, pool_recycle=3600)
 
 def prepare_record(rec):
+    def smart_json(val):
+        # If val is empty or blank, return '[]' (empty JSON array)
+        if val is None or (isinstance(val, str) and val.strip() == ""):
+            return '[]'
+        if isinstance(val, str):
+            return json.dumps(val, ensure_ascii=False)
+        return json.dumps(val, ensure_ascii=False)
     return {
         'company_id': rec['company_id'],
         'company_name': rec.get('company_name'),
-        'pros': json.dumps(rec.get('pros', []), ensure_ascii=False),
-        'cons': json.dumps(rec.get('cons', []), ensure_ascii=False),
-        'analysis_json': json.dumps(rec, ensure_ascii=False),
+        'pros': smart_json(rec.get('pros', '')),
+        'cons': smart_json(rec.get('cons', '')),
+        'analysis_json': json.dumps(rec.get('analysis_json', {}), ensure_ascii=False),
         'last_updated': datetime.utcnow()
     }
 

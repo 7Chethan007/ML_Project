@@ -1,2792 +1,2258 @@
 [
   {
+    "company_id": "ABB",
+    "company_name": "Abbott India Ltd",
+    "pros": "",
+    "cons": "",
+    "analysis_json": {}
+  },
+  {
     "company_id": "ADANIENSOL",
     "company_name": "Adani Energy Solutions Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 19.0% over 3 Years.",
-        "score": 9.0
+    "pros": "Company's median sales growth is 18% over the last 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 12%.\nCompany has delivered good profit growth of 16% over 5 years.",
+    "cons": "The company has delivered poor profit growth of % over the past 5 years.\nThe company has delivered poor sales growth of % over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 18%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Strong sales growth: 18.0% over 5 Years.",
-        "score": 8.0
+      "compounded_profit_growth": {
+        "3": "3 Years: -2%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Profit growth is robust: 16.0% over 5 Years.",
-        "score": 6.0
+      "roe": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 11%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: -2.0% over 3 Years.",
-        "score": 12.0
-      },
-      {
-        "text": "ROE is low: 8.6%.",
-        "score": 1.4100000000000001
-      },
-      {
-        "text": "Low return on capital employed: 9.0%.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.439310"
+    }
   },
   {
     "company_id": "ADANIENT",
     "company_name": "Adani Enterprises Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 47.0% over 3 Years.",
-        "score": 37.0
+    "pros": "Company's median sales growth is 19% over the last 5 years.\nCompany has delivered good profit growth of 46% over 5 years.",
+    "cons": "The company has delivered poor profit growth of 2% over the past 5 years.\nCompany has a low return on equity of 7% over the last 3 years.\nThe company has delivered poor sales growth of 6% over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 35%",
+        "5": "5 Years: 19%",
+        "10": "10 Years: 6%"
       },
-      {
-        "text": "Profit growth is robust: 46.0% over 5 Years.",
-        "score": 36.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 47%",
+        "5": "5 Years: 46%",
+        "10": "10 Years: 2%"
       },
-      {
-        "text": "Strong sales growth: 35.0% over 3 Years.",
-        "score": 25.0
+      "roe": {
+        "3": "3 Years: 7%",
+        "5": "5 Years: 6%",
+        "10": "10 Years: 7%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 2.0% over 10 Years.",
-        "score": 8.0
-      },
-      {
-        "text": "Low return on equity: 6.0% (5 Years).",
-        "score": 4.0
-      },
-      {
-        "text": "Weak sales growth: only 6.0% over 10 Years.",
-        "score": 4.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.439852"
+    }
   },
   {
     "company_id": "ADANIGREEN",
     "company_name": "Adani Green Energy Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 96.5%.",
-        "score": 86.5
+    "pros": "Company's median sales growth is 35% over the last 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 13%.\nCompany has delivered good profit growth of 36% over 5 years.",
+    "cons": "The company has delivered poor profit growth of % over the past 5 years.\nThe company has delivered poor sales growth of % over the past 10 years.\nCompany has a low return on equity of % over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 43%",
+        "5": "5 Years: 35%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Profit growth is robust: 91.0% over 3 Years.",
-        "score": 81.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 91%",
+        "5": "5 Years: 36%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Strong sales growth: 43.0% over 3 Years.",
-        "score": 33.0
+      "roe": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: %"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on equity: 9.0% (5 Years).",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.441131"
+    }
   },
   {
     "company_id": "ADANIPORTS",
     "company_name": "Adani Ports & Special Economic Zone Ltd\r\n",
-    "pros": [
-      {
-        "text": "Strong sales growth: 29.0% over 3 Years.",
-        "score": 19.0
+    "pros": "Company's median sales growth is 20% over the last 5 years.\nCompany has delivered good profit growth of 17% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 14%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 29%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 19%"
       },
-      {
-        "text": "Strong sales growth: 20.0% over 5 Years.",
-        "score": 10.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Strong sales growth: 19.0% over 10 Years.",
-        "score": 9.0
+      "roe": {
+        "3": "3 Years: 14%",
+        "5": "5 Years: 14%",
+        "10": "10 Years: 16%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.441131"
+    }
   },
   {
     "company_id": "ADANIPOWER",
     "company_name": "Adani Power Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 154.0% over 3 Years.",
-        "score": 144.0
+    "pros": "Company's median sales growth is 16% over the last 5 years.\nCompany has delivered good profit growth of 54% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 36%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 24%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "Profit growth is robust: 87.0% over 5 Years.",
-        "score": 77.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 154%",
+        "5": "5 Years: 87%",
+        "10": "10 Years: 54%"
       },
-      {
-        "text": "Healthy average ROE: 57.1%.",
-        "score": 47.1
+      "roe": {
+        "3": "3 Years: 36%",
+        "5": "5 Years: 29%",
+        "10": "10 Years: 18%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.442128"
+    }
   },
   {
     "company_id": "AMBUJACEM",
     "company_name": "Ambuja Cements Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 15.0% over 3 Years.",
-        "score": 5.0
+    "pros": "Company has delivered good profit growth of 14% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 12%.\nCompany's median sales growth is 14% over the last 10 years.",
+    "cons": "The company has delivered poor sales growth of 5% over the past 5 years.\nThe company has delivered poor profit growth of 10% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 5%",
+        "10": "10 Years: 14%"
       },
-      {
-        "text": "Strong sales growth: 14.0% over 10 Years.",
-        "score": 4.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 15%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 14%"
       },
-      {
-        "text": "Profit growth is robust: 14.0% over 10 Years.",
-        "score": 4.0
+      "roe": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 11%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 5.0% over 5 Years.",
-        "score": 5.0
-      },
-      {
-        "text": "ROE is low: 9.2%.",
-        "score": 0.7599999999999998
-      },
-      {
-        "text": "Profit growth is low: 10.0% over 5 Years.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.443124"
+    }
   },
   {
     "company_id": "APOLLOHOSP",
     "company_name": "Apollo Hospitals\r\nChain of Indian private hospitals",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 90.0% over 3 Years.",
-        "score": 80.0
+    "pros": "Company's median sales growth is 15% over the last 5 years.\nCompany has delivered good profit growth of 11% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 13%.",
+    "cons": "Company has a low return on equity of 10% over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 22%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 16%"
       },
-      {
-        "text": "Profit growth is robust: 36.0% over 5 Years.",
-        "score": 26.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 90%",
+        "5": "5 Years: 36%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Strong sales growth: 22.0% over 3 Years.",
-        "score": 12.0
+      "roe": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 10%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on equity: 10.0% (10 Years).",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.443750"
+    }
   },
   {
     "company_id": "ASIANPAINT",
     "company_name": "Asian Paints\r\nIndian Multi-National Paint and Coating Manufacturing Company",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 41.8%.",
-        "score": 31.75
+    "pros": "Company's median sales growth is 13% over the last 5 years.\nCompany has delivered good profit growth of 16% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 26%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Healthy average ROE: 31.4%.",
-        "score": 21.45
+      "compounded_profit_growth": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 16%"
       },
-      {
-        "text": "High return on equity: 26.0% (3 Years).",
-        "score": 16.0
+      "roe": {
+        "3": "3 Years: 26%",
+        "5": "5 Years: 26%",
+        "10": "10 Years: 26%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.443750"
+    }
   },
   {
     "company_id": "ATGL",
     "company_name": "Adani Total Gas Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 38.0% over 3 Years.",
-        "score": 28.0
+    "pros": "Company's median sales growth is 21% over the last 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 20%.\nCompany has delivered good profit growth of 24% over 5 years.",
+    "cons": "The company has delivered poor profit growth of % over the past 5 years.\nThe company has delivered poor sales growth of % over the past 10 years.\nCompany has a low return on equity of % over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 38%",
+        "5": "5 Years: 21%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Profit growth is robust: 24.0% over 5 Years.",
-        "score": 14.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 24%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Strong return on capital employed: 21.2%.",
-        "score": 11.2
+      "roe": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 21%",
+        "10": "10 Years: %"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.443750"
+    }
   },
   {
     "company_id": "AXISBANK",
     "company_name": "Axis Bank Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 56.0% over 3 Years.",
-        "score": 46.0
+    "pros": "Company's median sales growth is 15% over the last 5 years.\nCompany has delivered good profit growth of 15% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 12%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 14%"
       },
-      {
-        "text": "Profit growth is robust: 40.0% over 5 Years.",
-        "score": 30.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 56%",
+        "5": "5 Years: 40%",
+        "10": "10 Years: 15%"
       },
-      {
-        "text": "Strong sales growth: 20.0% over 3 Years.",
-        "score": 10.0
+      "roe": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 11%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on capital employed: 7.1%.",
-        "score": 2.9400000000000004
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.445332"
+    }
   },
   {
     "company_id": "BAJAJ-AUTO",
     "company_name": "Bajaj Auto Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 33.5%.",
-        "score": 23.5
+    "pros": "Company's median sales growth is 8% over the last 5 years.\nCompany has delivered good profit growth of 9% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 20%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "Healthy average ROE: 26.5%.",
-        "score": 16.5
+      "compounded_profit_growth": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "High return on equity: 23.0% (10 Years).",
-        "score": 13.0
+      "roe": {
+        "3": "3 Years: 21%",
+        "5": "5 Years: 22%",
+        "10": "10 Years: 23%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 8.0% over 5 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Weak sales growth: only 8.0% over 10 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 5 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.445332"
+    }
   },
   {
     "company_id": "BAJAJFINSV",
     "company_name": "Bajaj Finserv Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 34.0% over 10 Years.",
-        "score": 24.0
+    "pros": "Company has delivered good profit growth of 24% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 17%.",
+    "cons": "The company has delivered poor sales growth of 10% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 22%",
+        "5": "5 Years: 21%",
+        "10": "10 Years: 34%"
       },
-      {
-        "text": "Profit growth is robust: 28.0% over 3 Years.",
-        "score": 18.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 28%",
+        "5": "5 Years: 24%",
+        "10": "10 Years: 22%"
       },
-      {
-        "text": "High return on equity: 24.0% (3 Years).",
-        "score": 14.0
+      "roe": {
+        "3": "3 Years: 24%",
+        "5": "5 Years: 23%",
+        "10": "10 Years: 23%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.445332"
+    }
   },
   {
     "company_id": "BAJAJHLDNG",
     "company_name": "Bajaj Holdings & Investment Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 55.0% over 3 Years.",
-        "score": 45.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 55%",
+        "5": "5 Years: 32%",
+        "10": "10 Years: 15%"
       },
-      {
-        "text": "Strong sales growth: 32.0% over 5 Years.",
-        "score": 22.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 26%",
+        "5": "5 Years: 19%",
+        "10": "10 Years: 14%"
       },
-      {
-        "text": "Profit growth is robust: 26.0% over 3 Years.",
-        "score": 16.0
+      "roe": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 12%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.445332"
+    }
   },
   {
     "company_id": "BAJFINANCE",
     "company_name": "Bajaj Finance Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 48.0% over 3 Years.",
-        "score": 38.0
+    "pros": "Company's median sales growth is 32% over the last 5 years.\nCompany has delivered good profit growth of 29% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 16%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 27%",
+        "5": "5 Years: 24%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Profit growth is robust: 29.0% over 5 Years.",
-        "score": 19.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 48%",
+        "5": "5 Years: 29%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Strong sales growth: 27.0% over 3 Years.",
-        "score": 17.0
+      "roe": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 18%",
+        "10": "10 Years: %"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.445332"
+    }
   },
   {
     "company_id": "BANKBARODA",
     "company_name": "Bank of Baroda",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 127.0% over 3 Years.",
-        "score": 117.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 17%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Profit growth is robust: 75.0% over 5 Years.",
-        "score": 65.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 127%",
+        "5": "5 Years: 75%",
+        "10": "10 Years: 14%"
       },
-      {
-        "text": "Strong sales growth: 17.0% over 3 Years.",
-        "score": 7.0
+      "roe": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 8%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on capital employed: 6.3%.",
-        "score": 3.67
-      },
-      {
-        "text": "Low return on equity: 8.0% (10 Years).",
-        "score": 2.0
-      },
-      {
-        "text": "Low return on equity: 10.0% (5 Years).",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.445332"
+    }
   },
   {
     "company_id": "BEL",
     "company_name": "Bharat Electronics Ltd",
-    "pros": [
-      {
-        "text": "High return on equity: 4670.0% (10 Years).",
-        "score": 4660.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 12%"
       },
-      {
-        "text": "High return on equity: 3997.0% (3 Years).",
-        "score": 3987.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 24%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 15%"
       },
-      {
-        "text": "High return on equity: 3883.0% (5 Years).",
-        "score": 3873.0
+      "roe": {
+        "3": "3 Years: 3997%",
+        "5": "5 Years: 3883%",
+        "10": "10 Years: 4670%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.445332"
+    }
   },
   {
     "company_id": "BHARTIARTL",
     "company_name": "Bharti Airtel Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 39.0% over 3 Years.",
-        "score": 29.0
+    "pros": "Company's median sales growth is 17% over the last 5 years.\nCompany has delivered good profit growth of 50% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 10%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 14%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 6%"
       },
-      {
-        "text": "Profit growth is robust: 38.0% over 5 Years.",
-        "score": 28.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 39%",
+        "5": "5 Years: 38%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Healthy average ROE: 14.9%.",
-        "score": 4.9
+      "roe": {
+        "3": "3 Years: 6%",
+        "5": "5 Years: -3%",
+        "10": "10 Years: 1%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on equity: -3.0% (5 Years).",
-        "score": 13.0
-      },
-      {
-        "text": "Low return on equity: 1.0% (10 Years).",
-        "score": 9.0
-      },
-      {
-        "text": "Low return on equity: 6.0% (3 Years).",
-        "score": 4.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.445332"
+    }
   },
   {
     "company_id": "BHEL",
     "company_name": "Bharat Heavy Electricals Limited\r\n",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 28.0% over 3 Years.",
-        "score": 18.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: -5%",
+        "10": "10 Years: -5%"
       },
-      {
-        "text": "Strong sales growth: 11.0% over 3 Years.",
-        "score": 1.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 28%",
+        "5": "5 Years: -22%",
+        "10": "10 Years: -22%"
+      },
+      "roe": {
+        "3": "3 Years: -1%",
+        "5": "5 Years: -1%",
+        "10": "10 Years: 1%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: -22.0% over 5 Years.",
-        "score": 32.0
-      },
-      {
-        "text": "Profit growth is low: -22.0% over 10 Years.",
-        "score": 32.0
-      },
-      {
-        "text": "Weak sales growth: only -5.0% over 5 Years.",
-        "score": 15.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "BOSCHLTD",
     "company_name": "Bosch Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 73.0% over 3 Years.",
-        "score": 63.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 7%",
+        "10": "10 Years: 7%"
       },
-      {
-        "text": "Strong return on capital employed: 20.6%.",
-        "score": 10.600000000000001
+      "compounded_profit_growth": {
+        "3": "3 Years: 73%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Strong sales growth: 20.0% over 3 Years.",
-        "score": 10.0
+      "roe": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 14%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 7.0% over 5 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Weak sales growth: only 7.0% over 10 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 5 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "BPCL",
     "company_name": "Bharat Petroleum Corporation Ltd",
-    "pros": [
-      {
-        "text": "Healthy average ROE: 41.9%.",
-        "score": 31.9
+    "pros": "Company has delivered good profit growth of 14% over 5 years.\nCompany's median sales growth is 15% over the last 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 18%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 25%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 5%"
       },
-      {
-        "text": "Strong return on capital employed: 32.1%.",
-        "score": 22.1
+      "compounded_profit_growth": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 26%",
+        "10": "10 Years: 21%"
       },
-      {
-        "text": "Profit growth is robust: 26.0% over 5 Years.",
-        "score": 16.0
+      "roe": {
+        "3": "3 Years: 25%",
+        "5": "5 Years: 23%",
+        "10": "10 Years: 24%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 5.0% over 10 Years.",
-        "score": 5.0
-      },
-      {
-        "text": "Weak sales growth: only 8.0% over 5 Years.",
-        "score": 2.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "BRITANNIA",
     "company_name": "Britannia Industries Ltd",
-    "pros": [
-      {
-        "text": "High return on equity: 58.0% (3 Years).",
-        "score": 48.0
+    "pros": "Company has delivered good profit growth of 11% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 38%.",
+    "cons": "The company has delivered poor sales growth of 9% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 8%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Healthy average ROE: 57.1%.",
-        "score": 47.1
+      "compounded_profit_growth": {
+        "3": "3 Years: 5%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 18%"
       },
-      {
-        "text": "Strong return on capital employed: 48.9%.",
-        "score": 38.9
+      "roe": {
+        "3": "3 Years: 58%",
+        "5": "5 Years: 47%",
+        "10": "10 Years: 44%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 5.0% over 3 Years.",
-        "score": 5.0
-      },
-      {
-        "text": "Weak sales growth: only 8.0% over 3 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Weak sales growth: only 9.0% over 5 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "CANBK",
     "company_name": "Canara Bank",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 86.0% over 5 Years.",
-        "score": 76.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 18%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Profit growth is robust: 73.0% over 3 Years.",
-        "score": 63.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 73%",
+        "5": "5 Years: 86%",
+        "10": "10 Years: 19%"
       },
-      {
-        "text": "Profit growth is robust: 19.0% over 10 Years.",
-        "score": 9.0
+      "roe": {
+        "3": "3 Years: 14%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 7%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on capital employed: 6.6%.",
-        "score": 3.37
-      },
-      {
-        "text": "Low return on equity: 7.0% (10 Years).",
-        "score": 3.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "CHOLAFIN",
     "company_name": "Cholamandalam Investment & Finance Company Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 31.0% over 3 Years.",
-        "score": 21.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 26%",
+        "5": "5 Years: 22%",
+        "10": "10 Years: 19%"
       },
-      {
-        "text": "Strong sales growth: 26.0% over 3 Years.",
-        "score": 16.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 31%",
+        "5": "5 Years: 23%",
+        "10": "10 Years: 25%"
       },
-      {
-        "text": "Profit growth is robust: 25.0% over 10 Years.",
-        "score": 15.0
+      "roe": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 17%",
+        "10": "10 Years: 17%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "CIPLA",
     "company_name": "Cipla Ltd\r\n",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 23.0% over 5 Years.",
-        "score": 13.0
+    "pros": "Company's median sales growth is 11% over the last 5 years.\nCompany has delivered good profit growth of 17% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 15%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 10%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 10%"
       },
-      {
-        "text": "Strong return on capital employed: 22.8%.",
-        "score": 12.8
+      "compounded_profit_growth": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 23%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Profit growth is robust: 20.0% over 3 Years.",
-        "score": 10.0
+      "roe": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 12%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 10.0% over 3 Years.",
-        "score": -0.0
-      },
-      {
-        "text": "Weak sales growth: only 10.0% over 5 Years.",
-        "score": -0.0
-      },
-      {
-        "text": "Weak sales growth: only 10.0% over 10 Years.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "COALINDIA",
     "company_name": "Coal India Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 63.6%.",
-        "score": 53.6
+    "pros": "Company has delivered good profit growth of 10% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 54%.",
+    "cons": "The company has delivered poor sales growth of 8% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 7%",
+        "10": "10 Years: 7%"
       },
-      {
-        "text": "Healthy average ROE: 52.0%.",
-        "score": 42.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 43%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "High return on equity: 47.0% (5 Years).",
-        "score": 37.0
+      "roe": {
+        "3": "3 Years: 44%",
+        "5": "5 Years: 47%",
+        "10": "10 Years: 43%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 7.0% over 5 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Weak sales growth: only 7.0% over 10 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 10 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "DABUR",
     "company_name": "Dabur India Ltd",
-    "pros": [
-      {
-        "text": "High return on equity: 23.0% (10 Years).",
-        "score": 13.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 6%"
       },
-      {
-        "text": "Strong return on capital employed: 22.3%.",
-        "score": 12.3
+      "compounded_profit_growth": {
+        "3": "3 Years: 2%",
+        "5": "5 Years: 5%",
+        "10": "10 Years: 7%"
       },
-      {
-        "text": "High return on equity: 21.0% (5 Years).",
-        "score": 11.0
+      "roe": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 21%",
+        "10": "10 Years: 23%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 2.0% over 3 Years.",
-        "score": 8.0
-      },
-      {
-        "text": "Profit growth is low: 5.0% over 5 Years.",
-        "score": 5.0
-      },
-      {
-        "text": "Weak sales growth: only 6.0% over 10 Years.",
-        "score": 4.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "DLF",
     "company_name": "DLF Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 36.0% over 3 Years.",
-        "score": 26.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 6%",
+        "5": "5 Years: -5%",
+        "10": "10 Years: -3%"
       },
-      {
-        "text": "Profit growth is robust: 17.0% over 10 Years.",
-        "score": 7.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 36%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Profit growth is robust: 16.0% over 5 Years.",
-        "score": 6.0
+      "roe": {
+        "3": "3 Years: 5%",
+        "5": "5 Years: 4%",
+        "10": "10 Years: 4%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only -5.0% over 5 Years.",
-        "score": 15.0
-      },
-      {
-        "text": "Weak sales growth: only -3.0% over 10 Years.",
-        "score": 13.0
-      },
-      {
-        "text": "Low return on equity: 4.0% (5 Years).",
-        "score": 6.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "DMART",
     "company_name": "Avenue Supermarts Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 32.0% over 3 Years.",
-        "score": 22.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 28%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 27%"
       },
-      {
-        "text": "Profit growth is robust: 32.0% over 10 Years.",
-        "score": 22.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 32%",
+        "5": "5 Years: 23%",
+        "10": "10 Years: 32%"
       },
-      {
-        "text": "Strong sales growth: 28.0% over 3 Years.",
-        "score": 18.0
+      "roe": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 13%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.449806"
+    }
   },
   {
     "company_id": "DRREDDY",
     "company_name": "Dr Reddys Laboratories Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 42.0% over 3 Years.",
-        "score": 32.0
+    "pros": "Company's median sales growth is 11% over the last 5 years.\nCompany has delivered good profit growth of 26% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 17%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 14%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "Strong return on capital employed: 26.5%.",
-        "score": 16.5
+      "compounded_profit_growth": {
+        "3": "3 Years: 42%",
+        "5": "5 Years: 23%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Profit growth is robust: 23.0% over 5 Years.",
-        "score": 13.0
+      "roe": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 16%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 8.0% over 10 Years.",
-        "score": 2.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.455635"
+    }
   },
   {
     "company_id": "EICHERMOT",
     "company_name": "Eicher Motors Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 44.0% over 3 Years.",
-        "score": 34.0
+    "pros": "Company's median sales growth is 11% over the last 5 years.\nCompany has delivered good profit growth of 13% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 20%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 24%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Strong return on capital employed: 31.1%.",
-        "score": 21.1
+      "compounded_profit_growth": {
+        "3": "3 Years: 44%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 23%"
       },
-      {
-        "text": "Healthy average ROE: 24.2%.",
-        "score": 14.2
+      "roe": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 18%",
+        "10": "10 Years: 21%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 9.0% over 10 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.456644"
+    }
   },
   {
     "company_id": "GAIL",
     "company_name": "GAIL (India) Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 32.0% over 3 Years.",
-        "score": 22.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 32%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "Profit growth is robust: 17.0% over 3 Years.",
-        "score": 7.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "Strong return on capital employed: 14.7%.",
-        "score": 4.699999999999999
+      "roe": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 14%",
+        "10": "10 Years: 13%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 8.0% over 10 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Profit growth is low: 8.0% over 10 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 5 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.458736"
+    }
   },
   {
     "company_id": "GODREJCP",
     "company_name": "Godrej Consumer Products Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 26.5%.",
-        "score": 16.49
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 6%",
+        "10": "10 Years: 6%"
       },
-      {
-        "text": "High return on equity: 16.0% (10 Years).",
-        "score": 6.0
+      "compounded_profit_growth": {
+        "3": "3 Years: -10%",
+        "5": "5 Years: -4%",
+        "10": "10 Years: -5%"
       },
-      {
-        "text": "High return on equity: 14.0% (5 Years).",
-        "score": 4.0
+      "roe": {
+        "3": "3 Years: 10%",
+        "5": "5 Years: 14%",
+        "10": "10 Years: 16%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: -10.0% over 3 Years.",
-        "score": 20.0
-      },
-      {
-        "text": "Profit growth is low: -5.0% over 10 Years.",
-        "score": 15.0
-      },
-      {
-        "text": "Profit growth is low: -4.0% over 5 Years.",
-        "score": 14.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.458736"
+    }
   },
   {
     "company_id": "GRASIM",
     "company_name": "Grasim Industries Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 29.0% over 5 Years.",
-        "score": 19.0
+    "pros": "Company's median sales growth is 18% over the last 5 years.\nCompany has delivered good profit growth of 14% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 10%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Strong sales growth: 20.0% over 3 Years.",
-        "score": 10.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 29%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "Strong sales growth: 17.0% over 10 Years.",
-        "score": 7.0
+      "roe": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 11%"
       }
-    ],
-    "cons": [
-      {
-        "text": "ROE is low: 6.9%.",
-        "score": 3.0999999999999996
-      },
-      {
-        "text": "Low return on capital employed: 9.3%.",
-        "score": 0.6999999999999993
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.461396"
+    }
   },
   {
     "company_id": "HAL",
     "company_name": "Hindustan Aeronautics Ltd",
-    "pros": [
-      {
-        "text": "High return on equity: 3229.0% (3 Years).",
-        "score": 3219.0
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 10%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 7%"
       },
-      {
-        "text": "High return on equity: 2852.0% (5 Years).",
-        "score": 2842.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 33%",
+        "5": "5 Years: 26%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Strong return on capital employed: 38.9%.",
-        "score": 28.9
+      "roe": {
+        "3": "3 Years: 3229%",
+        "5": "5 Years: 2852%",
+        "10": "10 Years: %"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 7.0% over 10 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Weak sales growth: only 9.0% over 5 Years.",
-        "score": 1.0
-      },
-      {
-        "text": "Weak sales growth: only 10.0% over 3 Years.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.461396"
+    }
   },
   {
     "company_id": "HAVELLS",
     "company_name": "Havells India Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 24.4%.",
-        "score": 14.399999999999999
+    "pros": "",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 21%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Strong sales growth: 21.0% over 3 Years.",
-        "score": 11.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 7%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "High return on equity: 20.0% (10 Years).",
-        "score": 10.0
+      "roe": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 18%",
+        "10": "10 Years: 20%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 7.0% over 3 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Weak sales growth: only 9.0% over 10 Years.",
-        "score": 1.0
-      },
-      {
-        "text": "Profit growth is low: 10.0% over 5 Years.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.463404"
+    }
   },
   {
     "company_id": "HCLTECH",
     "company_name": "HCL Technologies Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 29.6%.",
-        "score": 19.6
+    "pros": "Company's median sales growth is 15% over the last 5 years.\nCompany has delivered good profit growth of 11% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 22%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "Healthy average ROE: 23.3%.",
-        "score": 13.3
+      "compounded_profit_growth": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "High return on equity: 23.0% (10 Years).",
-        "score": 13.0
+      "roe": {
+        "3": "3 Years: 22%",
+        "5": "5 Years: 22%",
+        "10": "10 Years: 23%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 9.0% over 5 Years.",
-        "score": 1.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 10 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.463404"
+    }
   },
   {
     "company_id": "HDFCBANK",
     "company_name": "HDFC Bank Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 30.0% over 3 Years.",
-        "score": 20.0
+    "pros": "Company's median sales growth is 15% over the last 5 years.\nCompany has delivered good profit growth of 18% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 16%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 30%",
+        "5": "5 Years: 22%",
+        "10": "10 Years: 21%"
       },
-      {
-        "text": "Profit growth is robust: 27.0% over 3 Years.",
-        "score": 17.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 27%",
+        "5": "5 Years: 24%",
+        "10": "10 Years: 22%"
       },
-      {
-        "text": "Profit growth is robust: 24.0% over 5 Years.",
-        "score": 14.0
+      "roe": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 20%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on capital employed: 7.7%.",
-        "score": 2.33
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.465411"
+    }
   },
   {
     "company_id": "HDFCLIFE",
     "company_name": "HDFC Life Insurance Company Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 21.0% over 5 Years.",
-        "score": 11.0
+    "pros": "Company has delivered good profit growth of 17% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 14%.",
+    "cons": "The company has delivered poor sales growth of 8% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 21%",
+        "10": "10 Years: 19%"
       },
-      {
-        "text": "Strong sales growth: 19.0% over 10 Years.",
-        "score": 9.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 5%",
+        "5": "5 Years: 4%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "High return on equity: 16.0% (10 Years).",
-        "score": 6.0
+      "roe": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 16%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 4.0% over 5 Years.",
-        "score": 6.0
-      },
-      {
-        "text": "Profit growth is low: 5.0% over 3 Years.",
-        "score": 5.0
-      },
-      {
-        "text": "Low return on capital employed: 6.6%.",
-        "score": 3.3899999999999997
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.465411"
+    }
   },
   {
     "company_id": "HEROMOTOCO",
     "company_name": "Hero MotoCorp Ltd\r\n",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 29.1%.",
-        "score": 19.1
+    "pros": "Company's median sales growth is 5% over the last 5 years.\nCompany has delivered good profit growth of 8% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 21%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 7%",
+        "5": "5 Years: 2%",
+        "10": "10 Years: 4%"
       },
-      {
-        "text": "High return on equity: 25.0% (10 Years).",
-        "score": 15.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 8%",
+        "5": "5 Years: 2%",
+        "10": "10 Years: 6%"
       },
-      {
-        "text": "Healthy average ROE: 22.0%.",
-        "score": 12.0
+      "roe": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 25%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 2.0% over 5 Years.",
-        "score": 8.0
-      },
-      {
-        "text": "Profit growth is low: 2.0% over 5 Years.",
-        "score": 8.0
-      },
-      {
-        "text": "Weak sales growth: only 4.0% over 10 Years.",
-        "score": 6.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.467419"
+    }
   },
   {
     "company_id": "HINDALCO",
     "company_name": "Hindalco Industries Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 43.0% over 3 Years.",
-        "score": 33.0
+    "pros": "Company's median sales growth is 18% over the last 5 years.\nCompany has delivered good profit growth of 28% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 13%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Strong sales growth: 18.0% over 3 Years.",
-        "score": 8.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 43%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Profit growth is robust: 17.0% over 10 Years.",
-        "score": 7.0
+      "roe": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 8%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on equity: 8.0% (10 Years).",
-        "score": 2.0
-      },
-      {
-        "text": "Weak sales growth: only 9.0% over 10 Years.",
-        "score": 1.0
-      },
-      {
-        "text": "Low return on equity: 10.0% (5 Years).",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.467419"
+    }
   },
   {
     "company_id": "HINDUNILVR",
     "company_name": "Hindustan Unilever Ltd\r\n",
-    "pros": [
-      {
-        "text": "High return on equity: 30.0% (10 Years).",
-        "score": 20.0
+    "pros": "Company has delivered good profit growth of 14% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 27%.",
+    "cons": "The company has delivered poor sales growth of 10% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 10%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "Strong return on capital employed: 27.2%.",
-        "score": 17.2
+      "compounded_profit_growth": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 10%"
       },
-      {
-        "text": "High return on equity: 23.0% (5 Years).",
-        "score": 13.0
+      "roe": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 23%",
+        "10": "10 Years: 30%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 8.0% over 10 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 3 Years.",
-        "score": 1.0
-      },
-      {
-        "text": "Weak sales growth: only 10.0% over 3 Years.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.469426"
+    }
   },
   {
     "company_id": "ICICIBANK",
     "company_name": "ICICI Bank Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 52.0% over 5 Years.",
-        "score": 42.0
+    "pros": "Company's median sales growth is 15% over the last 5 years.\nCompany has delivered good profit growth of 32% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 16%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 21%",
+        "5": "5 Years: 17%",
+        "10": "10 Years: 12%"
       },
-      {
-        "text": "Profit growth is robust: 31.0% over 3 Years.",
-        "score": 21.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 31%",
+        "5": "5 Years: 52%",
+        "10": "10 Years: 15%"
       },
-      {
-        "text": "Strong sales growth: 21.0% over 3 Years.",
-        "score": 11.0
+      "roe": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 15%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on capital employed: 7.6%.",
-        "score": 2.4000000000000004
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.469426"
+    }
   },
   {
     "company_id": "ICICIGI",
     "company_name": "ICICI Lombard General Insurance Company Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 22.5%.",
-        "score": 12.5
+    "pros": "Company's median sales growth is 13% over the last 5 years.\nCompany has delivered good profit growth of 14% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 16%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Strong sales growth: 19.0% over 3 Years.",
-        "score": 9.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 14%"
       },
-      {
-        "text": "High return on equity: 17.0% (5 Years).",
-        "score": 7.0
+      "roe": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 17%",
+        "10": "10 Years: 17%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 9.0% over 3 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.471433"
+    }
   },
   {
     "company_id": "ICICIPRULI",
     "company_name": "ICICI Prudential Life Insurance Company Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 17.0% over 5 Years.",
-        "score": 7.0
+    "pros": "Company's median sales growth is 10% over the last 5 years.\nCompany has delivered good profit growth of 13% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 13%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 3%",
+        "5": "5 Years: 17%",
+        "10": "10 Years: 15%"
       },
-      {
-        "text": "High return on equity: 17.0% (10 Years).",
-        "score": 7.0
+      "compounded_profit_growth": {
+        "3": "3 Years: -4%",
+        "5": "5 Years: -6%",
+        "10": "10 Years: -6%"
       },
-      {
-        "text": "Strong sales growth: 15.0% over 10 Years.",
-        "score": 5.0
+      "roe": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 17%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: -6.0% over 5 Years.",
-        "score": 16.0
-      },
-      {
-        "text": "Profit growth is low: -6.0% over 10 Years.",
-        "score": 16.0
-      },
-      {
-        "text": "Profit growth is low: -4.0% over 3 Years.",
-        "score": 14.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.472366"
+    }
   },
   {
     "company_id": "INDIGO",
     "company_name": "Interglobe Aviation Ltd",
-    "pros": [
-      {
-        "text": "High return on equity: 250.0% (10 Years).",
-        "score": 240.0
+    "pros": "Company's median sales growth is 19% over the last 5 years.\nCompany has delivered good profit growth of 33% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 47%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 68%",
+        "5": "5 Years: 19%",
+        "10": "10 Years: 20%"
       },
-      {
-        "text": "Profit growth is robust: 121.0% over 5 Years.",
-        "score": 111.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 49%",
+        "5": "5 Years: 121%",
+        "10": "10 Years: 33%"
       },
-      {
-        "text": "Strong sales growth: 68.0% over 3 Years.",
-        "score": 58.0
+      "roe": {
+        "3": "3 Years: 47%",
+        "5": "5 Years: 40%",
+        "10": "10 Years: 250%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.473372"
+    }
   },
   {
     "company_id": "INDUSINDBK",
     "company_name": "IndusInd Bank Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 47.0% over 3 Years.",
-        "score": 37.0
+    "pros": "Company's median sales growth is 14% over the last 5 years.\nCompany has delivered good profit growth of 24% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 13%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 19%"
       },
-      {
-        "text": "Profit growth is robust: 22.0% over 5 Years.",
-        "score": 12.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 47%",
+        "5": "5 Years: 22%",
+        "10": "10 Years: 20%"
       },
-      {
-        "text": "Profit growth is robust: 20.0% over 10 Years.",
-        "score": 10.0
+      "roe": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 14%",
+        "10": "10 Years: 15%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on capital employed: 7.9%.",
-        "score": 2.0700000000000003
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.475378"
+    }
   },
   {
     "company_id": "INFY",
     "company_name": "Infosys Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 40.0%.",
-        "score": 30.0
+    "pros": "Company's median sales growth is 14% over the last 5 years.\nCompany has delivered good profit growth of 11% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 31%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 15%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 12%"
       },
-      {
-        "text": "Healthy average ROE: 31.8%.",
-        "score": 21.8
+      "compounded_profit_growth": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "High return on equity: 29.0% (3 Years).",
-        "score": 19.0
+      "roe": {
+        "3": "3 Years: 29%",
+        "5": "5 Years: 28%",
+        "10": "10 Years: 26%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 9.0% over 10 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.476379"
+    }
   },
   {
     "company_id": "IOC",
     "company_name": "Indian Oil Corporation\r\n",
-    "pros": [
-      {
-        "text": "Strong sales growth: 29.0% over 3 Years.",
-        "score": 19.0
+    "pros": "Company has delivered good profit growth of 20% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 18%.\nCompany has delivered good profit growth of 20% over 5 years.",
+    "cons": "The company has delivered poor sales growth of 8% over the past 5 years.\nThe company has delivered poor sales growth of 5% over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 29%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 5%"
       },
-      {
-        "text": "Profit growth is robust: 26.0% over 3 Years.",
-        "score": 16.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 26%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 20%"
       },
-      {
-        "text": "Healthy average ROE: 25.4%.",
-        "score": 15.440000000000001
+      "roe": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 15%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 5.0% over 10 Years.",
-        "score": 5.0
-      },
-      {
-        "text": "Weak sales growth: only 8.0% over 5 Years.",
-        "score": 2.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.477373"
+    }
   },
   {
     "company_id": "IRCTC",
     "company_name": "Indian Railway Catering & Tourism Corporation Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 81.0% over 3 Years.",
-        "score": 71.0
+    "pros": "Company's median sales growth is 18% over the last 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 33%.\nCompany has delivered good profit growth of 29% over 5 years.",
+    "cons": "The company has delivered poor profit growth of % over the past 5 years.\nThe company has delivered poor sales growth of % over the past 10 years.\nCompany has a low return on equity of % over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 76%",
+        "5": "5 Years: 18%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Strong sales growth: 76.0% over 3 Years.",
-        "score": 66.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 81%",
+        "5": "5 Years: 29%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Strong return on capital employed: 53.8%.",
-        "score": 43.8
+      "roe": {
+        "3": "3 Years: 33%",
+        "5": "5 Years: 33%",
+        "10": "10 Years: %"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.478372"
+    }
   },
   {
     "company_id": "IRFC",
     "company_name": "Indian Railway Finance Corporation Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 25.0% over 10 Years.",
-        "score": 15.0
+    "pros": "Company's median sales growth is 19% over the last 5 years.\nCompany has delivered good profit growth of 25% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 14%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 19%",
+        "10": "10 Years: 16%"
       },
-      {
-        "text": "Profit growth is robust: 23.0% over 5 Years.",
-        "score": 13.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 23%",
+        "10": "10 Years: 25%"
       },
-      {
-        "text": "Strong sales growth: 19.0% over 3 Years.",
-        "score": 9.0
+      "roe": {
+        "3": "3 Years: 14%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 12%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on capital employed: 5.7%.",
-        "score": 4.27
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.479372"
+    }
   },
   {
     "company_id": "ITC",
     "company_name": "ITC Ltd\r\n",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 34.8%.",
-        "score": 24.759999999999998
+    "pros": "Company has delivered good profit growth of 11% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 27%.",
+    "cons": "The company has delivered poor sales growth of 9% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 7%"
       },
-      {
-        "text": "Healthy average ROE: 29.5%.",
-        "score": 19.47
+      "compounded_profit_growth": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "High return on equity: 26.0% (3 Years).",
-        "score": 16.0
+      "roe": {
+        "3": "3 Years: 26%",
+        "5": "5 Years: 25%",
+        "10": "10 Years: 25%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 7.0% over 10 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Weak sales growth: only 8.0% over 5 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 10 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.480372"
+    }
   },
   {
     "company_id": "JINDALSTEL",
     "company_name": "Jindal Steel & Power Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 35.0% over 5 Years.",
-        "score": 25.0
+    "pros": "Company has delivered good profit growth of 12% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 14%.\nCompany has delivered good profit growth of 35% over 5 years.",
+    "cons": "The company has delivered poor sales growth of 1% over the past 5 years.\nThe company has delivered poor sales growth of 10% over the past 10 years.\nCompany has a low return on equity of 3% over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 1%",
+        "10": "10 Years: 10%"
       },
-      {
-        "text": "Healthy average ROE: 14.1%.",
-        "score": 4.1
+      "compounded_profit_growth": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 35%",
+        "10": "10 Years: 12%"
       },
-      {
-        "text": "High return on equity: 14.0% (3 Years).",
-        "score": 4.0
+      "roe": {
+        "3": "3 Years: 14%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 3%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 1.0% over 5 Years.",
-        "score": 9.0
-      },
-      {
-        "text": "Low return on equity: 3.0% (10 Years).",
-        "score": 7.0
-      },
-      {
-        "text": "Low return on equity: 8.0% (5 Years).",
-        "score": 2.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.481374"
+    }
   },
   {
     "company_id": "JIOFIN",
     "company_name": "Jio Financial Services Ltd",
-    "pros": [],
-    "cons": [
-      {
-        "text": "ROE is low: 1.8%.",
-        "score": 8.18
+    "pros": "",
+    "cons": "The company has delivered poor sales growth of % over the past 5 years.\nThe company has delivered poor profit growth of % over the past 5 years.\nCompany has a low return on equity of % over the last 3 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: %",
+        "5": "5 Years: %",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Low return on capital employed: 2.2%.",
-        "score": 7.84
+      "compounded_profit_growth": {
+        "3": "3 Years: %",
+        "5": "5 Years: %",
+        "10": "10 Years: %"
+      },
+      "roe": {
+        "3": "3 Years: %",
+        "5": "5 Years: %",
+        "10": "10 Years: %"
       }
-    ],
-    "last_updated": "2025-08-15T12:09:30.482373"
+    }
   },
   {
     "company_id": "JSWENERGY",
     "company_name": "JSW Energy Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 28.0% over 3 Years.",
-        "score": 18.0
+    "pros": "Company has delivered good profit growth of 20% over 5 years.",
+    "cons": "The company has delivered poor sales growth of 5% over the past 5 years.\nThe company has delivered poor profit growth of 9% over the past 5 years.\nCompany has a low return on equity of 8% over the last 3 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 5%",
+        "10": "10 Years: 3%"
       },
-      {
-        "text": "Profit growth is robust: 20.0% over 5 Years.",
-        "score": 10.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 28%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Strong sales growth: 18.0% over 3 Years.",
-        "score": 8.0
+      "roe": {
+        "3": "3 Years: 8%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 8%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 3.0% over 10 Years.",
-        "score": 7.0
-      },
-      {
-        "text": "Weak sales growth: only 5.0% over 5 Years.",
-        "score": 5.0
-      },
-      {
-        "text": "Low return on equity: 8.0% (3 Years).",
-        "score": 2.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.483371"
+    }
   },
   {
     "company_id": "JSWSTEEL",
     "company_name": "JSW Steel Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 36.0% over 10 Years.",
-        "score": 26.0
+    "pros": "Company's median sales growth is 23% over the last 5 years.\nCompany has delivered good profit growth of 20% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 22%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 30%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "Strong sales growth: 30.0% over 3 Years.",
-        "score": 20.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 4%",
+        "5": "5 Years: 4%",
+        "10": "10 Years: 36%"
       },
-      {
-        "text": "High return on equity: 16.0% (3 Years).",
-        "score": 6.0
+      "roe": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 15%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 4.0% over 3 Years.",
-        "score": 6.0
-      },
-      {
-        "text": "Profit growth is low: 4.0% over 5 Years.",
-        "score": 6.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.484373"
+    }
   },
   {
     "company_id": "KOTAKBANK",
     "company_name": "Kotak Mahindra Bank Ltd\r\n",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 22.0% over 3 Years.",
-        "score": 12.0
+    "pros": "Company's median sales growth is 15% over the last 5 years.\nCompany has delivered good profit growth of 17% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 13%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 14%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Profit growth is robust: 22.0% over 10 Years.",
-        "score": 12.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 22%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 22%"
       },
-      {
-        "text": "Strong sales growth: 20.0% over 3 Years.",
-        "score": 10.0
+      "roe": {
+        "3": "3 Years: 15%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 15%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on capital employed: 7.9%.",
-        "score": 2.1399999999999997
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.485373"
+    }
   },
   {
     "company_id": "LICI",
     "company_name": "Life Insurance Corporation of India",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 140.0% over 3 Years.",
-        "score": 130.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 57%.\nCompany has delivered good profit growth of 73% over 5 years.",
+    "cons": "The company has delivered poor sales growth of 8% over the past 5 years.\nThe company has delivered poor profit growth of % over the past 5 years.\nThe company has delivered poor sales growth of % over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 7%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Profit growth is robust: 73.0% over 5 Years.",
-        "score": 63.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 140%",
+        "5": "5 Years: 73%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Strong return on capital employed: 63.8%.",
-        "score": 53.79
+      "roe": {
+        "3": "3 Years: 57%",
+        "5": "5 Years: 60%",
+        "10": "10 Years: %"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 7.0% over 3 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Weak sales growth: only 8.0% over 5 Years.",
-        "score": 2.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.486376"
+    }
   },
   {
     "company_id": "LODHA",
     "company_name": "Macrotech Developers Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 219.0% over 3 Years.",
-        "score": 209.0
+    "pros": "Company has delivered good profit growth of 15% over 5 years.\nCompany's median sales growth is 13% over the last 10 years.\nCompany has a good return on equity (ROE) track record: 10 Years ROE 12%.",
+    "cons": "The company has delivered poor sales growth of -3% over the past 5 years.\nCompany has a low return on equity of 7% over the last 3 years.\nThe company has delivered poor profit growth of -1% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 24%",
+        "5": "5 Years: -3%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "Strong sales growth: 24.0% over 3 Years.",
-        "score": 14.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 219%",
+        "5": "5 Years: -1%",
+        "10": "10 Years: 15%"
       },
-      {
-        "text": "Profit growth is robust: 15.0% over 10 Years.",
-        "score": 5.0
+      "roe": {
+        "3": "3 Years: 7%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 12%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only -3.0% over 5 Years.",
-        "score": 13.0
-      },
-      {
-        "text": "Profit growth is low: -1.0% over 5 Years.",
-        "score": 11.0
-      },
-      {
-        "text": "Low return on equity: 7.0% (3 Years).",
-        "score": 3.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.487374"
+    }
   },
   {
     "company_id": "LT",
     "company_name": "Larsen & Toubro Ltd",
-    "pros": [
-      {
-        "text": "High return on equity: 125.0% (10 Years).",
-        "score": 115.0
+    "pros": "Company's median sales growth is 13% over the last 5 years.\nCompany has delivered good profit growth of 14% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 12%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 10%"
       },
-      {
-        "text": "High return on equity: 106.0% (5 Years).",
-        "score": 96.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 6%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 12%"
       },
-      {
-        "text": "High return on equity: 88.0% (3 Years).",
-        "score": 78.0
+      "roe": {
+        "3": "3 Years: 88%",
+        "5": "5 Years: 106%",
+        "10": "10 Years: 125%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 6.0% over 3 Years.",
-        "score": 4.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 5 Years.",
-        "score": 1.0
-      },
-      {
-        "text": "Weak sales growth: only 10.0% over 5 Years.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.489373"
+    }
   },
   {
     "company_id": "LTIM",
     "company_name": "LTIMindtree Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 42.0% over 3 Years.",
-        "score": 32.0
+    "pros": "Company's median sales growth is 30% over the last 5 years.\nCompany has delivered good profit growth of 16% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 26%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 42%",
+        "5": "5 Years: 30%",
+        "10": "10 Years: 22%"
       },
-      {
-        "text": "Strong return on capital employed: 34.1%.",
-        "score": 24.1
+      "compounded_profit_growth": {
+        "3": "3 Years: 33%",
+        "5": "5 Years: 25%",
+        "10": "10 Years: 16%"
       },
-      {
-        "text": "Profit growth is robust: 33.0% over 3 Years.",
-        "score": 23.0
+      "roe": {
+        "3": "3 Years: 26%",
+        "5": "5 Years: 26%",
+        "10": "10 Years: 28%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.490374"
+    }
   },
   {
     "company_id": "M&M",
     "company_name": "Mahindra & Mahindra Ltd\r\n",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 101.0% over 3 Years.",
-        "score": 91.0
+    "pros": "Company's median sales growth is 11% over the last 5 years.\nCompany has delivered good profit growth of 22% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 13%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 23%",
+        "5": "5 Years: 6%",
+        "10": "10 Years: 7%"
       },
-      {
-        "text": "Strong return on capital employed: 27.0%.",
-        "score": 16.98
+      "compounded_profit_growth": {
+        "3": "3 Years: 101%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Strong sales growth: 23.0% over 3 Years.",
-        "score": 13.0
+      "roe": {
+        "3": "3 Years: 15%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 14%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 6.0% over 5 Years.",
-        "score": 4.0
-      },
-      {
-        "text": "Weak sales growth: only 7.0% over 10 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 10 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.491373"
+    }
   },
   {
     "company_id": "MARUTI",
     "company_name": "Maruti Suzuki India Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 45.0% over 3 Years.",
-        "score": 35.0
+    "pros": "Company's median sales growth is 10% over the last 5 years.\nCompany has delivered good profit growth of 13% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 13%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 26%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 12%"
       },
-      {
-        "text": "Strong sales growth: 26.0% over 3 Years.",
-        "score": 16.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 45%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Strong return on capital employed: 23.7%.",
-        "score": 13.670000000000002
+      "roe": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 14%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.492374"
+    }
   },
   {
     "company_id": "MOTHERSON",
     "company_name": "Samvardhana Motherson International Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 24.0% over 3 Years.",
-        "score": 14.0
+    "pros": "Company has delivered good profit growth of 11% over 5 years.\nCompany's median sales growth is 12% over the last 10 years.\nCompany has a good return on equity (ROE) track record: 10 Years ROE 15%.",
+    "cons": "The company has delivered poor sales growth of 9% over the past 5 years.\nCompany has a low return on equity of 9% over the last 3 years.\nThe company has delivered poor profit growth of 8% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 12%"
       },
-      {
-        "text": "Strong sales growth: 20.0% over 3 Years.",
-        "score": 10.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 24%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "High return on equity: 15.0% (10 Years).",
-        "score": 5.0
+      "roe": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 15%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 8.0% over 5 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Low return on equity: 9.0% (3 Years).",
-        "score": 1.0
-      },
-      {
-        "text": "Weak sales growth: only 9.0% over 5 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.493372"
+    }
   },
   {
     "company_id": "NAUKRI",
     "company_name": "Info Edge (India) Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 31.0% over 3 Years.",
-        "score": 21.0
+    "pros": "Company's median sales growth is 17% over the last 5 years.\nCompany has delivered good profit growth of 26% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 22%.",
+    "cons": "The company has delivered poor profit growth of 0% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 31%",
+        "5": "5 Years: 17%",
+        "10": "10 Years: 16%"
       },
-      {
-        "text": "Profit growth is robust: 26.0% over 10 Years.",
-        "score": 16.0
+      "compounded_profit_growth": {
+        "3": "3 Years: -25%",
+        "5": "5 Years: 0%",
+        "10": "10 Years: 26%"
       },
-      {
-        "text": "High return on equity: 22.0% (3 Years).",
-        "score": 12.0
+      "roe": {
+        "3": "3 Years: 22%",
+        "5": "5 Years: 21%",
+        "10": "10 Years: 20%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: -25.0% over 3 Years.",
-        "score": 35.0
-      },
-      {
-        "text": "Profit growth is low: 0.0% over 5 Years.",
-        "score": 10.0
-      },
-      {
-        "text": "ROE is low: 2.4%.",
-        "score": 7.5600000000000005
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.494375"
+    }
   },
   {
     "company_id": "NESTLEIND",
     "company_name": "Nestle India Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 185.4%.",
-        "score": 175.43
+    "pros": "Company has delivered good profit growth of 15% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 108%.",
+    "cons": "The company has delivered poor sales growth of 10% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Healthy average ROE: 135.6%.",
-        "score": 125.61000000000001
+      "compounded_profit_growth": {
+        "3": "3 Years: 23%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "High return on equity: 112.0% (3 Years).",
-        "score": 102.0
+      "roe": {
+        "3": "3 Years: 112%",
+        "5": "5 Years: 110%",
+        "10": "10 Years: 70%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 9.0% over 10 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.494375"
+    }
   },
   {
     "company_id": "NHPC",
     "company_name": "NHPC Ltd\r\n",
-    "pros": [
-      {
-        "text": "High return on equity: 11.0% (3 Years).",
-        "score": 1.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 11%.",
+    "cons": "The company has delivered poor sales growth of 1% over the past 5 years.\nThe company has delivered poor profit growth of 9% over the past 5 years.\nThe company has delivered poor profit growth of 7% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 0%",
+        "5": "5 Years: 1%",
+        "10": "10 Years: 3%"
       },
-      {
-        "text": "High return on equity: 11.0% (5 Years).",
-        "score": 1.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 4%",
+        "5": "5 Years: 7%",
+        "10": "10 Years: 9%"
+      },
+      "roe": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 10%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 0.0% over 3 Years.",
-        "score": 10.0
-      },
-      {
-        "text": "Weak sales growth: only 1.0% over 5 Years.",
-        "score": 9.0
-      },
-      {
-        "text": "Weak sales growth: only 3.0% over 10 Years.",
-        "score": 7.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.495375"
+    }
   },
   {
     "company_id": "NTPC",
     "company_name": "NTPC Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 17.0% over 3 Years.",
-        "score": 7.0
+    "pros": "Company has delivered good profit growth of 10% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 11%.",
+    "cons": "The company has delivered poor sales growth of 7% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Profit growth is robust: 13.0% over 3 Years.",
-        "score": 3.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 6%"
       },
-      {
-        "text": "Healthy average ROE: 12.5%.",
-        "score": 2.5199999999999996
+      "roe": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 12%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 6.0% over 10 Years.",
-        "score": 4.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 5 Years.",
-        "score": 1.0
-      },
-      {
-        "text": "Weak sales growth: only 9.0% over 10 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.495375"
+    }
   },
   {
     "company_id": "ONGC",
     "company_name": "Oil & Natural Gas Corpn Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 39.0% over 3 Years.",
-        "score": 29.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 15%.\nCompany has delivered good profit growth of 11% over 5 years.\nCompany's median sales growth is 13% over the last 10 years.",
+    "cons": "The company has delivered poor sales growth of 7% over the past 5 years.\nThe company has delivered poor profit growth of 8% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 25%",
+        "5": "5 Years: 7%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "Strong sales growth: 25.0% over 3 Years.",
-        "score": 15.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 39%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "Strong return on capital employed: 19.7%.",
-        "score": 9.71
+      "roe": {
+        "3": "3 Years: 15%",
+        "5": "5 Years: 14%",
+        "10": "10 Years: 13%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 7.0% over 5 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Profit growth is low: 8.0% over 10 Years.",
-        "score": 2.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.496374"
+    }
   },
   {
     "company_id": "PFC",
     "company_name": "Power Finance Corporation Ltd",
-    "pros": [
-      {
-        "text": "High return on equity: 26.0% (3 Years).",
-        "score": 16.0
+    "pros": "Company's median sales growth is 11% over the last 5 years.\nCompany has delivered good profit growth of 17% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 26%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 8%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 16%"
       },
-      {
-        "text": "High return on equity: 25.0% (5 Years).",
-        "score": 15.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "High return on equity: 23.0% (10 Years).",
-        "score": 13.0
+      "roe": {
+        "3": "3 Years: 26%",
+        "5": "5 Years: 25%",
+        "10": "10 Years: 23%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 8.0% over 3 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Low return on capital employed: 10.0%.",
-        "score": 0.03999999999999915
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.496374"
+    }
   },
   {
     "company_id": "PIDILITIND",
     "company_name": "Pidilite Industries Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 29.7%.",
-        "score": 19.7
+    "pros": "Company's median sales growth is 12% over the last 5 years.\nCompany has delivered good profit growth of 15% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 19%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Healthy average ROE: 22.8%.",
-        "score": 12.8
+      "compounded_profit_growth": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 15%"
       },
-      {
-        "text": "High return on equity: 22.0% (10 Years).",
-        "score": 12.0
+      "roe": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 22%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.496374"
+    }
   },
   {
     "company_id": "PNB",
     "company_name": "Punjab National Bank",
-    "pros": [
-      {
-        "text": "High return on equity: 51.0% (3 Years).",
-        "score": 41.0
+    "pros": "Company's median sales growth is 16% over the last 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 51%.\nCompany has delivered good profit growth of 24% over 5 years.",
+    "cons": "The company has delivered poor profit growth of 10% over the past 5 years.\nThe company has delivered poor sales growth of 9% over the past 10 years.\nCompany has a low return on equity of 5% over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 10%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Profit growth is robust: 50.0% over 3 Years.",
-        "score": 40.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 50%",
+        "5": "5 Years: 24%",
+        "10": "10 Years: 10%"
       },
-      {
-        "text": "Profit growth is robust: 24.0% over 5 Years.",
-        "score": 14.0
+      "roe": {
+        "3": "3 Years: 51%",
+        "5": "5 Years: 19%",
+        "10": "10 Years: 5%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on capital employed: 1.6%.",
-        "score": 8.370000000000001
-      },
-      {
-        "text": "Low return on equity: 5.0% (10 Years).",
-        "score": 5.0
-      },
-      {
-        "text": "ROE is low: 8.7%.",
-        "score": 1.3000000000000007
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.497374"
+    }
   },
   {
     "company_id": "POWERGRID",
     "company_name": "Power Grid Corporation of India Ltd",
-    "pros": [
-      {
-        "text": "High return on equity: 19.0% (3 Years).",
-        "score": 9.0
+    "pros": "Company has delivered good profit growth of 13% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 19%.\nCompany's median sales growth is 11% over the last 10 years.",
+    "cons": "The company has delivered poor sales growth of 6% over the past 5 years.\nThe company has delivered poor profit growth of 9% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 5%",
+        "5": "5 Years: 6%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "Healthy average ROE: 19.0%.",
-        "score": 9.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "High return on equity: 18.0% (5 Years).",
-        "score": 8.0
+      "roe": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 18%",
+        "10": "10 Years: 17%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 5.0% over 3 Years.",
-        "score": 5.0
-      },
-      {
-        "text": "Weak sales growth: only 6.0% over 5 Years.",
-        "score": 4.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 3 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.497374"
+    }
   },
   {
     "company_id": "RECLTD",
     "company_name": "REC Ltd",
-    "pros": [
-      {
-        "text": "Healthy average ROE: 22.2%.",
-        "score": 12.2
+    "pros": "Company's median sales growth is 13% over the last 5 years.\nCompany has delivered good profit growth of 12% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 20%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 10%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "High return on equity: 20.0% (3 Years).",
-        "score": 10.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 12%"
       },
-      {
-        "text": "Profit growth is robust: 20.0% over 5 Years.",
-        "score": 10.0
+      "roe": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 19%",
+        "10": "10 Years: 19%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 10.0% over 3 Years.",
-        "score": -0.0
-      },
-      {
-        "text": "Low return on capital employed: 10.0%.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.498375"
+    }
   },
   {
     "company_id": "RELIANCE",
     "company_name": "Reliance Industries Ltd\r\n",
-    "pros": [
-      {
-        "text": "Strong sales growth: 24.0% over 3 Years.",
-        "score": 14.0
+    "pros": "Company has delivered good profit growth of 13% over 5 years.\nCompany has delivered good profit growth of 15% over 5 years.",
+    "cons": "The company has delivered poor sales growth of 10% over the past 5 years.\nCompany has a low return on equity of 9% over the last 3 years.\nThe company has delivered poor sales growth of 8% over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 24%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "Profit growth is robust: 15.0% over 5 Years.",
-        "score": 5.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 14%",
+        "5": "5 Years: 15%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "Profit growth is robust: 14.0% over 3 Years.",
-        "score": 4.0
+      "roe": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 10%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 8.0% over 10 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Low return on equity: 9.0% (3 Years).",
-        "score": 1.0
-      },
-      {
-        "text": "Low return on equity: 9.0% (5 Years).",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.498375"
+    }
   },
   {
     "company_id": "SBILIFE",
     "company_name": "SBI Life Insurance Company Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 24.0% over 5 Years.",
-        "score": 14.0
+    "pros": "Company's median sales growth is 24% over the last 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 13%.\nCompany's median sales growth is 23% over the last 10 years.",
+    "cons": "The company has delivered poor profit growth of 10% over the past 5 years.\nThe company has delivered poor profit growth of 7% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 24%",
+        "10": "10 Years: 23%"
       },
-      {
-        "text": "Strong sales growth: 23.0% over 10 Years.",
-        "score": 13.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 7%",
+        "10": "10 Years: 10%"
       },
-      {
-        "text": "Strong sales growth: 17.0% over 3 Years.",
-        "score": 7.0
+      "roe": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 14%",
+        "10": "10 Years: 15%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 7.0% over 5 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 3 Years.",
-        "score": 1.0
-      },
-      {
-        "text": "Profit growth is low: 10.0% over 10 Years.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.499374"
+    }
   },
   {
     "company_id": "SBIN",
     "company_name": "State Bank of India",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 83.0% over 5 Years.",
-        "score": 73.0
+    "pros": "Company's median sales growth is 12% over the last 5 years.\nCompany has delivered good profit growth of 17% over 5 years.\nCompany has delivered good profit growth of 83% over 5 years.",
+    "cons": "Company has a low return on equity of % over the last 3 years.\nThe company has delivered poor sales growth of 9% over the past 10 years.\nCompany has a low return on equity of % over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Profit growth is robust: 43.0% over 3 Years.",
-        "score": 33.0
-      },
-      {
-        "text": "Healthy average ROE: 17.3%.",
-        "score": 7.300000000000001
+      "compounded_profit_growth": {
+        "3": "3 Years: 43%",
+        "5": "5 Years: 83%",
+        "10": "10 Years: 17%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on capital employed: 6.2%.",
-        "score": 3.84
-      },
-      {
-        "text": "Weak sales growth: only 9.0% over 10 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.499374"
+    }
   },
   {
     "company_id": "SHREECEM",
     "company_name": "Shree Cement Ltd",
-    "pros": [
-      {
-        "text": "Strong sales growth: 15.0% over 3 Years.",
-        "score": 5.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 11%.\nCompany has delivered good profit growth of 11% over 5 years.\nCompany's median sales growth is 14% over the last 10 years.",
+    "cons": "The company has delivered poor sales growth of 10% over the past 5 years.\nThe company has delivered poor profit growth of 8% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 15%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 14%"
       },
-      {
-        "text": "Strong return on capital employed: 14.8%.",
-        "score": 4.800000000000001
+      "compounded_profit_growth": {
+        "3": "3 Years: -9%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "Strong sales growth: 14.0% over 10 Years.",
-        "score": 4.0
+      "roe": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 12%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: -9.0% over 3 Years.",
-        "score": 19.0
-      },
-      {
-        "text": "Profit growth is low: 8.0% over 10 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Weak sales growth: only 10.0% over 5 Years.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.500374"
+    }
   },
   {
     "company_id": "SHRIRAMFIN",
     "company_name": "Shriram Finance Ltd\r\n",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 44.0% over 3 Years.",
-        "score": 34.0
+    "pros": "Company's median sales growth is 19% over the last 5 years.\nCompany has delivered good profit growth of 18% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 13%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 28%",
+        "5": "5 Years: 19%",
+        "10": "10 Years: 16%"
       },
-      {
-        "text": "Strong sales growth: 28.0% over 3 Years.",
-        "score": 18.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 44%",
+        "5": "5 Years: 23%",
+        "10": "10 Years: 18%"
       },
-      {
-        "text": "Profit growth is robust: 23.0% over 5 Years.",
-        "score": 13.0
+      "roe": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 14%",
+        "10": "10 Years: 14%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.500374"
+    }
   },
   {
     "company_id": "SIEMENS",
     "company_name": "Siemens Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 37.0% over 3 Years.",
-        "score": 27.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 12%.\nCompany has delivered good profit growth of 17% over 5 years.\nCompany has a good return on equity (ROE) track record: 10 Years ROE 16%.",
+    "cons": "The company has delivered poor sales growth of 9% over the past 5 years.\nThe company has delivered poor profit growth of 8% over the past 5 years.\nThe company has delivered poor sales growth of 5% over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 25%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 5%"
       },
-      {
-        "text": "Strong return on capital employed: 25.6%.",
-        "score": 15.600000000000001
+      "compounded_profit_growth": {
+        "3": "3 Years: 37%",
+        "5": "5 Years: 17%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "Strong sales growth: 25.0% over 3 Years.",
-        "score": 15.0
+      "roe": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 16%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 5.0% over 10 Years.",
-        "score": 5.0
-      },
-      {
-        "text": "Profit growth is low: 8.0% over 10 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Weak sales growth: only 9.0% over 5 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.501374"
+    }
   },
   {
     "company_id": "SUNPHARMA",
     "company_name": "Sun Pharmaceuticals Industries Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 62.0% over 3 Years.",
-        "score": 52.0
+    "pros": "Company's median sales growth is 11% over the last 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 11%.\nCompany has delivered good profit growth of 25% over 5 years.",
+    "cons": "The company has delivered poor profit growth of 9% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 12%"
       },
-      {
-        "text": "Profit growth is robust: 25.0% over 5 Years.",
-        "score": 15.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 62%",
+        "5": "5 Years: 25%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Strong return on capital employed: 17.3%.",
-        "score": 7.300000000000001
+      "roe": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 12%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 9.0% over 10 Years.",
-        "score": 1.0
-      },
-      {
-        "text": "Low return on equity: 10.0% (5 Years).",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.501374"
+    }
   },
   {
     "company_id": "TATACONSUM",
     "company_name": "Tata Consumer Products Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 22.0% over 5 Years.",
-        "score": 12.0
+    "pros": "Company's median sales growth is 16% over the last 5 years.\nCompany has delivered good profit growth of 22% over 5 years.",
+    "cons": "The company has delivered poor profit growth of 9% over the past 5 years.\nCompany has a low return on equity of 7% over the last 3 years.\nThe company has delivered poor sales growth of 7% over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 7%"
       },
-      {
-        "text": "Strong sales growth: 16.0% over 5 Years.",
-        "score": 6.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 22%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Strong return on capital employed: 10.6%.",
-        "score": 0.5999999999999996
+      "roe": {
+        "3": "3 Years: 7%",
+        "5": "5 Years: 6%",
+        "10": "10 Years: 6%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on equity: 6.0% (5 Years).",
-        "score": 4.0
-      },
-      {
-        "text": "Low return on equity: 6.0% (10 Years).",
-        "score": 4.0
-      },
-      {
-        "text": "Low return on equity: 7.0% (3 Years).",
-        "score": 3.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.502374"
+    }
   },
   {
     "company_id": "TATAMOTORS",
     "company_name": "Tata Motors Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 64.0% over 3 Years.",
-        "score": 54.0
+    "pros": "Company has delivered good profit growth of 25% over 5 years.",
+    "cons": "The company has delivered poor sales growth of 8% over the past 5 years.\nThe company has delivered poor profit growth of 9% over the past 5 years.\nCompany has a low return on equity of 4% over the last 3 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 21%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 7%"
       },
-      {
-        "text": "Healthy average ROE: 49.4%.",
-        "score": 39.4
+      "compounded_profit_growth": {
+        "3": "3 Years: 64%",
+        "5": "5 Years: 25%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Profit growth is robust: 25.0% over 5 Years.",
-        "score": 15.0
+      "roe": {
+        "3": "3 Years: 4%",
+        "5": "5 Years: -9%",
+        "10": "10 Years: 4%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on equity: -9.0% (5 Years).",
-        "score": 19.0
-      },
-      {
-        "text": "Low return on equity: 4.0% (3 Years).",
-        "score": 6.0
-      },
-      {
-        "text": "Low return on equity: 4.0% (10 Years).",
-        "score": 6.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.502374"
+    }
   },
   {
     "company_id": "TATAPOWER",
     "company_name": "Tata Power Company Ltd\r\n",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 80.0% over 10 Years.",
-        "score": 70.0
+    "pros": "Company's median sales growth is 16% over the last 5 years.\nCompany has delivered good profit growth of 80% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 11%.",
+    "cons": "The company has delivered poor profit growth of 10% over the past 5 years.\nThe company has delivered poor sales growth of 6% over the past 10 years.\nCompany has a low return on equity of 10% over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 23%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 6%"
       },
-      {
-        "text": "Profit growth is robust: 44.0% over 3 Years.",
-        "score": 34.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 44%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 80%"
       },
-      {
-        "text": "Strong sales growth: 23.0% over 3 Years.",
-        "score": 13.0
+      "roe": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 10%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 6.0% over 10 Years.",
-        "score": 4.0
-      },
-      {
-        "text": "Profit growth is low: 10.0% over 5 Years.",
-        "score": -0.0
-      },
-      {
-        "text": "Low return on equity: 10.0% (10 Years).",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.503378"
+    }
   },
   {
     "company_id": "TATASTEEL",
     "company_name": "Tata Steel Ltd\r\n",
-    "pros": [
-      {
-        "text": "Strong sales growth: 14.0% over 3 Years.",
-        "score": 4.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 14%.",
+    "cons": "The company has delivered poor sales growth of 8% over the past 5 years.\nThe company has delivered poor profit growth of -9% over the past 5 years.\nThe company has delivered poor profit growth of -9% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 14%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 4%"
       },
-      {
-        "text": "High return on equity: 14.0% (3 Years).",
-        "score": 4.0
+      "compounded_profit_growth": {
+        "3": "3 Years: -17%",
+        "5": "5 Years: -9%",
+        "10": "10 Years: -9%"
       },
-      {
-        "text": "High return on equity: 12.0% (5 Years).",
-        "score": 2.0
+      "roe": {
+        "3": "3 Years: 14%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 10%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: -17.0% over 3 Years.",
-        "score": 27.0
-      },
-      {
-        "text": "Profit growth is low: -9.0% over 5 Years.",
-        "score": 19.0
-      },
-      {
-        "text": "Profit growth is low: -9.0% over 10 Years.",
-        "score": 19.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.503378"
+    }
   },
   {
     "company_id": "TCS",
     "company_name": "Tata Consultancy Services Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 64.3%.",
-        "score": 54.3
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 45%.\nCompany's median sales growth is 11% over the last 10 years.\nCompany has a good return on equity (ROE) track record: 10 Years ROE 39%.",
+    "cons": "The company has delivered poor sales growth of 10% over the past 5 years.\nThe company has delivered poor profit growth of 9% over the past 5 years.\nThe company has delivered poor profit growth of 8% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 14%",
+        "5": "5 Years: 10%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "High return on equity: 45.0% (3 Years).",
-        "score": 35.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "High return on equity: 42.0% (5 Years).",
-        "score": 32.0
+      "roe": {
+        "3": "3 Years: 45%",
+        "5": "5 Years: 42%",
+        "10": "10 Years: 39%"
       }
-    ],
-    "cons": [
-      {
-        "text": "ROE is low: 0.5%.",
-        "score": 9.48
-      },
-      {
-        "text": "Profit growth is low: 8.0% over 5 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Profit growth is low: 9.0% over 10 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.504379"
+    }
   },
   {
     "company_id": "TECHM",
     "company_name": "Tech Mahindra Ltd",
-    "pros": [
-      {
-        "text": "High return on equity: 19.0% (10 Years).",
-        "score": 9.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 16%.\nCompany's median sales growth is 11% over the last 10 years.\nCompany has a good return on equity (ROE) track record: 10 Years ROE 19%.",
+    "cons": "The company has delivered poor sales growth of 8% over the past 5 years.\nThe company has delivered poor profit growth of -2% over the past 5 years.\nThe company has delivered poor profit growth of -11% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 11%"
       },
-      {
-        "text": "High return on equity: 17.0% (5 Years).",
-        "score": 7.0
+      "compounded_profit_growth": {
+        "3": "3 Years: -18%",
+        "5": "5 Years: -11%",
+        "10": "10 Years: -2%"
       },
-      {
-        "text": "High return on equity: 16.0% (3 Years).",
-        "score": 6.0
+      "roe": {
+        "3": "3 Years: 16%",
+        "5": "5 Years: 17%",
+        "10": "10 Years: 19%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: -18.0% over 3 Years.",
-        "score": 28.0
-      },
-      {
-        "text": "Profit growth is low: -11.0% over 5 Years.",
-        "score": 21.0
-      },
-      {
-        "text": "Profit growth is low: -2.0% over 10 Years.",
-        "score": 12.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.504379"
+    }
   },
   {
     "company_id": "TITAN",
     "company_name": "Titan Company Ltd\r\n",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 53.0% over 3 Years.",
-        "score": 43.0
+    "pros": "Company's median sales growth is 21% over the last 5 years.\nCompany has delivered good profit growth of 17% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 26%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 33%",
+        "5": "5 Years: 21%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Strong sales growth: 33.0% over 3 Years.",
-        "score": 23.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 53%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Healthy average ROE: 32.9%.",
-        "score": 22.9
+      "roe": {
+        "3": "3 Years: 26%",
+        "5": "5 Years: 25%",
+        "10": "10 Years: 24%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.505375"
+    }
   },
   {
     "company_id": "TORNTPHARM",
     "company_name": "Torrent Pharmaceuticals Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 31.0% over 5 Years.",
-        "score": 21.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 20%.\nCompany has delivered good profit growth of 31% over 5 years.\nCompany has a good return on equity (ROE) track record: 10 Years ROE 22%.",
+    "cons": "The company has delivered poor sales growth of 7% over the past 5 years.\nThe company has delivered poor profit growth of 10% over the past 5 years.\nThe company has delivered poor sales growth of 10% over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 10%",
+        "5": "5 Years: 7%",
+        "10": "10 Years: 10%"
       },
-      {
-        "text": "Healthy average ROE: 24.2%.",
-        "score": 14.2
+      "compounded_profit_growth": {
+        "3": "3 Years: 10%",
+        "5": "5 Years: 31%",
+        "10": "10 Years: 10%"
       },
-      {
-        "text": "Strong return on capital employed: 23.2%.",
-        "score": 13.2
+      "roe": {
+        "3": "3 Years: 20%",
+        "5": "5 Years: 19%",
+        "10": "10 Years: 22%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 7.0% over 5 Years.",
-        "score": 3.0
-      },
-      {
-        "text": "Weak sales growth: only 10.0% over 3 Years.",
-        "score": -0.0
-      },
-      {
-        "text": "Profit growth is low: 10.0% over 3 Years.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.506218"
+    }
   },
   {
     "company_id": "TRENT",
     "company_name": "Trent Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 117.0% over 3 Years.",
-        "score": 107.0
+    "pros": "Company's median sales growth is 36% over the last 5 years.\nCompany has delivered good profit growth of 55% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 15%.",
+    "cons": "Company has a low return on equity of 10% over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 68%",
+        "5": "5 Years: 36%",
+        "10": "10 Years: 18%"
       },
-      {
-        "text": "Profit growth is robust: 73.0% over 5 Years.",
-        "score": 63.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 117%",
+        "5": "5 Years: 73%",
+        "10": "10 Years: 55%"
       },
-      {
-        "text": "Strong sales growth: 68.0% over 3 Years.",
-        "score": 58.0
+      "roe": {
+        "3": "3 Years: 15%",
+        "5": "5 Years: 13%",
+        "10": "10 Years: 10%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on equity: 10.0% (10 Years).",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.506218"
+    }
   },
   {
     "company_id": "TVSMOTOR",
     "company_name": "TVS Motor Company Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 43.0% over 3 Years.",
-        "score": 33.0
+    "pros": "Company's median sales growth is 14% over the last 5 years.\nCompany has delivered good profit growth of 25% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 22%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 26%",
+        "5": "5 Years: 14%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Healthy average ROE: 26.6%.",
-        "score": 16.6
+      "compounded_profit_growth": {
+        "3": "3 Years: 43%",
+        "5": "5 Years: 20%",
+        "10": "10 Years: 25%"
       },
-      {
-        "text": "Strong sales growth: 26.0% over 3 Years.",
-        "score": 16.0
+      "roe": {
+        "3": "3 Years: 22%",
+        "5": "5 Years: 22%",
+        "10": "10 Years: 22%"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.506964"
+    }
   },
   {
     "company_id": "ULTRACEMCO",
     "company_name": "UltraTech Cement Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 24.0% over 5 Years.",
-        "score": 14.0
+    "pros": "Company's median sales growth is 11% over the last 5 years.\nCompany has delivered good profit growth of 12% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 12%.",
+    "cons": "",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 11%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "Strong sales growth: 17.0% over 3 Years.",
-        "score": 7.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 9%",
+        "5": "5 Years: 24%",
+        "10": "10 Years: 12%"
       },
-      {
-        "text": "Strong return on capital employed: 15.1%.",
-        "score": 5.1
+      "roe": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 12%",
+        "10": "10 Years: 11%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 9.0% over 3 Years.",
-        "score": 1.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.506964"
+    }
   },
   {
     "company_id": "UNIONBANK",
     "company_name": "Union Bank of India",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 69.0% over 3 Years.",
-        "score": 59.0
+    "pros": "Company's median sales growth is 24% over the last 5 years.\nCompany has delivered good profit growth of 23% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 12%.",
+    "cons": "Company has a low return on equity of 6% over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 24%",
+        "10": "10 Years: 13%"
       },
-      {
-        "text": "Profit growth is robust: 46.0% over 5 Years.",
-        "score": 36.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 69%",
+        "5": "5 Years: 46%",
+        "10": "10 Years: 23%"
       },
-      {
-        "text": "Strong sales growth: 24.0% over 5 Years.",
-        "score": 14.0
+      "roe": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 6%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on equity: 6.0% (10 Years).",
-        "score": 4.0
-      },
-      {
-        "text": "Low return on capital employed: 6.5%.",
-        "score": 3.45
-      },
-      {
-        "text": "Low return on equity: 8.0% (5 Years).",
-        "score": 2.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.506964"
+    }
   },
   {
     "company_id": "UNITDSPR",
     "company_name": "United Spirits Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 57.0% over 3 Years.",
-        "score": 47.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 17%.\nCompany has delivered good profit growth of 16% over 5 years.",
+    "cons": "The company has delivered poor sales growth of 4% over the past 5 years.\nThe company has delivered poor profit growth of 9% over the past 5 years.\nThe company has delivered poor sales growth of 1% over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 12%",
+        "5": "5 Years: 4%",
+        "10": "10 Years: 1%"
       },
-      {
-        "text": "Strong return on capital employed: 27.9%.",
-        "score": 17.9
+      "compounded_profit_growth": {
+        "3": "3 Years: 57%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 9%"
       },
-      {
-        "text": "Healthy average ROE: 21.0%.",
-        "score": 11.0
+      "roe": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 17%",
+        "10": "10 Years: -1%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on equity: -1.0% (10 Years).",
-        "score": 11.0
-      },
-      {
-        "text": "Weak sales growth: only 1.0% over 10 Years.",
-        "score": 9.0
-      },
-      {
-        "text": "Weak sales growth: only 4.0% over 5 Years.",
-        "score": 6.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.506964"
+    }
   },
   {
     "company_id": "VBL",
     "company_name": "Varun Beverages Ltd",
-    "pros": [
-      {
-        "text": "Profit growth is robust: 81.0% over 3 Years.",
-        "score": 71.0
+    "pros": "Company's median sales growth is 26% over the last 5 years.\nCompany has delivered good profit growth of 49% over 5 years.\nCompany has delivered good profit growth of 48% over 5 years.",
+    "cons": "Company has a low return on equity of % over the last 3 years.\nCompany has a low return on equity of % over the last 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 35%",
+        "5": "5 Years: 26%",
+        "10": "10 Years: 22%"
       },
-      {
-        "text": "Profit growth is robust: 49.0% over 10 Years.",
-        "score": 39.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 81%",
+        "5": "5 Years: 48%",
+        "10": "10 Years: 49%"
       },
-      {
-        "text": "Profit growth is robust: 48.0% over 5 Years.",
-        "score": 38.0
+      "roe": {
+        "3": "3 Years: %",
+        "5": "5 Years: %",
+        "10": "10 Years: %"
       }
-    ],
-    "cons": [],
-    "last_updated": "2025-08-15T12:09:30.506964"
+    }
   },
   {
     "company_id": "VEDL",
     "company_name": "Vedanta Ltd\r\n",
-    "pros": [
-      {
-        "text": "High return on equity: 31.0% (3 Years).",
-        "score": 21.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 31%.\nCompany has a good return on equity (ROE) track record: 10 Years ROE 12%.",
+    "cons": "The company has delivered poor sales growth of 9% over the past 5 years.\nThe company has delivered poor profit growth of -4% over the past 5 years.\nThe company has delivered poor profit growth of -5% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 18%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "High return on equity: 21.0% (5 Years).",
-        "score": 11.0
+      "compounded_profit_growth": {
+        "3": "3 Years: -21%",
+        "5": "5 Years: -5%",
+        "10": "10 Years: -4%"
       },
-      {
-        "text": "Strong return on capital employed: 20.9%.",
-        "score": 10.899999999999999
+      "roe": {
+        "3": "3 Years: 31%",
+        "5": "5 Years: 21%",
+        "10": "10 Years: 12%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: -21.0% over 3 Years.",
-        "score": 31.0
-      },
-      {
-        "text": "Profit growth is low: -5.0% over 5 Years.",
-        "score": 15.0
-      },
-      {
-        "text": "Profit growth is low: -4.0% over 10 Years.",
-        "score": 14.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.506964"
+    }
   },
   {
     "company_id": "WIPRO",
     "company_name": "Wipro Ltd",
-    "pros": [
-      {
-        "text": "High return on equity: 18.0% (10 Years).",
-        "score": 8.0
+    "pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 17%.\nCompany has a good return on equity (ROE) track record: 10 Years ROE 18%.",
+    "cons": "The company has delivered poor sales growth of 9% over the past 5 years.\nThe company has delivered poor profit growth of 3% over the past 5 years.\nThe company has delivered poor profit growth of 4% over the past 5 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 13%",
+        "5": "5 Years: 9%",
+        "10": "10 Years: 8%"
       },
-      {
-        "text": "High return on equity: 17.0% (3 Years).",
-        "score": 7.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 1%",
+        "5": "5 Years: 4%",
+        "10": "10 Years: 3%"
       },
-      {
-        "text": "High return on equity: 17.0% (5 Years).",
-        "score": 7.0
+      "roe": {
+        "3": "3 Years: 17%",
+        "5": "5 Years: 17%",
+        "10": "10 Years: 18%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Profit growth is low: 1.0% over 3 Years.",
-        "score": 9.0
-      },
-      {
-        "text": "Profit growth is low: 3.0% over 10 Years.",
-        "score": 7.0
-      },
-      {
-        "text": "Profit growth is low: 4.0% over 5 Years.",
-        "score": 6.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.506964"
+    }
   },
   {
     "company_id": "ZOMATO",
     "company_name": "Zomato Ltd\r\n",
-    "pros": [
-      {
-        "text": "Strong sales growth: 82.0% over 3 Years.",
-        "score": 72.0
+    "pros": "Company's median sales growth is 56% over the last 5 years.\nCompany has delivered good profit growth of 19% over 5 years.",
+    "cons": "The company has delivered poor profit growth of % over the past 5 years.\nCompany has a low return on equity of -4% over the last 3 years.\nThe company has delivered poor sales growth of % over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 82%",
+        "5": "5 Years: 56%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Strong sales growth: 56.0% over 5 Years.",
-        "score": 46.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 34%",
+        "5": "5 Years: 19%",
+        "10": "10 Years: %"
       },
-      {
-        "text": "Profit growth is robust: 34.0% over 3 Years.",
-        "score": 24.0
+      "roe": {
+        "3": "3 Years: -4%",
+        "5": "5 Years: -9%",
+        "10": "10 Years: %"
       }
-    ],
-    "cons": [
-      {
-        "text": "Low return on equity: -9.0% (5 Years).",
-        "score": 19.0
-      },
-      {
-        "text": "Low return on equity: -4.0% (3 Years).",
-        "score": 14.0
-      },
-      {
-        "text": "ROE is low: 1.1%.",
-        "score": 8.879999999999999
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.506964"
+    }
   },
   {
     "company_id": "ZYDUSLIFE",
     "company_name": "Zydus Lifesciences Ltd",
-    "pros": [
-      {
-        "text": "Strong return on capital employed: 22.3%.",
-        "score": 12.3
+    "pros": "Company has delivered good profit growth of 17% over 5 years.\nCompany has a good return on equity (ROE) track record: 3 Years ROE 19%.\nCompany has delivered good profit growth of 16% over 5 years.",
+    "cons": "The company has delivered poor sales growth of 8% over the past 5 years.\nThe company has delivered poor sales growth of 10% over the past 10 years.",
+    "analysis_json": {
+      "compounded_sales_growth": {
+        "3": "3 Years: 11%",
+        "5": "5 Years: 8%",
+        "10": "10 Years: 10%"
       },
-      {
-        "text": "Profit growth is robust: 22.0% over 3 Years.",
-        "score": 12.0
+      "compounded_profit_growth": {
+        "3": "3 Years: 22%",
+        "5": "5 Years: 16%",
+        "10": "10 Years: 17%"
       },
-      {
-        "text": "Healthy average ROE: 20.7%.",
-        "score": 10.7
+      "roe": {
+        "3": "3 Years: 19%",
+        "5": "5 Years: 18%",
+        "10": "10 Years: 20%"
       }
-    ],
-    "cons": [
-      {
-        "text": "Weak sales growth: only 8.0% over 5 Years.",
-        "score": 2.0
-      },
-      {
-        "text": "Weak sales growth: only 10.0% over 10 Years.",
-        "score": -0.0
-      }
-    ],
-    "last_updated": "2025-08-15T12:09:30.506964"
+    }
   }
 ]

@@ -14,3 +14,19 @@
 2025-08-17 11:49:21,291 INFO:         - Low pay
 2025-08-17 11:49:21,292 INFO: Progress: 2/2 companies processed
 2025-08-17 11:49:21,292 INFO: [Success] Analysis completed for Beta Inc (ID: 67890)
+2025-08-19 20:32:15,199 INFO: Processing: Acme Corp (ID: 12345)
+2025-08-19 20:32:15,199 INFO:     Pros:
+2025-08-19 20:32:15,199 INFO:         - Great work-life balance
+2025-08-19 20:32:15,199 INFO:         - Competitive salary
+2025-08-19 20:32:15,199 INFO:     Cons:
+2025-08-19 20:32:15,199 INFO:         - Long commute
+2025-08-19 20:32:15,199 INFO:         - Outdated technology
+2025-08-19 20:32:15,199 INFO: Progress: 1/2 companies processed
+2025-08-19 20:32:15,199 INFO: [Success] Analysis completed for Acme Corp (ID: 12345)
+2025-08-19 20:32:15,199 INFO: Processing: Beta Inc (ID: 67890)
+2025-08-19 20:32:15,199 INFO:     Pros:
+2025-08-19 20:32:15,199 INFO:         - Flexible hours
+2025-08-19 20:32:15,199 INFO:     Cons:
+2025-08-19 20:32:15,199 INFO:         - Low pay
+2025-08-19 20:32:15,199 INFO: Progress: 2/2 companies processed
+2025-08-19 20:32:15,199 INFO: [Success] Analysis completed for Beta Inc (ID: 67890)
