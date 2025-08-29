@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+env/
+ml_proj/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variable files
+.env
+
+# Compiled output and database files
+# compiled_output/
+# *.db
+
+# # VS Code settings
+# .vscode/

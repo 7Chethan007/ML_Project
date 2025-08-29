@@ -53,9 +53,44 @@ All logs will be written to `log.txt` and printed in real-time.
 
 ---
 
-## 3. Deploy the Web Frontend
+## 3. Deploy the Web Frontend  
 
-1. Ensure your MySQL server is running and the `ml` database is populated.
+  
+**How to run MySQL server and populate the `ml` database:**
+
+- **Start MySQL server:**  
+  - On Windows: Use XAMPP/WAMP or run `net start mysql` in Command Prompt.
+  - On Linux/macOS: Run `sudo service mysql start` or `sudo systemctl start mysql`.
+
+- **Create and populate the `ml` database:**  
+  1. Log in to MySQL:
+     ```sh
+     mysql -u root -p
+     ```
+  2. Create the database:
+     ```sql
+     CREATE DATABASE ml;
+     ```
+  3. (Optional) Import schema/data if you have a `.sql` file:
+     ```sh
+     mysql -u root -p ml < path/to/schema.sql
+     ``` 
+- **Verify:**  
+    1. Check if the `ml` database exists:
+         ```sql
+         SHOW DATABASES LIKE 'ml';
+         ```
+         If you see `ml` in the output, the database exists.
+
+    2. Check if the required tables exist in the `ml` database:
+         ```sql
+         USE ml;
+         SHOW TABLES;
+         ```
+         Ensure the output lists all the tables your application needs (e.g., `companies`, `results`, etc.).
+
+
+  
 2. Copy the `web/` folder to your PHP server's root (e.g., `htdocs` for XAMPP or `www` for WAMP/LAMP).
 3. Set environment variables for DB credentials (or edit `db.php` to hardcode if needed).
 4. Start your PHP server:
