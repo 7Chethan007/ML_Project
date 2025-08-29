@@ -1,0 +1,8 @@
+pandas
+requests
+dotenv
+sqlalchemy
+pymysql
+tqdm
+colorama
+openpyxl
