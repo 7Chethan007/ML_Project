@@ -702,3 +702,753 @@
 2025-08-29 22:49:48,190 INFO: Request for HDFCLIFE timed out. Attempt 1 of 3.
 2025-08-29 22:49:55,158 INFO: Successfully saved data for HDFCLIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HDFCLIFE.json
 2025-08-29 22:49:55,160 INFO: Fetching data for company: HEROMOTOCO
+2025-08-29 22:50:00,620 INFO: Successfully saved data for HEROMOTOCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HEROMOTOCO.json
+2025-08-29 22:50:00,622 INFO: Fetching data for company: HINDALCO
+2025-08-29 22:50:02,427 INFO: Successfully saved data for HINDALCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HINDALCO.json
+2025-08-29 22:50:02,429 INFO: Fetching data for company: HINDUNILVR
+2025-08-29 22:50:06,526 INFO: Successfully saved data for HINDUNILVR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HINDUNILVR.json
+2025-08-29 22:50:06,528 INFO: Fetching data for company: ICICIBANK
+2025-08-29 22:50:08,166 INFO: Successfully saved data for ICICIBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIBANK.json
+2025-08-29 22:50:08,168 INFO: Fetching data for company: ICICIGI
+2025-08-29 22:50:13,693 INFO: Successfully saved data for ICICIGI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIGI.json
+2025-08-29 22:50:13,694 INFO: Fetching data for company: ICICIPRULI
+2025-08-29 22:50:22,664 INFO: Successfully saved data for ICICIPRULI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIPRULI.json
+2025-08-29 22:50:22,665 INFO: Fetching data for company: INDIGO
+2025-08-29 22:50:34,162 INFO: Request for INDIGO timed out. Attempt 1 of 3.
+2025-08-29 22:50:55,475 INFO: Successfully saved data for INDIGO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INDIGO.json
+2025-08-29 22:50:55,477 INFO: Fetching data for company: INDUSINDBK
+2025-08-29 22:51:05,916 INFO: Successfully saved data for INDUSINDBK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INDUSINDBK.json
+2025-08-29 22:51:05,917 INFO: Fetching data for company: INFY
+2025-08-29 22:51:28,215 ERROR: Request for INFY failed: HTTPSConnectionPool(host='bluemutualfund.in', port=443): Read timed out.. Attempt 1 of 3.
+2025-08-29 22:51:42,986 INFO: Successfully saved data for INFY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INFY.json
+2025-08-29 22:51:42,988 INFO: Fetching data for company: IOC
+2025-08-29 22:51:44,692 INFO: Successfully saved data for IOC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IOC.json
+2025-08-29 22:51:44,693 INFO: Fetching data for company: IRCTC
+2025-08-29 22:51:45,749 INFO: Successfully saved data for IRCTC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IRCTC.json
+2025-08-29 22:51:45,751 INFO: Fetching data for company: IRFC
+2025-08-29 22:51:48,516 INFO: Successfully saved data for IRFC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IRFC.json
+2025-08-29 22:51:48,518 INFO: Fetching data for company: ITC
+2025-08-29 22:51:49,742 INFO: Successfully saved data for ITC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ITC.json
+2025-08-29 22:51:49,743 INFO: Fetching data for company: JINDALSTEL
+2025-08-29 22:51:53,593 INFO: Successfully saved data for JINDALSTEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JINDALSTEL.json
+2025-08-29 22:51:53,594 INFO: Fetching data for company: JIOFIN
+2025-08-29 22:51:55,479 INFO: Successfully saved data for JIOFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JIOFIN.json
+2025-08-29 22:51:55,482 INFO: Fetching data for company: JSWENERGY
+2025-08-29 22:51:56,867 INFO: Successfully saved data for JSWENERGY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JSWENERGY.json
+2025-08-29 22:51:56,868 INFO: Fetching data for company: JSWSTEEL
+2025-08-29 22:51:58,553 INFO: Successfully saved data for JSWSTEEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JSWSTEEL.json
+2025-08-29 22:51:58,554 INFO: Fetching data for company: KOTAKBANK
+2025-08-29 22:52:00,497 INFO: Successfully saved data for KOTAKBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\KOTAKBANK.json
+2025-08-29 22:52:00,498 INFO: Fetching data for company: LICI
+2025-08-29 22:52:01,540 INFO: Successfully saved data for LICI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LICI.json
+2025-08-29 22:52:01,542 INFO: Fetching data for company: LODHA
+2025-08-29 22:52:04,899 INFO: Successfully saved data for LODHA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LODHA.json
+2025-08-29 22:52:04,901 INFO: Fetching data for company: LT
+2025-08-29 22:52:06,334 INFO: Successfully saved data for LT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LT.json
+2025-08-29 22:52:06,336 INFO: Fetching data for company: LTIM
+2025-08-29 22:52:09,404 INFO: Successfully saved data for LTIM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LTIM.json
+2025-08-29 22:52:09,405 INFO: Fetching data for company: M&M
+2025-08-29 22:52:27,223 INFO: Successfully saved data for M&M to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\M&M.json
+2025-08-29 22:52:27,224 INFO: Fetching data for company: MARUTI
+2025-08-29 22:52:29,903 INFO: Successfully saved data for MARUTI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\MARUTI.json
+2025-08-29 22:52:29,904 INFO: Fetching data for company: MOTHERSON
+2025-08-29 22:52:32,652 INFO: Successfully saved data for MOTHERSON to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\MOTHERSON.json
+2025-08-29 22:52:32,654 INFO: Fetching data for company: NAUKRI
+2025-08-29 22:52:33,889 INFO: Successfully saved data for NAUKRI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NAUKRI.json
+2025-08-29 22:52:33,891 INFO: Fetching data for company: NESTLEIND
+2025-08-29 22:52:35,517 INFO: Successfully saved data for NESTLEIND to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NESTLEIND.json
+2025-08-29 22:52:35,518 INFO: Fetching data for company: NHPC
+2025-08-29 22:52:40,329 INFO: Successfully saved data for NHPC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NHPC.json
+2025-08-29 22:52:40,330 INFO: Fetching data for company: NTPC
+2025-08-29 22:52:41,762 INFO: Successfully saved data for NTPC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NTPC.json
+2025-08-29 22:52:41,764 INFO: Fetching data for company: ONGC
+2025-08-29 22:52:43,203 INFO: Successfully saved data for ONGC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ONGC.json
+2025-08-29 22:52:43,205 INFO: Fetching data for company: PFC
+2025-08-29 22:52:45,243 INFO: Successfully saved data for PFC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PFC.json
+2025-08-29 22:52:45,244 INFO: Fetching data for company: PIDILITIND
+2025-08-29 22:52:50,609 INFO: Successfully saved data for PIDILITIND to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PIDILITIND.json
+2025-08-29 22:52:50,611 INFO: Fetching data for company: PNB
+2025-08-29 22:52:52,461 INFO: Successfully saved data for PNB to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PNB.json
+2025-08-29 22:52:52,463 INFO: Fetching data for company: POWERGRID
+2025-08-29 22:52:54,873 INFO: Successfully saved data for POWERGRID to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\POWERGRID.json
+2025-08-29 22:52:54,876 INFO: Fetching data for company: RECLTD
+2025-08-29 22:52:56,629 INFO: Successfully saved data for RECLTD to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\RECLTD.json
+2025-08-29 22:52:56,630 INFO: Fetching data for company: RELIANCE
+2025-08-29 22:52:59,206 INFO: Successfully saved data for RELIANCE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\RELIANCE.json
+2025-08-29 22:52:59,208 INFO: Fetching data for company: SBILIFE
+2025-08-29 22:53:00,810 INFO: Successfully saved data for SBILIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SBILIFE.json
+2025-08-29 22:53:00,811 INFO: Fetching data for company: SBIN
+2025-08-29 22:53:02,338 INFO: Successfully saved data for SBIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SBIN.json
+2025-08-29 22:53:02,339 INFO: Fetching data for company: SHREECEM
+2025-08-29 22:53:04,291 INFO: Successfully saved data for SHREECEM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SHREECEM.json
+2025-08-29 22:53:04,293 INFO: Fetching data for company: SHRIRAMFIN
+2025-08-29 22:53:05,882 INFO: Successfully saved data for SHRIRAMFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SHRIRAMFIN.json
+2025-08-29 22:53:05,884 INFO: Fetching data for company: SIEMENS
+2025-08-29 22:53:07,362 INFO: Successfully saved data for SIEMENS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SIEMENS.json
+2025-08-29 22:53:07,364 INFO: Fetching data for company: SUNPHARMA
+2025-08-29 22:53:09,036 INFO: Successfully saved data for SUNPHARMA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SUNPHARMA.json
+2025-08-29 22:53:09,038 INFO: Fetching data for company: TATACONSUM
+2025-08-29 22:53:19,447 INFO: Successfully saved data for TATACONSUM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATACONSUM.json
+2025-08-29 22:53:19,448 INFO: Fetching data for company: TATAMOTORS
+2025-08-29 22:53:25,591 INFO: Successfully saved data for TATAMOTORS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATAMOTORS.json
+2025-08-29 22:53:25,593 INFO: Fetching data for company: TATAPOWER
+2025-08-29 22:53:26,566 INFO: Successfully saved data for TATAPOWER to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATAPOWER.json
+2025-08-29 22:53:26,568 INFO: Fetching data for company: TATASTEEL
+2025-08-29 22:53:28,182 INFO: Successfully saved data for TATASTEEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATASTEEL.json
+2025-08-29 22:53:28,184 INFO: Fetching data for company: TCS
+2025-08-29 22:53:29,908 INFO: Successfully saved data for TCS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TCS.json
+2025-08-29 22:53:29,909 INFO: Fetching data for company: TECHM
+2025-08-29 22:53:31,532 INFO: Successfully saved data for TECHM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TECHM.json
+2025-08-29 22:53:31,535 INFO: Fetching data for company: TITAN
+2025-08-29 22:53:33,853 INFO: Successfully saved data for TITAN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TITAN.json
+2025-08-29 22:53:33,854 INFO: Fetching data for company: TORNTPHARM
+2025-08-29 22:53:35,846 INFO: Successfully saved data for TORNTPHARM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TORNTPHARM.json
+2025-08-29 22:53:35,848 INFO: Fetching data for company: TRENT
+2025-08-29 22:53:37,573 INFO: Successfully saved data for TRENT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TRENT.json
+2025-08-29 22:53:37,576 INFO: Fetching data for company: TVSMOTOR
+2025-08-29 22:53:39,313 INFO: Successfully saved data for TVSMOTOR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TVSMOTOR.json
+2025-08-29 22:53:39,315 INFO: Fetching data for company: ULTRACEMCO
+2025-08-29 22:53:43,206 INFO: Successfully saved data for ULTRACEMCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ULTRACEMCO.json
+2025-08-29 22:53:43,207 INFO: Fetching data for company: UNIONBANK
+2025-08-29 22:53:45,002 INFO: Successfully saved data for UNIONBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\UNIONBANK.json
+2025-08-29 22:53:45,004 INFO: Fetching data for company: UNITDSPR
+2025-08-29 22:53:46,891 INFO: Successfully saved data for UNITDSPR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\UNITDSPR.json
+2025-08-29 22:53:46,893 INFO: Fetching data for company: VBL
+2025-08-29 22:53:48,325 INFO: Successfully saved data for VBL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\VBL.json
+2025-08-29 22:53:48,327 INFO: Fetching data for company: VEDL
+2025-08-29 22:53:50,168 INFO: Successfully saved data for VEDL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\VEDL.json
+2025-08-29 22:53:50,169 INFO: Fetching data for company: WIPRO
+2025-08-29 22:53:57,542 INFO: Successfully saved data for WIPRO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\WIPRO.json
+2025-08-29 22:53:57,544 INFO: Fetching data for company: ZOMATO
+2025-08-29 22:54:00,407 INFO: Successfully saved data for ZOMATO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ZOMATO.json
+2025-08-29 22:54:00,409 INFO: Fetching data for company: ZYDUSLIFE
+2025-08-29 22:54:02,250 INFO: Successfully saved data for ZYDUSLIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ZYDUSLIFE.json
+2025-08-29 22:54:03,659 INFO: Preprocessing complete. Master files saved to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\compiled_output
+2025-08-29 22:54:03,670 INFO: Found 99 JSON files in c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data for ML analysis.
+2025-08-29 22:54:03,690 INFO: Wrote 99 company analyses to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\compiled_output\ml_analysis_results.json
+2025-08-29 22:54:03,834 ERROR: MySQL connection or upsert failed: (pymysql.err.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-08-29 22:55:55,080 ERROR: MySQL connection or upsert failed: (pymysql.err.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-08-29 23:06:02,997 INFO: Loaded 99 unique company IDs.
+2025-08-29 23:06:03,003 INFO: Fetching data for company: ABB
+2025-08-29 23:06:04,065 INFO: Successfully saved data for ABB to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ABB.json
+2025-08-29 23:06:04,067 INFO: Fetching data for company: ADANIENSOL
+2025-08-29 23:06:05,193 INFO: Successfully saved data for ADANIENSOL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIENSOL.json
+2025-08-29 23:06:05,195 INFO: Fetching data for company: ADANIENT
+2025-08-29 23:06:07,242 INFO: Successfully saved data for ADANIENT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIENT.json
+2025-08-29 23:06:07,244 INFO: Fetching data for company: ADANIGREEN
+2025-08-29 23:06:08,288 INFO: Successfully saved data for ADANIGREEN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIGREEN.json
+2025-08-29 23:06:08,290 INFO: Fetching data for company: ADANIPORTS
+2025-08-29 23:06:09,768 INFO: Successfully saved data for ADANIPORTS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIPORTS.json
+2025-08-29 23:06:09,770 INFO: Fetching data for company: ADANIPOWER
+2025-08-29 23:06:11,030 INFO: Successfully saved data for ADANIPOWER to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIPOWER.json
+2025-08-29 23:06:11,032 INFO: Fetching data for company: AMBUJACEM
+2025-08-29 23:06:12,054 INFO: Successfully saved data for AMBUJACEM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\AMBUJACEM.json
+2025-08-29 23:06:12,056 INFO: Fetching data for company: APOLLOHOSP
+2025-08-29 23:06:14,309 INFO: Successfully saved data for APOLLOHOSP to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\APOLLOHOSP.json
+2025-08-29 23:06:14,311 INFO: Fetching data for company: ASIANPAINT
+2025-08-29 23:06:16,684 INFO: Successfully saved data for ASIANPAINT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ASIANPAINT.json
+2025-08-29 23:06:16,685 INFO: Fetching data for company: ATGL
+2025-08-29 23:06:17,686 INFO: Successfully saved data for ATGL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ATGL.json
+2025-08-29 23:06:17,688 INFO: Fetching data for company: AXISBANK
+2025-08-29 23:06:19,118 INFO: Successfully saved data for AXISBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\AXISBANK.json
+2025-08-29 23:06:19,120 INFO: Fetching data for company: BAJAJ-AUTO
+2025-08-29 23:06:20,554 INFO: Successfully saved data for BAJAJ-AUTO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJAJ-AUTO.json
+2025-08-29 23:06:20,556 INFO: Fetching data for company: BAJAJFINSV
+2025-08-29 23:06:21,884 INFO: Successfully saved data for BAJAJFINSV to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJAJFINSV.json
+2025-08-29 23:06:21,885 INFO: Fetching data for company: BAJAJHLDNG
+2025-08-29 23:06:23,052 INFO: Successfully saved data for BAJAJHLDNG to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJAJHLDNG.json
+2025-08-29 23:06:23,054 INFO: Fetching data for company: BAJFINANCE
+2025-08-29 23:06:24,005 INFO: Successfully saved data for BAJFINANCE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJFINANCE.json
+2025-08-29 23:06:24,007 INFO: Fetching data for company: BANKBARODA
+2025-08-29 23:06:24,986 INFO: Successfully saved data for BANKBARODA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BANKBARODA.json
+2025-08-29 23:06:24,988 INFO: Fetching data for company: BEL
+2025-08-29 23:06:26,082 INFO: Successfully saved data for BEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BEL.json
+2025-08-29 23:06:26,084 INFO: Fetching data for company: BHARTIARTL
+2025-08-29 23:06:27,190 INFO: Successfully saved data for BHARTIARTL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BHARTIARTL.json
+2025-08-29 23:06:27,193 INFO: Fetching data for company: BHEL
+2025-08-29 23:06:28,354 INFO: Successfully saved data for BHEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BHEL.json
+2025-08-29 23:06:28,356 INFO: Fetching data for company: BOSCHLTD
+2025-08-29 23:06:29,384 INFO: Successfully saved data for BOSCHLTD to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BOSCHLTD.json
+2025-08-29 23:06:29,385 INFO: Fetching data for company: BPCL
+2025-08-29 23:06:32,022 INFO: Successfully saved data for BPCL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BPCL.json
+2025-08-29 23:06:32,024 INFO: Fetching data for company: BRITANNIA
+2025-08-29 23:06:33,048 INFO: Successfully saved data for BRITANNIA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BRITANNIA.json
+2025-08-29 23:06:33,049 INFO: Fetching data for company: CANBK
+2025-08-29 23:06:34,684 INFO: Successfully saved data for CANBK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\CANBK.json
+2025-08-29 23:06:34,686 INFO: Fetching data for company: CHOLAFIN
+2025-08-29 23:06:35,914 INFO: Successfully saved data for CHOLAFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\CHOLAFIN.json
+2025-08-29 23:06:35,915 INFO: Fetching data for company: CIPLA
+2025-08-29 23:06:37,248 INFO: Successfully saved data for CIPLA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\CIPLA.json
+2025-08-29 23:06:37,249 INFO: Fetching data for company: COALINDIA
+2025-08-29 23:06:38,472 INFO: Successfully saved data for COALINDIA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\COALINDIA.json
+2025-08-29 23:06:38,474 INFO: Fetching data for company: DABUR
+2025-08-29 23:06:39,583 INFO: Successfully saved data for DABUR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DABUR.json
+2025-08-29 23:06:39,584 INFO: Fetching data for company: DLF
+2025-08-29 23:06:40,688 INFO: Successfully saved data for DLF to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DLF.json
+2025-08-29 23:06:40,689 INFO: Fetching data for company: DMART
+2025-08-29 23:06:41,853 INFO: Successfully saved data for DMART to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DMART.json
+2025-08-29 23:06:41,854 INFO: Fetching data for company: DRREDDY
+2025-08-29 23:06:43,284 INFO: Successfully saved data for DRREDDY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DRREDDY.json
+2025-08-29 23:06:43,285 INFO: Fetching data for company: EICHERMOT
+2025-08-29 23:06:44,718 INFO: Successfully saved data for EICHERMOT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\EICHERMOT.json
+2025-08-29 23:06:44,719 INFO: Fetching data for company: GAIL
+2025-08-29 23:06:46,151 INFO: Successfully saved data for GAIL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\GAIL.json
+2025-08-29 23:06:46,153 INFO: Fetching data for company: GODREJCP
+2025-08-29 23:06:47,583 INFO: Successfully saved data for GODREJCP to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\GODREJCP.json
+2025-08-29 23:06:47,585 INFO: Fetching data for company: GRASIM
+2025-08-29 23:06:48,610 INFO: Successfully saved data for GRASIM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\GRASIM.json
+2025-08-29 23:06:48,612 INFO: Fetching data for company: HAL
+2025-08-29 23:06:49,871 INFO: Successfully saved data for HAL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HAL.json
+2025-08-29 23:06:49,885 INFO: Fetching data for company: HAVELLS
+2025-08-29 23:06:50,966 INFO: Successfully saved data for HAVELLS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HAVELLS.json
+2025-08-29 23:06:50,967 INFO: Fetching data for company: HCLTECH
+2025-08-29 23:06:52,092 INFO: Successfully saved data for HCLTECH to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HCLTECH.json
+2025-08-29 23:06:52,094 INFO: Fetching data for company: HDFCBANK
+2025-08-29 23:06:53,422 INFO: Successfully saved data for HDFCBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HDFCBANK.json
+2025-08-29 23:06:53,424 INFO: Fetching data for company: HDFCLIFE
+2025-08-29 23:06:54,548 INFO: Successfully saved data for HDFCLIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HDFCLIFE.json
+2025-08-29 23:06:54,550 INFO: Fetching data for company: HEROMOTOCO
+2025-08-29 23:06:56,599 INFO: Successfully saved data for HEROMOTOCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HEROMOTOCO.json
+2025-08-29 23:06:56,600 INFO: Fetching data for company: HINDALCO
+2025-08-29 23:06:57,746 INFO: Successfully saved data for HINDALCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HINDALCO.json
+2025-08-29 23:06:57,748 INFO: Fetching data for company: HINDUNILVR
+2025-08-29 23:06:58,952 INFO: Successfully saved data for HINDUNILVR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HINDUNILVR.json
+2025-08-29 23:06:58,953 INFO: Fetching data for company: ICICIBANK
+2025-08-29 23:07:00,284 INFO: Successfully saved data for ICICIBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIBANK.json
+2025-08-29 23:07:00,285 INFO: Fetching data for company: ICICIGI
+2025-08-29 23:07:01,515 INFO: Successfully saved data for ICICIGI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIGI.json
+2025-08-29 23:07:01,516 INFO: Fetching data for company: ICICIPRULI
+2025-08-29 23:07:02,638 INFO: Successfully saved data for ICICIPRULI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIPRULI.json
+2025-08-29 23:07:02,640 INFO: Fetching data for company: INDIGO
+2025-08-29 23:07:03,971 INFO: Successfully saved data for INDIGO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INDIGO.json
+2025-08-29 23:07:03,972 INFO: Fetching data for company: INDUSINDBK
+2025-08-29 23:07:05,403 INFO: Successfully saved data for INDUSINDBK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INDUSINDBK.json
+2025-08-29 23:07:05,404 INFO: Fetching data for company: INFY
+2025-08-29 23:07:06,634 INFO: Successfully saved data for INFY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INFY.json
+2025-08-29 23:07:06,635 INFO: Fetching data for company: IOC
+2025-08-29 23:07:09,398 INFO: Successfully saved data for IOC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IOC.json
+2025-08-29 23:07:09,401 INFO: Fetching data for company: IRCTC
+2025-08-29 23:07:10,728 INFO: Successfully saved data for IRCTC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IRCTC.json
+2025-08-29 23:07:10,729 INFO: Fetching data for company: IRFC
+2025-08-29 23:07:11,957 INFO: Successfully saved data for IRFC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IRFC.json
+2025-08-29 23:07:11,958 INFO: Fetching data for company: ITC
+2025-08-29 23:07:13,082 INFO: Successfully saved data for ITC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ITC.json
+2025-08-29 23:07:13,084 INFO: Fetching data for company: JINDALSTEL
+2025-08-29 23:07:15,850 INFO: Successfully saved data for JINDALSTEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JINDALSTEL.json
+2025-08-29 23:07:15,852 INFO: Fetching data for company: JIOFIN
+2025-08-29 23:07:17,025 INFO: Successfully saved data for JIOFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JIOFIN.json
+2025-08-29 23:07:17,026 INFO: Fetching data for company: JSWENERGY
+2025-08-29 23:07:18,100 INFO: Successfully saved data for JSWENERGY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JSWENERGY.json
+2025-08-29 23:07:18,102 INFO: Fetching data for company: JSWSTEEL
+2025-08-29 23:07:19,434 INFO: Successfully saved data for JSWSTEEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JSWSTEEL.json
+2025-08-29 23:07:19,435 INFO: Fetching data for company: KOTAKBANK
+2025-08-29 23:07:21,082 INFO: Successfully saved data for KOTAKBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\KOTAKBANK.json
+2025-08-29 23:07:21,100 INFO: Fetching data for company: LICI
+2025-08-29 23:07:22,402 INFO: Successfully saved data for LICI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LICI.json
+2025-08-29 23:07:22,403 INFO: Fetching data for company: LODHA
+2025-08-29 23:07:24,964 INFO: Successfully saved data for LODHA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LODHA.json
+2025-08-29 23:07:24,966 INFO: Fetching data for company: LT
+2025-08-29 23:07:26,191 INFO: Successfully saved data for LT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LT.json
+2025-08-29 23:07:26,192 INFO: Fetching data for company: LTIM
+2025-08-29 23:07:27,318 INFO: Successfully saved data for LTIM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LTIM.json
+2025-08-29 23:07:27,319 INFO: Fetching data for company: M&M
+2025-08-29 23:07:28,752 INFO: Successfully saved data for M&M to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\M&M.json
+2025-08-29 23:07:28,754 INFO: Fetching data for company: MARUTI
+2025-08-29 23:07:30,081 INFO: Successfully saved data for MARUTI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\MARUTI.json
+2025-08-29 23:07:30,083 INFO: Fetching data for company: MOTHERSON
+2025-08-29 23:07:32,478 INFO: Successfully saved data for MOTHERSON to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\MOTHERSON.json
+2025-08-29 23:07:32,481 INFO: Fetching data for company: NAUKRI
+2025-08-29 23:07:34,957 INFO: Successfully saved data for NAUKRI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NAUKRI.json
+2025-08-29 23:07:34,958 INFO: Fetching data for company: NESTLEIND
+2025-08-29 23:07:36,124 INFO: Successfully saved data for NESTLEIND to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NESTLEIND.json
+2025-08-29 23:07:36,126 INFO: Fetching data for company: NHPC
+2025-08-29 23:07:37,351 INFO: Successfully saved data for NHPC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NHPC.json
+2025-08-29 23:07:37,353 INFO: Fetching data for company: NTPC
+2025-08-29 23:07:38,684 INFO: Successfully saved data for NTPC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NTPC.json
+2025-08-29 23:07:38,686 INFO: Fetching data for company: ONGC
+2025-08-29 23:07:39,841 INFO: Successfully saved data for ONGC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ONGC.json
+2025-08-29 23:07:39,842 INFO: Fetching data for company: PFC
+2025-08-29 23:07:41,038 INFO: Successfully saved data for PFC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PFC.json
+2025-08-29 23:07:41,039 INFO: Fetching data for company: PIDILITIND
+2025-08-29 23:07:42,571 INFO: Successfully saved data for PIDILITIND to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PIDILITIND.json
+2025-08-29 23:07:42,573 INFO: Fetching data for company: PNB
+2025-08-29 23:07:43,677 INFO: Successfully saved data for PNB to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PNB.json
+2025-08-29 23:07:43,679 INFO: Fetching data for company: POWERGRID
+2025-08-29 23:07:45,134 INFO: Successfully saved data for POWERGRID to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\POWERGRID.json
+2025-08-29 23:07:45,136 INFO: Fetching data for company: RECLTD
+2025-08-29 23:07:46,570 INFO: Successfully saved data for RECLTD to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\RECLTD.json
+2025-08-29 23:07:46,571 INFO: Fetching data for company: RELIANCE
+2025-08-29 23:07:48,035 INFO: Successfully saved data for RELIANCE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\RELIANCE.json
+2025-08-29 23:07:48,043 INFO: Fetching data for company: SBILIFE
+2025-08-29 23:07:49,235 INFO: Successfully saved data for SBILIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SBILIFE.json
+2025-08-29 23:07:49,236 INFO: Fetching data for company: SBIN
+2025-08-29 23:07:52,101 INFO: Successfully saved data for SBIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SBIN.json
+2025-08-29 23:07:52,102 INFO: Fetching data for company: SHREECEM
+2025-08-29 23:07:53,225 INFO: Successfully saved data for SHREECEM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SHREECEM.json
+2025-08-29 23:07:53,227 INFO: Fetching data for company: SHRIRAMFIN
+2025-08-29 23:07:54,556 INFO: Successfully saved data for SHRIRAMFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SHRIRAMFIN.json
+2025-08-29 23:07:54,558 INFO: Fetching data for company: SIEMENS
+2025-08-29 23:07:55,752 INFO: Successfully saved data for SIEMENS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SIEMENS.json
+2025-08-29 23:07:55,753 INFO: Fetching data for company: SUNPHARMA
+2025-08-29 23:07:56,733 INFO: Successfully saved data for SUNPHARMA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SUNPHARMA.json
+2025-08-29 23:07:56,734 INFO: Fetching data for company: TATACONSUM
+2025-08-29 23:07:58,243 INFO: Successfully saved data for TATACONSUM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATACONSUM.json
+2025-08-29 23:07:58,244 INFO: Fetching data for company: TATAMOTORS
+2025-08-29 23:07:59,473 INFO: Successfully saved data for TATAMOTORS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATAMOTORS.json
+2025-08-29 23:07:59,476 INFO: Fetching data for company: TATAPOWER
+2025-08-29 23:08:00,600 INFO: Successfully saved data for TATAPOWER to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATAPOWER.json
+2025-08-29 23:08:00,603 INFO: Fetching data for company: TATASTEEL
+2025-08-29 23:08:01,724 INFO: Successfully saved data for TATASTEEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATASTEEL.json
+2025-08-29 23:08:01,726 INFO: Fetching data for company: TCS
+2025-08-29 23:08:02,950 INFO: Successfully saved data for TCS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TCS.json
+2025-08-29 23:08:02,952 INFO: Fetching data for company: TECHM
+2025-08-29 23:08:04,283 INFO: Successfully saved data for TECHM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TECHM.json
+2025-08-29 23:08:04,284 INFO: Fetching data for company: TITAN
+2025-08-29 23:08:05,412 INFO: Successfully saved data for TITAN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TITAN.json
+2025-08-29 23:08:05,414 INFO: Fetching data for company: TORNTPHARM
+2025-08-29 23:08:06,640 INFO: Successfully saved data for TORNTPHARM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TORNTPHARM.json
+2025-08-29 23:08:06,641 INFO: Fetching data for company: TRENT
+2025-08-29 23:08:07,871 INFO: Successfully saved data for TRENT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TRENT.json
+2025-08-29 23:08:07,872 INFO: Fetching data for company: TVSMOTOR
+2025-08-29 23:08:09,505 INFO: Successfully saved data for TVSMOTOR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TVSMOTOR.json
+2025-08-29 23:08:09,507 INFO: Fetching data for company: ULTRACEMCO
+2025-08-29 23:08:10,634 INFO: Successfully saved data for ULTRACEMCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ULTRACEMCO.json
+2025-08-29 23:08:10,635 INFO: Fetching data for company: UNIONBANK
+2025-08-29 23:08:12,010 INFO: Successfully saved data for UNIONBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\UNIONBANK.json
+2025-08-29 23:08:12,012 INFO: Fetching data for company: UNITDSPR
+2025-08-29 23:08:13,192 INFO: Successfully saved data for UNITDSPR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\UNITDSPR.json
+2025-08-29 23:08:13,193 INFO: Fetching data for company: VBL
+2025-08-29 23:08:14,524 INFO: Successfully saved data for VBL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\VBL.json
+2025-08-29 23:08:14,525 INFO: Fetching data for company: VEDL
+2025-08-29 23:08:15,651 INFO: Successfully saved data for VEDL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\VEDL.json
+2025-08-29 23:08:15,652 INFO: Fetching data for company: WIPRO
+2025-08-29 23:08:16,877 INFO: Successfully saved data for WIPRO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\WIPRO.json
+2025-08-29 23:08:16,879 INFO: Fetching data for company: ZOMATO
+2025-08-29 23:08:18,209 INFO: Successfully saved data for ZOMATO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ZOMATO.json
+2025-08-29 23:08:18,210 INFO: Fetching data for company: ZYDUSLIFE
+2025-08-29 23:08:19,362 INFO: Successfully saved data for ZYDUSLIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ZYDUSLIFE.json
+2025-08-29 23:08:20,738 INFO: Preprocessing complete. Master files saved to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\compiled_output
+2025-08-29 23:08:20,748 INFO: Found 99 JSON files in c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data for ML analysis.
+2025-08-29 23:08:20,764 INFO: Wrote 99 company analyses to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\compiled_output\ml_analysis_results.json
+2025-08-29 23:08:20,873 ERROR: MySQL connection or upsert failed: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '007@127.0.0.1' ([Errno 11003] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-08-29 23:12:31,125 ERROR: MySQL connection or upsert failed: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '007@127.0.0.1' ([Errno 11003] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-08-29 23:14:51,238 INFO: Loaded 99 unique company IDs.
+2025-08-29 23:14:51,246 INFO: Fetching data for company: ABB
+2025-08-29 23:14:53,373 INFO: Successfully saved data for ABB to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ABB.json
+2025-08-29 23:14:53,374 INFO: Fetching data for company: ADANIENSOL
+2025-08-29 23:14:54,604 INFO: Successfully saved data for ADANIENSOL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIENSOL.json
+2025-08-29 23:14:54,605 INFO: Fetching data for company: ADANIENT
+2025-08-29 23:14:55,826 INFO: Successfully saved data for ADANIENT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIENT.json
+2025-08-29 23:14:55,828 INFO: Fetching data for company: ADANIGREEN
+2025-08-29 23:14:57,017 INFO: Successfully saved data for ADANIGREEN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIGREEN.json
+2025-08-29 23:14:57,018 INFO: Fetching data for company: ADANIPORTS
+2025-08-29 23:14:58,296 INFO: Successfully saved data for ADANIPORTS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIPORTS.json
+2025-08-29 23:14:58,298 INFO: Fetching data for company: ADANIPOWER
+2025-08-29 23:14:59,617 INFO: Successfully saved data for ADANIPOWER to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIPOWER.json
+2025-08-29 23:14:59,619 INFO: Fetching data for company: AMBUJACEM
+2025-08-29 23:15:00,981 INFO: Successfully saved data for AMBUJACEM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\AMBUJACEM.json
+2025-08-29 23:15:00,996 INFO: Fetching data for company: APOLLOHOSP
+2025-08-29 23:15:02,458 INFO: Successfully saved data for APOLLOHOSP to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\APOLLOHOSP.json
+2025-08-29 23:15:02,460 INFO: Fetching data for company: ASIANPAINT
+2025-08-29 23:15:03,923 INFO: Successfully saved data for ASIANPAINT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ASIANPAINT.json
+2025-08-29 23:15:03,925 INFO: Fetching data for company: ATGL
+2025-08-29 23:15:05,072 INFO: Successfully saved data for ATGL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ATGL.json
+2025-08-29 23:15:05,074 INFO: Fetching data for company: AXISBANK
+2025-08-29 23:15:06,376 INFO: Successfully saved data for AXISBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\AXISBANK.json
+2025-08-29 23:15:06,378 INFO: Fetching data for company: BAJAJ-AUTO
+2025-08-29 23:15:07,501 INFO: Successfully saved data for BAJAJ-AUTO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJAJ-AUTO.json
+2025-08-29 23:15:07,504 INFO: Fetching data for company: BAJAJFINSV
+2025-08-29 23:15:08,731 INFO: Successfully saved data for BAJAJFINSV to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJAJFINSV.json
+2025-08-29 23:15:08,732 INFO: Fetching data for company: BAJAJHLDNG
+2025-08-29 23:15:09,980 INFO: Successfully saved data for BAJAJHLDNG to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJAJHLDNG.json
+2025-08-29 23:15:09,992 INFO: Fetching data for company: BAJFINANCE
+2025-08-29 23:15:11,292 INFO: Successfully saved data for BAJFINANCE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJFINANCE.json
+2025-08-29 23:15:11,294 INFO: Fetching data for company: BANKBARODA
+2025-08-29 23:15:12,420 INFO: Successfully saved data for BANKBARODA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BANKBARODA.json
+2025-08-29 23:15:12,421 INFO: Fetching data for company: BEL
+2025-08-29 23:15:13,751 INFO: Successfully saved data for BEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BEL.json
+2025-08-29 23:15:13,753 INFO: Fetching data for company: BHARTIARTL
+2025-08-29 23:15:14,978 INFO: Successfully saved data for BHARTIARTL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BHARTIARTL.json
+2025-08-29 23:15:14,980 INFO: Fetching data for company: BHEL
+2025-08-29 23:15:16,057 INFO: Successfully saved data for BHEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BHEL.json
+2025-08-29 23:15:16,059 INFO: Fetching data for company: BOSCHLTD
+2025-08-29 23:15:17,335 INFO: Successfully saved data for BOSCHLTD to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BOSCHLTD.json
+2025-08-29 23:15:17,338 INFO: Fetching data for company: BPCL
+2025-08-29 23:15:18,562 INFO: Successfully saved data for BPCL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BPCL.json
+2025-08-29 23:15:18,563 INFO: Fetching data for company: BRITANNIA
+2025-08-29 23:15:19,792 INFO: Successfully saved data for BRITANNIA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BRITANNIA.json
+2025-08-29 23:15:19,793 INFO: Fetching data for company: CANBK
+2025-08-29 23:15:21,226 INFO: Successfully saved data for CANBK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\CANBK.json
+2025-08-29 23:15:21,228 INFO: Fetching data for company: CHOLAFIN
+2025-08-29 23:15:23,323 INFO: Successfully saved data for CHOLAFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\CHOLAFIN.json
+2025-08-29 23:15:23,325 INFO: Fetching data for company: CIPLA
+2025-08-29 23:15:24,397 INFO: Successfully saved data for CIPLA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\CIPLA.json
+2025-08-29 23:15:24,399 INFO: Fetching data for company: COALINDIA
+2025-08-29 23:15:25,934 INFO: Successfully saved data for COALINDIA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\COALINDIA.json
+2025-08-29 23:15:25,935 INFO: Fetching data for company: DABUR
+2025-08-29 23:15:27,165 INFO: Successfully saved data for DABUR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DABUR.json
+2025-08-29 23:15:27,166 INFO: Fetching data for company: DLF
+2025-08-29 23:15:28,392 INFO: Successfully saved data for DLF to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DLF.json
+2025-08-29 23:15:28,394 INFO: Fetching data for company: DMART
+2025-08-29 23:15:29,725 INFO: Successfully saved data for DMART to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DMART.json
+2025-08-29 23:15:29,727 INFO: Fetching data for company: DRREDDY
+2025-08-29 23:15:30,952 INFO: Successfully saved data for DRREDDY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DRREDDY.json
+2025-08-29 23:15:30,954 INFO: Fetching data for company: EICHERMOT
+2025-08-29 23:15:32,285 INFO: Successfully saved data for EICHERMOT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\EICHERMOT.json
+2025-08-29 23:15:32,287 INFO: Fetching data for company: GAIL
+2025-08-29 23:15:34,298 INFO: Successfully saved data for GAIL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\GAIL.json
+2025-08-29 23:15:34,299 INFO: Fetching data for company: GODREJCP
+2025-08-29 23:15:35,661 INFO: Successfully saved data for GODREJCP to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\GODREJCP.json
+2025-08-29 23:15:35,662 INFO: Fetching data for company: GRASIM
+2025-08-29 23:15:39,761 INFO: Successfully saved data for GRASIM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\GRASIM.json
+2025-08-29 23:15:39,763 INFO: Fetching data for company: HAL
+2025-08-29 23:15:41,091 INFO: Successfully saved data for HAL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HAL.json
+2025-08-29 23:15:41,092 INFO: Fetching data for company: HAVELLS
+2025-08-29 23:15:42,256 INFO: Successfully saved data for HAVELLS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HAVELLS.json
+2025-08-29 23:15:42,258 INFO: Fetching data for company: HCLTECH
+2025-08-29 23:15:43,444 INFO: Successfully saved data for HCLTECH to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HCLTECH.json
+2025-08-29 23:15:43,446 INFO: Fetching data for company: HDFCBANK
+2025-08-29 23:15:44,777 INFO: Successfully saved data for HDFCBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HDFCBANK.json
+2025-08-29 23:15:44,779 INFO: Fetching data for company: HDFCLIFE
+2025-08-29 23:15:46,859 INFO: Successfully saved data for HDFCLIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HDFCLIFE.json
+2025-08-29 23:15:46,860 INFO: Fetching data for company: HEROMOTOCO
+2025-08-29 23:15:48,258 INFO: Successfully saved data for HEROMOTOCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HEROMOTOCO.json
+2025-08-29 23:15:48,259 INFO: Fetching data for company: HINDALCO
+2025-08-29 23:15:49,508 INFO: Successfully saved data for HINDALCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HINDALCO.json
+2025-08-29 23:15:49,509 INFO: Fetching data for company: HINDUNILVR
+2025-08-29 23:15:50,780 INFO: Successfully saved data for HINDUNILVR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HINDUNILVR.json
+2025-08-29 23:15:50,781 INFO: Fetching data for company: ICICIBANK
+2025-08-29 23:15:52,251 INFO: Successfully saved data for ICICIBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIBANK.json
+2025-08-29 23:15:52,252 INFO: Fetching data for company: ICICIGI
+2025-08-29 23:15:53,378 INFO: Successfully saved data for ICICIGI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIGI.json
+2025-08-29 23:15:53,380 INFO: Fetching data for company: ICICIPRULI
+2025-08-29 23:15:55,015 INFO: Successfully saved data for ICICIPRULI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIPRULI.json
+2025-08-29 23:15:55,017 INFO: Fetching data for company: INDIGO
+2025-08-29 23:15:56,246 INFO: Successfully saved data for INDIGO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INDIGO.json
+2025-08-29 23:15:56,248 INFO: Fetching data for company: INDUSINDBK
+2025-08-29 23:15:57,678 INFO: Successfully saved data for INDUSINDBK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INDUSINDBK.json
+2025-08-29 23:15:57,680 INFO: Fetching data for company: INFY
+2025-08-29 23:15:58,806 INFO: Successfully saved data for INFY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INFY.json
+2025-08-29 23:15:58,807 INFO: Fetching data for company: IOC
+2025-08-29 23:16:00,240 INFO: Successfully saved data for IOC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IOC.json
+2025-08-29 23:16:00,242 INFO: Fetching data for company: IRCTC
+2025-08-29 23:16:02,082 INFO: Successfully saved data for IRCTC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IRCTC.json
+2025-08-29 23:16:02,084 INFO: Fetching data for company: IRFC
+2025-08-29 23:16:03,412 INFO: Successfully saved data for IRFC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IRFC.json
+2025-08-29 23:16:03,413 INFO: Fetching data for company: ITC
+2025-08-29 23:16:04,746 INFO: Successfully saved data for ITC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ITC.json
+2025-08-29 23:16:04,747 INFO: Fetching data for company: JINDALSTEL
+2025-08-29 23:16:05,871 INFO: Successfully saved data for JINDALSTEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JINDALSTEL.json
+2025-08-29 23:16:05,873 INFO: Fetching data for company: JIOFIN
+2025-08-29 23:16:06,996 INFO: Successfully saved data for JIOFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JIOFIN.json
+2025-08-29 23:16:06,998 INFO: Fetching data for company: JSWENERGY
+2025-08-29 23:16:08,228 INFO: Successfully saved data for JSWENERGY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JSWENERGY.json
+2025-08-29 23:16:08,230 INFO: Fetching data for company: JSWSTEEL
+2025-08-29 23:16:09,516 INFO: Successfully saved data for JSWSTEEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JSWSTEEL.json
+2025-08-29 23:16:09,517 INFO: Fetching data for company: KOTAKBANK
+2025-08-29 23:16:12,632 INFO: Successfully saved data for KOTAKBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\KOTAKBANK.json
+2025-08-29 23:16:12,633 INFO: Fetching data for company: LICI
+2025-08-29 23:16:14,809 INFO: Successfully saved data for LICI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LICI.json
+2025-08-29 23:16:14,811 INFO: Fetching data for company: LODHA
+2025-08-29 23:16:16,115 INFO: Successfully saved data for LODHA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LODHA.json
+2025-08-29 23:16:16,118 INFO: Fetching data for company: LT
+2025-08-29 23:16:17,543 INFO: Successfully saved data for LT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LT.json
+2025-08-29 23:16:17,544 INFO: Fetching data for company: LTIM
+2025-08-29 23:16:18,978 INFO: Successfully saved data for LTIM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LTIM.json
+2025-08-29 23:16:18,980 INFO: Fetching data for company: M&M
+2025-08-29 23:16:21,644 INFO: Successfully saved data for M&M to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\M&M.json
+2025-08-29 23:16:21,645 INFO: Fetching data for company: MARUTI
+2025-08-29 23:16:23,687 INFO: Successfully saved data for MARUTI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\MARUTI.json
+2025-08-29 23:16:23,688 INFO: Fetching data for company: MOTHERSON
+2025-08-29 23:16:24,918 INFO: Successfully saved data for MOTHERSON to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\MOTHERSON.json
+2025-08-29 23:16:24,919 INFO: Fetching data for company: NAUKRI
+2025-08-29 23:16:27,375 INFO: Successfully saved data for NAUKRI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NAUKRI.json
+2025-08-29 23:16:27,376 INFO: Fetching data for company: NESTLEIND
+2025-08-29 23:16:28,603 INFO: Successfully saved data for NESTLEIND to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NESTLEIND.json
+2025-08-29 23:16:28,604 INFO: Fetching data for company: NHPC
+2025-08-29 23:16:29,627 INFO: Successfully saved data for NHPC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NHPC.json
+2025-08-29 23:16:29,629 INFO: Fetching data for company: NTPC
+2025-08-29 23:16:30,857 INFO: Successfully saved data for NTPC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NTPC.json
+2025-08-29 23:16:30,858 INFO: Fetching data for company: ONGC
+2025-08-29 23:16:31,981 INFO: Successfully saved data for ONGC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ONGC.json
+2025-08-29 23:16:31,982 INFO: Fetching data for company: PFC
+2025-08-29 23:16:33,110 INFO: Successfully saved data for PFC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PFC.json
+2025-08-29 23:16:33,113 INFO: Fetching data for company: PIDILITIND
+2025-08-29 23:16:34,133 INFO: Successfully saved data for PIDILITIND to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PIDILITIND.json
+2025-08-29 23:16:34,135 INFO: Fetching data for company: PNB
+2025-08-29 23:16:35,245 INFO: Successfully saved data for PNB to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PNB.json
+2025-08-29 23:16:35,246 INFO: Fetching data for company: POWERGRID
+2025-08-29 23:16:36,511 INFO: Successfully saved data for POWERGRID to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\POWERGRID.json
+2025-08-29 23:16:36,514 INFO: Fetching data for company: RECLTD
+2025-08-29 23:16:37,615 INFO: Successfully saved data for RECLTD to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\RECLTD.json
+2025-08-29 23:16:37,616 INFO: Fetching data for company: RELIANCE
+2025-08-29 23:16:38,847 INFO: Successfully saved data for RELIANCE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\RELIANCE.json
+2025-08-29 23:16:38,848 INFO: Fetching data for company: SBILIFE
+2025-08-29 23:16:40,076 INFO: Successfully saved data for SBILIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SBILIFE.json
+2025-08-29 23:16:40,078 INFO: Fetching data for company: SBIN
+2025-08-29 23:16:41,403 INFO: Successfully saved data for SBIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SBIN.json
+2025-08-29 23:16:41,404 INFO: Fetching data for company: SHREECEM
+2025-08-29 23:16:42,735 INFO: Successfully saved data for SHREECEM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SHREECEM.json
+2025-08-29 23:16:42,737 INFO: Fetching data for company: SHRIRAMFIN
+2025-08-29 23:16:43,963 INFO: Successfully saved data for SHRIRAMFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SHRIRAMFIN.json
+2025-08-29 23:16:43,965 INFO: Fetching data for company: SIEMENS
+2025-08-29 23:16:46,419 INFO: Successfully saved data for SIEMENS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SIEMENS.json
+2025-08-29 23:16:46,420 INFO: Fetching data for company: SUNPHARMA
+2025-08-29 23:16:47,650 INFO: Successfully saved data for SUNPHARMA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SUNPHARMA.json
+2025-08-29 23:16:47,652 INFO: Fetching data for company: TATACONSUM
+2025-08-29 23:16:49,187 INFO: Successfully saved data for TATACONSUM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATACONSUM.json
+2025-08-29 23:16:49,188 INFO: Fetching data for company: TATAMOTORS
+2025-08-29 23:16:50,721 INFO: Successfully saved data for TATAMOTORS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATAMOTORS.json
+2025-08-29 23:16:50,723 INFO: Fetching data for company: TATAPOWER
+2025-08-29 23:16:51,951 INFO: Successfully saved data for TATAPOWER to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATAPOWER.json
+2025-08-29 23:16:51,952 INFO: Fetching data for company: TATASTEEL
+2025-08-29 23:16:53,383 INFO: Successfully saved data for TATASTEEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATASTEEL.json
+2025-08-29 23:16:53,385 INFO: Fetching data for company: TCS
+2025-08-29 23:16:54,816 INFO: Successfully saved data for TCS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TCS.json
+2025-08-29 23:16:54,817 INFO: Fetching data for company: TECHM
+2025-08-29 23:16:55,946 INFO: Successfully saved data for TECHM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TECHM.json
+2025-08-29 23:16:55,947 INFO: Fetching data for company: TITAN
+2025-08-29 23:16:57,279 INFO: Successfully saved data for TITAN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TITAN.json
+2025-08-29 23:16:57,280 INFO: Fetching data for company: TORNTPHARM
+2025-08-29 23:16:58,506 INFO: Successfully saved data for TORNTPHARM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TORNTPHARM.json
+2025-08-29 23:16:58,507 INFO: Fetching data for company: TRENT
+2025-08-29 23:16:59,733 INFO: Successfully saved data for TRENT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TRENT.json
+2025-08-29 23:16:59,734 INFO: Fetching data for company: TVSMOTOR
+2025-08-29 23:17:01,062 INFO: Successfully saved data for TVSMOTOR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TVSMOTOR.json
+2025-08-29 23:17:01,064 INFO: Fetching data for company: ULTRACEMCO
+2025-08-29 23:17:02,397 INFO: Successfully saved data for ULTRACEMCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ULTRACEMCO.json
+2025-08-29 23:17:02,398 INFO: Fetching data for company: UNIONBANK
+2025-08-29 23:17:03,623 INFO: Successfully saved data for UNIONBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\UNIONBANK.json
+2025-08-29 23:17:03,626 INFO: Fetching data for company: UNITDSPR
+2025-08-29 23:17:05,365 INFO: Successfully saved data for UNITDSPR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\UNITDSPR.json
+2025-08-29 23:17:05,366 INFO: Fetching data for company: VBL
+2025-08-29 23:17:06,699 INFO: Successfully saved data for VBL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\VBL.json
+2025-08-29 23:17:06,702 INFO: Fetching data for company: VEDL
+2025-08-29 23:17:08,233 INFO: Successfully saved data for VEDL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\VEDL.json
+2025-08-29 23:17:08,236 INFO: Fetching data for company: WIPRO
+2025-08-29 23:17:09,565 INFO: Successfully saved data for WIPRO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\WIPRO.json
+2025-08-29 23:17:09,567 INFO: Fetching data for company: ZOMATO
+2025-08-29 23:17:10,564 INFO: Successfully saved data for ZOMATO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ZOMATO.json
+2025-08-29 23:17:10,566 INFO: Fetching data for company: ZYDUSLIFE
+2025-08-29 23:17:11,816 INFO: Successfully saved data for ZYDUSLIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ZYDUSLIFE.json
+2025-08-29 23:17:12,992 INFO: Preprocessing complete. Master files saved to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\compiled_output
+2025-08-29 23:17:13,002 INFO: Found 99 JSON files in c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data for ML analysis.
+2025-08-29 23:17:13,022 INFO: Wrote 99 company analyses to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\compiled_output\ml_analysis_results.json
+2025-08-29 23:17:13,106 ERROR: MySQL connection or upsert failed: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '007@127.0.0.1' ([Errno 11003] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-08-30 10:56:28,419 ERROR: MySQL connection or upsert failed: name 'ml_analysis_output' is not defined
+2025-08-30 10:58:22,805 ERROR: MySQL connection or upsert failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 10:58:25,423 ERROR: MySQL connection or upsert failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 10:58:54,527 INFO: Loaded 99 unique company IDs.
+2025-08-30 10:58:54,591 INFO: Fetching data for company: ABB
+2025-08-30 10:58:55,526 INFO: Successfully saved data for ABB to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ABB.json
+2025-08-30 10:58:55,541 INFO: Fetching data for company: ADANIENSOL
+2025-08-30 10:58:56,537 INFO: Successfully saved data for ADANIENSOL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIENSOL.json
+2025-08-30 10:58:56,540 INFO: Fetching data for company: ADANIENT
+2025-08-30 10:58:57,559 INFO: Successfully saved data for ADANIENT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIENT.json
+2025-08-30 10:58:57,559 INFO: Fetching data for company: ADANIGREEN
+2025-08-30 10:58:58,609 INFO: Successfully saved data for ADANIGREEN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIGREEN.json
+2025-08-30 10:58:58,609 INFO: Fetching data for company: ADANIPORTS
+2025-08-30 10:58:59,892 INFO: Successfully saved data for ADANIPORTS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIPORTS.json
+2025-08-30 10:58:59,892 INFO: Fetching data for company: ADANIPOWER
+2025-08-30 10:59:01,016 INFO: Successfully saved data for ADANIPOWER to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ADANIPOWER.json
+2025-08-30 10:59:01,018 INFO: Fetching data for company: AMBUJACEM
+2025-08-30 10:59:02,126 INFO: Successfully saved data for AMBUJACEM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\AMBUJACEM.json
+2025-08-30 10:59:02,126 INFO: Fetching data for company: APOLLOHOSP
+2025-08-30 10:59:03,091 INFO: Successfully saved data for APOLLOHOSP to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\APOLLOHOSP.json
+2025-08-30 10:59:03,091 INFO: Fetching data for company: ASIANPAINT
+2025-08-30 10:59:04,209 INFO: Successfully saved data for ASIANPAINT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ASIANPAINT.json
+2025-08-30 10:59:04,209 INFO: Fetching data for company: ATGL
+2025-08-30 10:59:05,176 INFO: Successfully saved data for ATGL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ATGL.json
+2025-08-30 10:59:05,176 INFO: Fetching data for company: AXISBANK
+2025-08-30 10:59:06,456 INFO: Successfully saved data for AXISBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\AXISBANK.json
+2025-08-30 10:59:06,458 INFO: Fetching data for company: BAJAJ-AUTO
+2025-08-30 10:59:07,576 INFO: Successfully saved data for BAJAJ-AUTO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJAJ-AUTO.json
+2025-08-30 10:59:07,578 INFO: Fetching data for company: BAJAJFINSV
+2025-08-30 10:59:08,692 INFO: Successfully saved data for BAJAJFINSV to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJAJFINSV.json
+2025-08-30 10:59:08,692 INFO: Fetching data for company: BAJAJHLDNG
+2025-08-30 10:59:09,717 INFO: Successfully saved data for BAJAJHLDNG to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJAJHLDNG.json
+2025-08-30 10:59:09,719 INFO: Fetching data for company: BAJFINANCE
+2025-08-30 10:59:10,775 INFO: Successfully saved data for BAJFINANCE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BAJFINANCE.json
+2025-08-30 10:59:10,775 INFO: Fetching data for company: BANKBARODA
+2025-08-30 10:59:11,893 INFO: Successfully saved data for BANKBARODA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BANKBARODA.json
+2025-08-30 10:59:11,893 INFO: Fetching data for company: BEL
+2025-08-30 10:59:13,018 INFO: Successfully saved data for BEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BEL.json
+2025-08-30 10:59:13,019 INFO: Fetching data for company: BHARTIARTL
+2025-08-30 10:59:13,962 INFO: Successfully saved data for BHARTIARTL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BHARTIARTL.json
+2025-08-30 10:59:13,962 INFO: Fetching data for company: BHEL
+2025-08-30 10:59:15,075 INFO: Successfully saved data for BHEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BHEL.json
+2025-08-30 10:59:15,077 INFO: Fetching data for company: BOSCHLTD
+2025-08-30 10:59:16,060 INFO: Successfully saved data for BOSCHLTD to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BOSCHLTD.json
+2025-08-30 10:59:16,060 INFO: Fetching data for company: BPCL
+2025-08-30 10:59:17,327 INFO: Successfully saved data for BPCL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BPCL.json
+2025-08-30 10:59:17,327 INFO: Fetching data for company: BRITANNIA
+2025-08-30 10:59:18,443 INFO: Successfully saved data for BRITANNIA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\BRITANNIA.json
+2025-08-30 10:59:18,458 INFO: Fetching data for company: CANBK
+2025-08-30 10:59:19,578 INFO: Successfully saved data for CANBK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\CANBK.json
+2025-08-30 10:59:19,580 INFO: Fetching data for company: CHOLAFIN
+2025-08-30 10:59:20,537 INFO: Successfully saved data for CHOLAFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\CHOLAFIN.json
+2025-08-30 10:59:20,539 INFO: Fetching data for company: CIPLA
+2025-08-30 10:59:21,499 INFO: Successfully saved data for CIPLA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\CIPLA.json
+2025-08-30 10:59:21,499 INFO: Fetching data for company: COALINDIA
+2025-08-30 10:59:22,393 INFO: Successfully saved data for COALINDIA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\COALINDIA.json
+2025-08-30 10:59:22,393 INFO: Fetching data for company: DABUR
+2025-08-30 10:59:23,270 INFO: Successfully saved data for DABUR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DABUR.json
+2025-08-30 10:59:23,272 INFO: Fetching data for company: DLF
+2025-08-30 10:59:24,378 INFO: Successfully saved data for DLF to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DLF.json
+2025-08-30 10:59:24,380 INFO: Fetching data for company: DMART
+2025-08-30 10:59:25,495 INFO: Successfully saved data for DMART to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DMART.json
+2025-08-30 10:59:25,497 INFO: Fetching data for company: DRREDDY
+2025-08-30 10:59:26,611 INFO: Successfully saved data for DRREDDY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\DRREDDY.json
+2025-08-30 10:59:26,611 INFO: Fetching data for company: EICHERMOT
+2025-08-30 10:59:27,727 INFO: Successfully saved data for EICHERMOT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\EICHERMOT.json
+2025-08-30 10:59:27,742 INFO: Fetching data for company: GAIL
+2025-08-30 10:59:28,876 INFO: Successfully saved data for GAIL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\GAIL.json
+2025-08-30 10:59:28,878 INFO: Fetching data for company: GODREJCP
+2025-08-30 10:59:29,977 INFO: Successfully saved data for GODREJCP to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\GODREJCP.json
+2025-08-30 10:59:29,979 INFO: Fetching data for company: GRASIM
+2025-08-30 10:59:31,104 INFO: Successfully saved data for GRASIM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\GRASIM.json
+2025-08-30 10:59:31,105 INFO: Fetching data for company: HAL
+2025-08-30 10:59:32,377 INFO: Successfully saved data for HAL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HAL.json
+2025-08-30 10:59:32,377 INFO: Fetching data for company: HAVELLS
+2025-08-30 10:59:33,497 INFO: Successfully saved data for HAVELLS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HAVELLS.json
+2025-08-30 10:59:33,498 INFO: Fetching data for company: HCLTECH
+2025-08-30 10:59:34,778 INFO: Successfully saved data for HCLTECH to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HCLTECH.json
+2025-08-30 10:59:34,780 INFO: Fetching data for company: HDFCBANK
+2025-08-30 10:59:35,960 INFO: Successfully saved data for HDFCBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HDFCBANK.json
+2025-08-30 10:59:35,960 INFO: Fetching data for company: HDFCLIFE
+2025-08-30 10:59:36,903 INFO: Successfully saved data for HDFCLIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HDFCLIFE.json
+2025-08-30 10:59:36,904 INFO: Fetching data for company: HEROMOTOCO
+2025-08-30 10:59:37,972 INFO: Successfully saved data for HEROMOTOCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HEROMOTOCO.json
+2025-08-30 10:59:37,977 INFO: Fetching data for company: HINDALCO
+2025-08-30 10:59:38,936 INFO: Successfully saved data for HINDALCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HINDALCO.json
+2025-08-30 10:59:38,937 INFO: Fetching data for company: HINDUNILVR
+2025-08-30 10:59:40,058 INFO: Successfully saved data for HINDUNILVR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\HINDUNILVR.json
+2025-08-30 10:59:40,060 INFO: Fetching data for company: ICICIBANK
+2025-08-30 10:59:41,078 INFO: Successfully saved data for ICICIBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIBANK.json
+2025-08-30 10:59:41,079 INFO: Fetching data for company: ICICIGI
+2025-08-30 10:59:42,021 INFO: Successfully saved data for ICICIGI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIGI.json
+2025-08-30 10:59:42,023 INFO: Fetching data for company: ICICIPRULI
+2025-08-30 10:59:42,942 INFO: Successfully saved data for ICICIPRULI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ICICIPRULI.json
+2025-08-30 10:59:42,944 INFO: Fetching data for company: INDIGO
+2025-08-30 10:59:43,816 INFO: Successfully saved data for INDIGO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INDIGO.json
+2025-08-30 10:59:43,817 INFO: Fetching data for company: INDUSINDBK
+2025-08-30 10:59:44,854 INFO: Successfully saved data for INDUSINDBK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INDUSINDBK.json
+2025-08-30 10:59:44,856 INFO: Fetching data for company: INFY
+2025-08-30 10:59:45,747 INFO: Successfully saved data for INFY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\INFY.json
+2025-08-30 10:59:45,747 INFO: Fetching data for company: IOC
+2025-08-30 10:59:46,777 INFO: Successfully saved data for IOC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IOC.json
+2025-08-30 10:59:46,779 INFO: Fetching data for company: IRCTC
+2025-08-30 10:59:47,898 INFO: Successfully saved data for IRCTC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IRCTC.json
+2025-08-30 10:59:47,899 INFO: Fetching data for company: IRFC
+2025-08-30 10:59:49,058 INFO: Successfully saved data for IRFC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\IRFC.json
+2025-08-30 10:59:49,061 INFO: Fetching data for company: ITC
+2025-08-30 10:59:50,036 INFO: Successfully saved data for ITC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ITC.json
+2025-08-30 10:59:50,038 INFO: Fetching data for company: JINDALSTEL
+2025-08-30 10:59:51,062 INFO: Successfully saved data for JINDALSTEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JINDALSTEL.json
+2025-08-30 10:59:51,062 INFO: Fetching data for company: JIOFIN
+2025-08-30 10:59:52,055 INFO: Successfully saved data for JIOFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JIOFIN.json
+2025-08-30 10:59:52,055 INFO: Fetching data for company: JSWENERGY
+2025-08-30 10:59:52,960 INFO: Successfully saved data for JSWENERGY to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JSWENERGY.json
+2025-08-30 10:59:52,960 INFO: Fetching data for company: JSWSTEEL
+2025-08-30 10:59:53,962 INFO: Successfully saved data for JSWSTEEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\JSWSTEEL.json
+2025-08-30 10:59:53,977 INFO: Fetching data for company: KOTAKBANK
+2025-08-30 10:59:55,099 INFO: Successfully saved data for KOTAKBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\KOTAKBANK.json
+2025-08-30 10:59:55,102 INFO: Fetching data for company: LICI
+2025-08-30 10:59:56,214 INFO: Successfully saved data for LICI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LICI.json
+2025-08-30 10:59:56,214 INFO: Fetching data for company: LODHA
+2025-08-30 10:59:57,241 INFO: Successfully saved data for LODHA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LODHA.json
+2025-08-30 10:59:57,244 INFO: Fetching data for company: LT
+2025-08-30 10:59:58,294 INFO: Successfully saved data for LT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LT.json
+2025-08-30 10:59:58,294 INFO: Fetching data for company: LTIM
+2025-08-30 10:59:59,317 INFO: Successfully saved data for LTIM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\LTIM.json
+2025-08-30 10:59:59,327 INFO: Fetching data for company: M&M
+2025-08-30 11:00:00,361 INFO: Successfully saved data for M&M to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\M&M.json
+2025-08-30 11:00:00,378 INFO: Fetching data for company: MARUTI
+2025-08-30 11:00:01,328 INFO: Successfully saved data for MARUTI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\MARUTI.json
+2025-08-30 11:00:01,328 INFO: Fetching data for company: MOTHERSON
+2025-08-30 11:00:02,297 INFO: Successfully saved data for MOTHERSON to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\MOTHERSON.json
+2025-08-30 11:00:02,297 INFO: Fetching data for company: NAUKRI
+2025-08-30 11:00:03,417 INFO: Successfully saved data for NAUKRI to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NAUKRI.json
+2025-08-30 11:00:03,418 INFO: Fetching data for company: NESTLEIND
+2025-08-30 11:00:04,362 INFO: Successfully saved data for NESTLEIND to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NESTLEIND.json
+2025-08-30 11:00:04,362 INFO: Fetching data for company: NHPC
+2025-08-30 11:00:05,334 INFO: Successfully saved data for NHPC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NHPC.json
+2025-08-30 11:00:05,334 INFO: Fetching data for company: NTPC
+2025-08-30 11:00:06,452 INFO: Successfully saved data for NTPC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\NTPC.json
+2025-08-30 11:00:06,452 INFO: Fetching data for company: ONGC
+2025-08-30 11:00:07,415 INFO: Successfully saved data for ONGC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ONGC.json
+2025-08-30 11:00:07,417 INFO: Fetching data for company: PFC
+2025-08-30 11:00:08,513 INFO: Successfully saved data for PFC to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PFC.json
+2025-08-30 11:00:08,513 INFO: Fetching data for company: PIDILITIND
+2025-08-30 11:00:09,497 INFO: Successfully saved data for PIDILITIND to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PIDILITIND.json
+2025-08-30 11:00:09,497 INFO: Fetching data for company: PNB
+2025-08-30 11:00:10,832 INFO: Successfully saved data for PNB to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\PNB.json
+2025-08-30 11:00:10,848 INFO: Fetching data for company: POWERGRID
+2025-08-30 11:00:11,945 INFO: Successfully saved data for POWERGRID to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\POWERGRID.json
+2025-08-30 11:00:11,945 INFO: Fetching data for company: RECLTD
+2025-08-30 11:00:13,166 INFO: Successfully saved data for RECLTD to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\RECLTD.json
+2025-08-30 11:00:13,166 INFO: Fetching data for company: RELIANCE
+2025-08-30 11:00:14,126 INFO: Successfully saved data for RELIANCE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\RELIANCE.json
+2025-08-30 11:00:14,126 INFO: Fetching data for company: SBILIFE
+2025-08-30 11:00:15,328 INFO: Successfully saved data for SBILIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SBILIFE.json
+2025-08-30 11:00:15,328 INFO: Fetching data for company: SBIN
+2025-08-30 11:00:16,362 INFO: Successfully saved data for SBIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SBIN.json
+2025-08-30 11:00:16,362 INFO: Fetching data for company: SHREECEM
+2025-08-30 11:00:17,382 INFO: Successfully saved data for SHREECEM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SHREECEM.json
+2025-08-30 11:00:17,384 INFO: Fetching data for company: SHRIRAMFIN
+2025-08-30 11:00:18,618 INFO: Successfully saved data for SHRIRAMFIN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SHRIRAMFIN.json
+2025-08-30 11:00:18,618 INFO: Fetching data for company: SIEMENS
+2025-08-30 11:00:19,729 INFO: Successfully saved data for SIEMENS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SIEMENS.json
+2025-08-30 11:00:19,729 INFO: Fetching data for company: SUNPHARMA
+2025-08-30 11:00:20,695 INFO: Successfully saved data for SUNPHARMA to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\SUNPHARMA.json
+2025-08-30 11:00:20,697 INFO: Fetching data for company: TATACONSUM
+2025-08-30 11:00:21,875 INFO: Successfully saved data for TATACONSUM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATACONSUM.json
+2025-08-30 11:00:21,877 INFO: Fetching data for company: TATAMOTORS
+2025-08-30 11:00:22,938 INFO: Successfully saved data for TATAMOTORS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATAMOTORS.json
+2025-08-30 11:00:22,941 INFO: Fetching data for company: TATAPOWER
+2025-08-30 11:00:23,898 INFO: Successfully saved data for TATAPOWER to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATAPOWER.json
+2025-08-30 11:00:23,900 INFO: Fetching data for company: TATASTEEL
+2025-08-30 11:00:24,914 INFO: Successfully saved data for TATASTEEL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TATASTEEL.json
+2025-08-30 11:00:24,914 INFO: Fetching data for company: TCS
+2025-08-30 11:00:26,133 INFO: Successfully saved data for TCS to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TCS.json
+2025-08-30 11:00:26,133 INFO: Fetching data for company: TECHM
+2025-08-30 11:00:27,156 INFO: Successfully saved data for TECHM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TECHM.json
+2025-08-30 11:00:27,156 INFO: Fetching data for company: TITAN
+2025-08-30 11:00:28,370 INFO: Successfully saved data for TITAN to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TITAN.json
+2025-08-30 11:00:28,370 INFO: Fetching data for company: TORNTPHARM
+2025-08-30 11:00:29,495 INFO: Successfully saved data for TORNTPHARM to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TORNTPHARM.json
+2025-08-30 11:00:29,498 INFO: Fetching data for company: TRENT
+2025-08-30 11:00:30,615 INFO: Successfully saved data for TRENT to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TRENT.json
+2025-08-30 11:00:30,617 INFO: Fetching data for company: TVSMOTOR
+2025-08-30 11:00:31,562 INFO: Successfully saved data for TVSMOTOR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\TVSMOTOR.json
+2025-08-30 11:00:31,577 INFO: Fetching data for company: ULTRACEMCO
+2025-08-30 11:00:32,529 INFO: Successfully saved data for ULTRACEMCO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ULTRACEMCO.json
+2025-08-30 11:00:32,529 INFO: Fetching data for company: UNIONBANK
+2025-08-30 11:00:33,564 INFO: Successfully saved data for UNIONBANK to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\UNIONBANK.json
+2025-08-30 11:00:33,564 INFO: Fetching data for company: UNITDSPR
+2025-08-30 11:00:34,533 INFO: Successfully saved data for UNITDSPR to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\UNITDSPR.json
+2025-08-30 11:00:34,533 INFO: Fetching data for company: VBL
+2025-08-30 11:00:35,574 INFO: Successfully saved data for VBL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\VBL.json
+2025-08-30 11:00:35,578 INFO: Fetching data for company: VEDL
+2025-08-30 11:00:36,542 INFO: Successfully saved data for VEDL to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\VEDL.json
+2025-08-30 11:00:36,542 INFO: Fetching data for company: WIPRO
+2025-08-30 11:00:37,707 INFO: Successfully saved data for WIPRO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\WIPRO.json
+2025-08-30 11:00:37,707 INFO: Fetching data for company: ZOMATO
+2025-08-30 11:00:38,772 INFO: Successfully saved data for ZOMATO to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ZOMATO.json
+2025-08-30 11:00:38,772 INFO: Fetching data for company: ZYDUSLIFE
+2025-08-30 11:00:39,734 INFO: Successfully saved data for ZYDUSLIFE to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\ZYDUSLIFE.json
+2025-08-30 11:00:41,180 INFO: Preprocessing complete. Master files saved to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\compiled_output
+2025-08-30 11:00:41,182 INFO: Found 99 JSON files in c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data for ML analysis.
+2025-08-30 11:00:41,212 INFO: Wrote 99 company analyses to c:\Users\Chethan\OneDrive\Desktop\Summer\1SDE\ML_Project\production\data\compiled_output\ml_analysis_results.json
+2025-08-30 11:00:41,231 ERROR: MySQL connection or upsert failed: [Errno 2] No such file or directory: 'analysis_output.json'
+2025-08-30 11:02:01,537 ERROR: MySQL connection or upsert failed: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '007@127.0.0.1' ([Errno 11003] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-08-30 11:03:19,280 ERROR: MySQL connection or upsert failed: (pymysql.err.OperationalError) (1045, "Access denied for user '007'@'localhost' (using password: YES)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-08-30 11:07:02,857 INFO: Upserted 99 records into ml.
+2025-08-30 11:07:31,286 INFO: Upserted 99 records into ml.

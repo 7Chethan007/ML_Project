@@ -65,7 +65,7 @@ All logs will be written to `log.txt` and printed in real-time.
 - **Create and populate the `ml` database:**  
   1. Log in to MySQL:
      ```sh
-     mysql -u root -p
+     mysql -u mluser -p
      ```
   2. Create the database:
      ```sql
